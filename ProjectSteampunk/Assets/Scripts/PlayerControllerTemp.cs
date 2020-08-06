@@ -19,6 +19,7 @@ public class PlayerControllerTemp : MonoBehaviour
     [Space]
     [Header("Character Attributes")]
     public float movementBaseSpeed = 1.0f;
+    public Animator animator;
 
     // Start is called before the first frame update
     void Start()
@@ -31,6 +32,7 @@ public class PlayerControllerTemp : MonoBehaviour
     {
         ProcessInput();
         Move();
+        Animate();
     }
 
     void ProcessInput()
@@ -43,6 +45,13 @@ public class PlayerControllerTemp : MonoBehaviour
     void Move()
     {
         rb.velocity = movementDirection * movementSpeed * movementBaseSpeed;
+    }
+
+    void Animate()
+    {
+        animator.SetFloat("Horizontal", movementDirection.x);
+        animator.SetFloat("Vertical", movementDirection.y);
+        animator.SetFloat("Speed", movementSpeed);
     }
 }
 
