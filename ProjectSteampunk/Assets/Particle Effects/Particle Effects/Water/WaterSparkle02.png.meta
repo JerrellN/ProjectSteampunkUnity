@@ -1,115 +1,97 @@
 fileFormatVersion: 2
-guid: 9d992e99e5195824683900d30c80de83
+guid: 6134a4099a7637b438de21c22c0cb552
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -460387045351410250
-    second: Plant2
+      213: 8902613112407498148
+    second: WaterSparkle02_0
   - first:
-      213: 8489912591519513263
-    second: Dead_Leaves
+      213: 2533843788535740206
+    second: WaterSparkle02_1
   - first:
-      213: -6439233969899544067
-    second: Dead_Branch
+      213: -414819236211415840
+    second: WaterSparkle02_2
   - first:
-      213: 6853316077166303748
-    second: Tree_0
+      213: -4237564818913366593
+    second: WaterSparkle02_3
   - first:
-      213: 890538168581521982
-    second: PinkCrystal
+      213: 2297601190043187782
+    second: WaterSparkle02_4
   - first:
-      213: -3271719200141622346
-    second: Tree_Trunk
+      213: -5186601233520179056
+    second: WaterSparkle02_5
   - first:
-      213: 3989492256314319683
-    second: PurpleCrystal
+      213: 3988434590259643373
+    second: WaterSparkle02_6
   - first:
-      213: 4134985361545656292
-    second: Tree_1
+      213: -7753838246039896290
+    second: WaterSparkle02_7
   - first:
-      213: -2239132023957402707
-    second: Flowers
+      213: -348392519694056982
+    second: WaterSparkle02_8
   - first:
-      213: -1165816649824162033
-    second: Plant0
+      213: -3037441127090695932
+    second: WaterSparkle02_9
   - first:
-      213: 9114882230081703057
-    second: GreenCrystal
+      213: -7601436673790749454
+    second: WaterSparkle02_10
   - first:
-      213: 9215512786313620106
-    second: Rocks3
+      213: -3655571341142937452
+    second: WaterSparkle02_11
   - first:
-      213: 5301041172286588592
-    second: Rocks2
+      213: -9155614461378820875
+    second: WaterSparkle02_12
   - first:
-      213: -4627402999667738275
-    second: MidGrass
+      213: -5973780127883979933
+    second: WaterSparkle02_13
   - first:
-      213: -638600259620107443
-    second: TallGrass
+      213: 5941768139362507251
+    second: WaterSparkle02_14
   - first:
-      213: 4827680814667979588
-    second: Plant3
+      213: -1470492509876678045
+    second: WaterSparkle02_15
   - first:
-      213: -3194517145155187987
-    second: Texture
+      213: 1584031615477596345
+    second: WaterSparkle02_16
   - first:
-      213: 8151938923849649606
-    second: Plant1
+      213: 1326354508485650096
+    second: WaterSparkle02_17
   - first:
-      213: 9047708293694226994
-    second: Bush0
+      213: 5449156064712648234
+    second: WaterSparkle02_18
   - first:
-      213: -4490391407209573041
-    second: Bush1
+      213: 8494218476364676626
+    second: WaterSparkle02_19
   - first:
-      213: 183357788102318948
-    second: FloatingRock1
+      213: -9172752025787320032
+    second: WaterSparkle02_20
   - first:
-      213: -6920506189513445143
-    second: FloatingRock0
+      213: -1137665767474689513
+    second: WaterSparkle02_21
   - first:
-      213: 2158454098107832691
-    second: Rocks0
+      213: -7467163454219219450
+    second: WaterSparkle02_22
   - first:
-      213: -8347387847133946873
-    second: Rocks1
+      213: -5022506781756848058
+    second: WaterSparkle02_23
   - first:
-      213: -7077578495685720143
-    second: Water
+      213: 1042376090587510494
+    second: WaterSparkle02_24
   - first:
-      213: -1447273465136800445
-    second: RiverRocks1
+      213: 2305458897405439886
+    second: WaterSparkle02_25
   - first:
-      213: -4074564142938470068
-    second: RiverRocks0
+      213: -4947316002785359258
+    second: WaterSparkle02_26
   - first:
-      213: 2167659861789059491
-    second: Sand
+      213: -354424485669381054
+    second: WaterSparkle02_27
   - first:
-      213: -3942888809728146301
-    second: ForestDecor
+      213: 3924295858558615545
+    second: WaterSparkle02_28
   - first:
-      213: 3644959973693924759
-    second: LightMoss
-  - first:
-      213: -2727699785648066001
-    second: Grass
-  - first:
-      213: 8064241651352189370
-    second: Shrooms
-  - first:
-      213: -3041122813463313049
-    second: Seeds
-  - first:
-      213: 5250667609105839656
-    second: Moss0
-  - first:
-      213: 6650886463427039622
-    second: Moss1
-  - first:
-      213: -3122546279906646863
-    second: Moss2
+      213: -7416140695677739247
+    second: WaterSparkle02_29
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -266,13 +248,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Plant2
+      name: WaterSparkle02_0
       rect:
         serializedVersion: 2
-        x: 395
-        y: 458
-        width: 38
-        height: 41
+        x: 0
+        y: 121
+        width: 17
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -280,20 +262,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e086edfeed680a149bc3ae35f3f2cdfc
-      internalID: -460387045351410250
+      spriteID: 295e374e4c0940e44823428e596cd91d
+      internalID: 8902613112407498148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_Leaves
+      name: WaterSparkle02_1
       rect:
         serializedVersion: 2
-        x: 452
-        y: 449
-        width: 188
-        height: 183
+        x: 37
+        y: 121
+        width: 17
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -301,20 +283,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee94353794f221841a323dacb9db2db7
-      internalID: 8489912591519513263
+      spriteID: 1fdc02cb51555e34692686c0ab199f85
+      internalID: 2533843788535740206
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_Branch
+      name: WaterSparkle02_2
       rect:
         serializedVersion: 2
-        x: 394
-        y: 391
-        width: 45
-        height: 50
+        x: 76
+        y: 121
+        width: 18
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,20 +304,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2b0e1be1826eb844ab6c445d3307d2f
-      internalID: -6439233969899544067
+      spriteID: 89c5692b295d9f3469bb24e26dc47a91
+      internalID: -414819236211415840
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tree_0
+      name: WaterSparkle02_3
       rect:
         serializedVersion: 2
-        x: 449
-        y: 329
-        width: 63
-        height: 116
+        x: 2
+        y: 113
+        width: 18
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -343,20 +325,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34bac0b284500e241822cd16ecdbec3c
-      internalID: 6853316077166303748
+      spriteID: 5f6c6baef9f93014a8f8ad7be6c909ec
+      internalID: -4237564818913366593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PinkCrystal
+      name: WaterSparkle02_4
       rect:
         serializedVersion: 2
-        x: 389
-        y: 323
-        width: 54
-        height: 57
+        x: 42
+        y: 112
+        width: 19
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -364,20 +346,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfd2e55a148961243bac9acca8d545c2
-      internalID: 890538168581521982
+      spriteID: 51ab743598009984689da528858626a6
+      internalID: 2297601190043187782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tree_Trunk
+      name: WaterSparkle02_5
       rect:
         serializedVersion: 2
-        x: 514
-        y: 321
-        width: 61
-        height: 59
+        x: 79
+        y: 112
+        width: 19
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -385,20 +367,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ef89432c56d05c4fb99858efdc077df
-      internalID: -3271719200141622346
+      spriteID: 89f159cfe3ab88345816778b504c2a07
+      internalID: -5186601233520179056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PurpleCrystal
+      name: WaterSparkle02_6
       rect:
         serializedVersion: 2
-        x: 391
-        y: 260
-        width: 54
-        height: 57
+        x: 6
+        y: 105
+        width: 23
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,20 +388,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 025552aa737efd147af5f47c233fc86c
-      internalID: 3989492256314319683
+      spriteID: edfae8f8d6fd50d429fefbff5cfb793d
+      internalID: 3988434590259643373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tree_1
+      name: WaterSparkle02_7
       rect:
         serializedVersion: 2
-        x: 460
-        y: 260
-        width: 109
-        height: 56
+        x: 43
+        y: 105
+        width: 23
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -427,20 +409,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f352c6715a135b946a2587f36d06d590
-      internalID: 4134985361545656292
+      spriteID: acc03ff4f297d9645b94cb6900a2f24c
+      internalID: -7753838246039896290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flowers
+      name: WaterSparkle02_8
       rect:
         serializedVersion: 2
-        x: 390
-        y: 200
-        width: 51
-        height: 39
+        x: 80
+        y: 105
+        width: 27
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,20 +430,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c965e51dd87631347a79efbe5abc80ba
-      internalID: -2239132023957402707
+      spriteID: d1ffa0f338f967b4a98d06662581409b
+      internalID: -348392519694056982
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plant0
+      name: WaterSparkle02_9
       rect:
         serializedVersion: 2
-        x: 452
-        y: 193
-        width: 54
-        height: 54
+        x: 6
+        y: 97
+        width: 27
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -469,20 +451,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c45ea5ebe59198f4e8052882e1880941
-      internalID: -1165816649824162033
+      spriteID: 6bb01b90e0b106547b51822db1e087dd
+      internalID: -3037441127090695932
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GreenCrystal
+      name: WaterSparkle02_10
       rect:
         serializedVersion: 2
-        x: 518
-        y: 196
-        width: 54
-        height: 57
+        x: 46
+        y: 97
+        width: 28
+        height: 3
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -490,20 +472,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b1db78f2b29dec4981dc18fd893a319
-      internalID: 9114882230081703057
+      spriteID: d3cb8e622ec9cd54482a7f27ee42a01f
+      internalID: -7601436673790749454
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rocks3
+      name: WaterSparkle02_11
       rect:
         serializedVersion: 2
-        x: 387
-        y: 6
-        width: 124
-        height: 185
+        x: 83
+        y: 97
+        width: 28
+        height: 3
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -511,20 +493,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9565912845c3eb48b2511272fe73ed7
-      internalID: 9215512786313620106
+      spriteID: a010a6e884b6e354f99c3a82dffec385
+      internalID: -3655571341142937452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rocks2
+      name: WaterSparkle02_12
       rect:
         serializedVersion: 2
-        x: 513
-        y: 64
-        width: 64
-        height: 126
+        x: 14
+        y: 89
+        width: 22
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -532,20 +514,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61a86f8b5d2772b4e85d1a0f3e97ce22
-      internalID: 5301041172286588592
+      spriteID: 6e374f5fe7f53de4d9e687961d46d408
+      internalID: -9155614461378820875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MidGrass
+      name: WaterSparkle02_13
       rect:
         serializedVersion: 2
-        x: 257
-        y: 580
-        width: 60
-        height: 59
+        x: 51
+        y: 89
+        width: 22
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -553,20 +535,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a60d3ba7e1560b246876b11c496931fd
-      internalID: -4627402999667738275
+      spriteID: 969b0e38f361a5e47b51f25c7659abb3
+      internalID: -5973780127883979933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TallGrass
+      name: WaterSparkle02_14
       rect:
         serializedVersion: 2
-        x: 330
-        y: 517
-        width: 44
-        height: 101
+        x: 92
+        y: 89
+        width: 14
+        height: 3
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -574,20 +556,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1882baeea802244884281d4e6553b90
-      internalID: -638600259620107443
+      spriteID: f34730a8c0deb114a9444c9432a83ed6
+      internalID: 5941768139362507251
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plant3
+      name: WaterSparkle02_15
       rect:
         serializedVersion: 2
-        x: 327
-        y: 455
-        width: 50
-        height: 48
+        x: 18
+        y: 81
+        width: 14
+        height: 3
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -595,20 +577,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88e7d9793165b5245bd12fb7bd21b570
-      internalID: 4827680814667979588
+      spriteID: 147a9ef22a19cb5429a9e8aa8ee267a0
+      internalID: -1470492509876678045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Texture
+      name: WaterSparkle02_16
       rect:
         serializedVersion: 2
-        x: 335
-        y: 413
-        width: 16
-        height: 16
+        x: 58
+        y: 82
+        width: 7
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -616,20 +598,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03baa49dc8f85f1429569f9634bb5976
-      internalID: -3194517145155187987
+      spriteID: 4166604b0eb5c8645b291e4a17d703de
+      internalID: 1584031615477596345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Plant1
+      name: WaterSparkle02_17
       rect:
         serializedVersion: 2
-        x: 318
-        y: 323
-        width: 64
-        height: 61
+        x: 95
+        y: 82
+        width: 7
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -637,20 +619,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d85e2655ab2eec743b4a182f106bdb53
-      internalID: 8151938923849649606
+      spriteID: f69e603e540baed4da36afb6b2f1b2e5
+      internalID: 1326354508485650096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bush0
+      name: WaterSparkle02_18
       rect:
         serializedVersion: 2
-        x: 265
-        y: 256
-        width: 114
-        height: 61
+        x: 21
+        y: 74
+        width: 7
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -658,20 +640,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 613d8ec9a28818646b7dd029d77f80f3
-      internalID: 9047708293694226994
+      spriteID: 1fd7b430677475b4088d7ab0d38f003b
+      internalID: 5449156064712648234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bush1
+      name: WaterSparkle02_19
       rect:
         serializedVersion: 2
-        x: 259
-        y: 192
-        width: 124
-        height: 61
+        x: 58
+        y: 74
+        width: 7
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -679,20 +661,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b968bf1451cf0c8438f9cc534440df9e
-      internalID: -4490391407209573041
+      spriteID: a71059dea85f64d44a548a9cf0f3a419
+      internalID: 8494218476364676626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloatingRock1
+      name: WaterSparkle02_20
       rect:
         serializedVersion: 2
-        x: 12
-        y: 143
-        width: 40
-        height: 31
+        x: 94
+        y: 74
+        width: 7
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -700,20 +682,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c485e98bb7eee894891e1f2b979fd19a
-      internalID: 183357788102318948
+      spriteID: c7af5008aa312ac49a05d73a99f89c5d
+      internalID: -9172752025787320032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloatingRock0
+      name: WaterSparkle02_21
       rect:
         serializedVersion: 2
-        x: 12
-        y: 80
-        width: 42
-        height: 31
+        x: 20
+        y: 66
+        width: 7
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -721,41 +703,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea527330f9bf277488bd1340f717229b
-      internalID: -6920506189513445143
+      spriteID: 636fdcfd0411a2745bb0cacdfa883edb
+      internalID: -1137665767474689513
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rocks0
+      name: WaterSparkle02_22
       rect:
         serializedVersion: 2
-        x: 66
-        y: 1
-        width: 57
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9593842ea63e40c4daa1f0aaab62dd35
-      internalID: 2158454098107832691
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rocks1
-      rect:
-        serializedVersion: 2
-        x: 65
+        x: 52
         y: 65
-        width: 64
-        height: 64
+        width: 12
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -763,20 +724,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 064efd6e2e9e86c43af323c4b0167eeb
-      internalID: -8347387847133946873
+      spriteID: 0817fee1a6d59e148b806c43a397e0c1
+      internalID: -7467163454219219450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water
+      name: WaterSparkle02_23
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
-        width: 64
-        height: 64
+        x: 89
+        y: 65
+        width: 12
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -784,20 +745,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c21e17399abbdb7489857e867658ae26
-      internalID: -7077578495685720143
+      spriteID: ba037cf5d7c972741918fc8278ff7579
+      internalID: -5022506781756848058
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverRocks1
+      name: WaterSparkle02_24
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 128
-        height: 192
+        x: 10
+        y: 57
+        width: 13
+        height: 3
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -805,20 +766,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b075c587b4786a340a5777c86ae1de76
-      internalID: -1447273465136800445
+      spriteID: 390274f66b2fc294eba941d479f5792b
+      internalID: 1042376090587510494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RiverRocks0
+      name: WaterSparkle02_25
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
-        width: 128
-        height: 192
+        x: 47
+        y: 57
+        width: 14
+        height: 3
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -826,20 +787,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 379e09ebbfaea3b4e977cd4cee3b2616
-      internalID: -4074564142938470068
+      spriteID: 7907565ec0a907a4db4f310af5b52329
+      internalID: 2305458897405439886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sand
+      name: WaterSparkle02_26
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
-        width: 128
-        height: 64
+        x: 82
+        y: 57
+        width: 14
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -847,20 +808,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65f3b1ee0da03874aababab226915012
-      internalID: 2167659861789059491
+      spriteID: daa381e0a18273e4fb01ca52abc3c14e
+      internalID: -4947316002785359258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ForestDecor
+      name: WaterSparkle02_27
       rect:
         serializedVersion: 2
-        x: 71
-        y: 272
-        width: 54
-        height: 32
+        x: 7
+        y: 49
+        width: 15
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -868,20 +829,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0383242bd91ddd345803e77c81f27e7d
-      internalID: -3942888809728146301
+      spriteID: 3728d43890f9fb14a8502e6beffef258
+      internalID: -354424485669381054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightMoss
+      name: WaterSparkle02_28
       rect:
         serializedVersion: 2
-        x: 258
-        y: 526
-        width: 59
-        height: 38
+        x: 44
+        y: 49
+        width: 13
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -889,20 +850,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24d943e56183ba940bd5b6fef6eed5e2
-      internalID: 3644959973693924759
+      spriteID: bcde41cca2e76654da360e89b17cba96
+      internalID: 3924295858558615545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass
+      name: WaterSparkle02_29
       rect:
         serializedVersion: 2
-        x: 259
-        y: 458
-        width: 59
-        height: 48
+        x: 81
+        y: 49
+        width: 13
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -910,113 +871,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 560eac8180e21fe4f8a9e4666d9c32fb
-      internalID: -2727699785648066001
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Shrooms
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 399
-        width: 49
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1eb187442dd8be47a06617ca577620c
-      internalID: 8064241651352189370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Seeds
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 342
-        width: 29
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f323f2b5c100afa4ebf2c94186c64d37
-      internalID: -3041122813463313049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Moss0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb73078aa5edc6248ac07db31396a160
-      internalID: 5250667609105839656
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Moss1
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 256
-        width: 125
-        height: 379
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 49e681da58bef134eb70cd5766b31698
-      internalID: 6650886463427039622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Moss2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 320
-        width: 128
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3934a9447daee114f87089dc4aabd62d
-      internalID: -3122546279906646863
+      spriteID: 4f7aafc54edbca643b84280107ff379a
+      internalID: -7416140695677739247
       vertices: []
       indices: 
       edges: []

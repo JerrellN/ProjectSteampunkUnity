@@ -1,133 +1,109 @@
 fileFormatVersion: 2
-guid: 9c8f21ce4f17a7d4695bf86cfc86b233
+guid: c3f8c5c0847d3d44c8070eebf9fcf6d4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9077189457252604642
-    second: TallGrassChop_0
+      213: 7276606971410536706
+    second: WaterRipple01_0
   - first:
-      213: -4770365311793228518
-    second: TallGrassChop_1
+      213: 5651448055565265656
+    second: WaterRipple01_1
   - first:
-      213: 2430116811884747452
-    second: TallGrassChop_2
+      213: -8943296508278982759
+    second: WaterRipple01_2
   - first:
-      213: 4262702356360718809
-    second: TallGrassChop_3
+      213: -4025956254531157357
+    second: WaterRipple01_3
   - first:
-      213: 7686750712730977049
-    second: TallGrassChop_4
+      213: -7496375524027071023
+    second: WaterRipple01_4
   - first:
-      213: 8307349005118565401
-    second: TallGrassChop_10
+      213: 6525335769058578633
+    second: WaterRipple01_5
   - first:
-      213: 8719037071654559003
-    second: TallGrassChop_11
+      213: 2381213411531043813
+    second: WaterRipple01_6
   - first:
-      213: 2318579471779831623
-    second: TallGrassChop_12
+      213: -1481699735285667148
+    second: WaterRipple01_7
   - first:
-      213: -5763405334743950231
-    second: TallGrassChop_13
+      213: 769763572206709473
+    second: WaterRipple01_8
   - first:
-      213: -6529100932800535732
-    second: TallGrassChop_14
+      213: -7819097655013334806
+    second: WaterRipple01_9
   - first:
-      213: 2264741080008464877
-    second: TallGrassChop_5
+      213: 4489198577650245023
+    second: WaterRipple01_10
   - first:
-      213: 2264756272350347796
-    second: TallGrassChop_6
+      213: -7241498361657507997
+    second: WaterRipple01_11
   - first:
-      213: 1475668688367937311
-    second: TallGrassChop_7
+      213: 160723238768452831
+    second: WaterRipple01_12
   - first:
-      213: -2589134540928784933
-    second: TallGrassChop_8
+      213: -2889566137766166928
+    second: WaterRipple01_13
   - first:
-      213: -6551831062635216162
-    second: TallGrassChop_9
+      213: -8614997998387684531
+    second: WaterRipple01_14
   - first:
-      213: -7008928084026332060
-    second: TallGrassChop_15
+      213: -7359535618312248812
+    second: WaterRipple01_15
   - first:
-      213: -2071210607314788532
-    second: TallGrassChop_16
+      213: 5471034146688464736
+    second: WaterRipple01_16
   - first:
-      213: -2046676949237251364
-    second: TallGrassChop_17
+      213: 2913742635024483939
+    second: WaterRipple01_17
   - first:
-      213: -2119304742537971733
-    second: TallGrassChop_42
+      213: -1294862894558264877
+    second: WaterRipple01_18
   - first:
-      213: -7560990072215505001
-    second: TallGrassChop_18
+      213: -7994479685576975700
+    second: WaterRipple01_19
   - first:
-      213: 7301366178052481520
-    second: TallGrassChop_44
+      213: 1968768944196590129
+    second: WaterRipple01_20
   - first:
-      213: 1477771825246317579
-    second: TallGrassChop_19
+      213: 1544685764158149191
+    second: WaterRipple01_21
   - first:
-      213: -1385022606812342935
-    second: TallGrassChop_20
+      213: 7171173790097615402
+    second: WaterRipple01_22
   - first:
-      213: -21243984640408117
-    second: TallGrassChop_21
+      213: -2773638312633296201
+    second: WaterRipple01_23
   - first:
-      213: -1939611361152474460
-    second: TallGrassChop_22
+      213: -1732111097300128993
+    second: WaterRipple01_24
   - first:
-      213: 1473407101989578104
-    second: TallGrassChop_23
+      213: 8246257810810103416
+    second: WaterRipple01_25
   - first:
-      213: 7128829264401613700
-    second: TallGrassChop_24
+      213: 5139110103279105831
+    second: WaterRipple01_26
   - first:
-      213: -375282472737011187
-    second: TallGrassChop_25
+      213: 5716320477296743445
+    second: WaterRipple01_27
   - first:
-      213: 5313117516621643690
-    second: TallGrassChop_26
+      213: -1666989002811820241
+    second: WaterRipple01_28
   - first:
-      213: -7896262409385928566
-    second: TallGrassChop_27
+      213: -2709350063828322607
+    second: WaterRipple01_29
   - first:
-      213: -8015353373986589915
-    second: TallGrassChop_28
+      213: 1442583957887880977
+    second: WaterRipple01_30
   - first:
-      213: -7598789793247360050
-    second: TallGrassChop_29
+      213: -1623984006333541085
+    second: WaterRipple01_31
   - first:
-      213: -1873479030569046854
-    second: TallGrassChop_30
+      213: 3466779545577461182
+    second: WaterRipple01_32
   - first:
-      213: 1872894771047074358
-    second: TallGrassChop_31
-  - first:
-      213: 2557056347407032410
-    second: TallGrassChop_32
-  - first:
-      213: 4220179167519009589
-    second: TallGrassChop_33
-  - first:
-      213: -8154396026018081540
-    second: TallGrassChop_34
-  - first:
-      213: 8106235540701259236
-    second: TallGrassChop_35
-  - first:
-      213: -8667856625970056771
-    second: TallGrassChop_36
-  - first:
-      213: -7132153448042905198
-    second: TallGrassChop_37
-  - first:
-      213: -4886304810831497734
-    second: TallGrassChop_38
-  - first:
-      213: -4407309183102400525
-    second: TallGrassChop_39
+      213: -7688652720947871576
+    second: WaterRipple01_33
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -284,841 +260,715 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TallGrassChop_0
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 399
-        width: 45
-        height: 102
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e529ea637779694aa6d1d7b85e7156c
-      internalID: 9077189457252604642
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_1
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 399
-        width: 45
-        height: 102
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a217ded22183bae45b4f79dd3bc8d02c
-      internalID: -4770365311793228518
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_2
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 399
-        width: 45
-        height: 102
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8dccaf535bfce0743b5a7f3dabde4788
-      internalID: 2430116811884747452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_3
-      rect:
-        serializedVersion: 2
-        x: 190
-        y: 399
-        width: 46
-        height: 102
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 535d82973700cf0478e31b90e2e5fac1
-      internalID: 4262702356360718809
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_4
-      rect:
-        serializedVersion: 2
-        x: 250
-        y: 399
-        width: 47
-        height: 102
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e61235e4bd26f2e4c9259337dbcb5294
-      internalID: 7686750712730977049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_10
-      rect:
-        serializedVersion: 2
-        x: 620
-        y: 399
-        width: 61
-        height: 110
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 80658a451ec62d7488de014c274b9587
-      internalID: 8307349005118565401
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_11
-      rect:
-        serializedVersion: 2
-        x: 683
-        y: 402
-        width: 59
-        height: 105
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4522b23474d6ec342ac47e85e747d51f
-      internalID: 8719037071654559003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_12
-      rect:
-        serializedVersion: 2
-        x: 744
-        y: 399
-        width: 61
-        height: 108
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ee45beccd2385648aac26444a744347
-      internalID: 2318579471779831623
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_13
-      rect:
-        serializedVersion: 2
-        x: 804
-        y: 402
-        width: 61
-        height: 67
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87b642e50a9172a43bdfb40f83450578
-      internalID: -5763405334743950231
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_14
-      rect:
-        serializedVersion: 2
-        x: 869
-        y: 401
-        width: 61
-        height: 67
-      alignment: 9
-      pivot: {x: 0.500001, y: 0.5000005}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ae5553c4178de84f8c83f340dfa6ec4
-      internalID: -6529100932800535732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_5
-      rect:
-        serializedVersion: 2
-        x: 309
-        y: 399
-        width: 55
-        height: 108
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd6558825bec1214085301555f857384
-      internalID: 2264741080008464877
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_6
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 399
-        width: 55
-        height: 109
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71b7e3cef3c757143b16030c6d862c24
-      internalID: 2264756272350347796
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_7
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 399
-        width: 60
-        height: 109
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4a87809af113b74289834d93874a000
-      internalID: 1475668688367937311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_8
-      rect:
-        serializedVersion: 2
-        x: 501
-        y: 399
-        width: 53
-        height: 109
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 42031554625dff348b951a9fafc68206
-      internalID: -2589134540928784933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_9
-      rect:
-        serializedVersion: 2
-        x: 557
-        y: 399
-        width: 62
-        height: 108
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7923baec74e91d44d93827f60ae9e8bc
-      internalID: -6551831062635216162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_15
-      rect:
-        serializedVersion: 2
-        x: 931
-        y: 403
-        width: 61
-        height: 51
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a9525a380035724e9f89f69647a9212
-      internalID: -7008928084026332060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_16
+      name: WaterRipple01_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 283
-        width: 61
-        height: 51
+        y: 117
+        width: 59
+        height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9327a074a11911640a239d4184aed943
-      internalID: -2071210607314788532
+      spriteID: 0cb6894a21e9d4e4081231251b6ea094
+      internalID: 7276606971410536706
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TallGrassChop_17
+      name: WaterRipple01_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 117
+        width: 60
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbfc098eb967974a848821dcb20bcce
+      internalID: 5651448055565265656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 116
+        width: 57
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d6288c9f3461d479dc65d280758a81
+      internalID: -8943296508278982759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 116
+        width: 57
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a868236f7e0dc4c44a6e48c1c71ffe90
+      internalID: -4025956254531157357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 104
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2895c081a3fb62b4bb0bb563c9bb2f7f
+      internalID: -7496375524027071023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 104
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f36a5fe8d6634b419b3c9d61185e388
+      internalID: 6525335769058578633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 105
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb23ed3a66fe64188d56142c560974
+      internalID: 2381213411531043813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 105
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb1471a6451d36478ee1a661b55f5bd
+      internalID: -1481699735285667148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 92
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f8292045355b748a7d5da4435d3198
+      internalID: 769763572206709473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 92
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f159432c75ca140892927d4c0fec0a
+      internalID: -7819097655013334806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 93
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3354e49eb2e996c4f9f67afb15781a9e
+      internalID: 4489198577650245023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 93
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b125b203883685645a683554f8c71fa7
+      internalID: -7241498361657507997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 82
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58e142f52d46cf48aa544c199c80e58
+      internalID: 160723238768452831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 82
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b96b9df860916540ac1acea5aec8916
+      internalID: -2889566137766166928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 82
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea1e7a62d9cd0f4eac3403b7ddbe0b0
+      internalID: -8614997998387684531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 82
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95128e7cdf559874f8d03ad38fd82aff
+      internalID: -7359535618312248812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 69
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78ba1cecdf1a434893e7e491aaa5553
+      internalID: 5471034146688464736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806aae9318487e14597cb9d38539994a
+      internalID: 2913742635024483939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 69
+        width: 49
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c6922a15428f34889647c53e975822
+      internalID: -1294862894558264877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 69
+        width: 49
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4c6853c55b64349b5a643e95209e82
+      internalID: -7994479685576975700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 57
+        width: 51
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4f70c748681c54089574e2d7bde517
+      internalID: 1968768944196590129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 57
+        width: 51
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1910ea7cddd9645a4db521b5b217c1
+      internalID: 1544685764158149191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 56
+        width: 58
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6504febda2ed04482b1e9cff26cce1
+      internalID: 7171173790097615402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 56
+        width: 58
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ec2737f081bab41852f9be9c432bcf
+      internalID: -2773638312633296201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 60
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7255a7ef95730b649bee80803db1e0be
+      internalID: -1732111097300128993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_25
       rect:
         serializedVersion: 2
         x: 62
-        y: 283
-        width: 61
-        height: 51
+        y: 45
+        width: 62
+        height: 5
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23b0475860aaf2a4595222f13e8b54e8
-      internalID: -2046676949237251364
+      spriteID: a0cc4a8037a29684d9f72c2a45ba63ea
+      internalID: 8246257810810103416
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TallGrassChop_18
+      name: WaterRipple01_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 44
+        width: 61
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64fa23a1fe3cea4d8b0c77b4a837289
+      internalID: 5139110103279105831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_27
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 44
+        width: 59
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783e4079bbfd58a4ca42c1a51ef9a688
+      internalID: 5716320477296743445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 58
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec38b04dad3126a418aa12ce73e93fd4
+      internalID: -1666989002811820241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 33
+        width: 57
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2473686eab5f0b740918882776645dba
+      internalID: -2709350063828322607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterRipple01_30
       rect:
         serializedVersion: 2
         x: 125
-        y: 283
-        width: 61
-        height: 51
+        y: 33
+        width: 54
+        height: 3
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b54a11d90504fe54badd0dc395529995
-      internalID: -7560990072215505001
+      spriteID: 3bc60676cd7e5b2459c05d5397dee80e
+      internalID: 1442583957887880977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TallGrassChop_19
+      name: WaterRipple01_31
       rect:
         serializedVersion: 2
-        x: 187
-        y: 283
-        width: 61
-        height: 52
+        x: 186
+        y: 33
+        width: 53
+        height: 3
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbc5fe250fda2674aa7a1f1d2cc35a63
-      internalID: 1477771825246317579
+      spriteID: eab023da6a8c2624ab091fb752a8257b
+      internalID: -1623984006333541085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TallGrassChop_20
+      name: WaterRipple01_32
       rect:
         serializedVersion: 2
-        x: 249
-        y: 283
-        width: 61
-        height: 52
+        x: 6
+        y: 22
+        width: 48
+        height: 2
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16d7d21ddc8fb284c9de823372d6d322
-      internalID: -1385022606812342935
+      spriteID: 0d339e6327117e741b2d2b55c93123e5
+      internalID: 3466779545577461182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TallGrassChop_21
-      rect:
-        serializedVersion: 2
-        x: 311
-        y: 284
-        width: 61
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c37055491bbd2f45a16d9c517eab94d
-      internalID: -21243984640408117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_22
-      rect:
-        serializedVersion: 2
-        x: 373
-        y: 283
-        width: 61
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d436dcbd4b86f242ac47ebd4a40cfe3
-      internalID: -1939611361152474460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_23
-      rect:
-        serializedVersion: 2
-        x: 434
-        y: 282
-        width: 61
-        height: 53
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 95a7ab2bfc553944c9c47bf6b05c3dfe
-      internalID: 1473407101989578104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_24
-      rect:
-        serializedVersion: 2
-        x: 498
-        y: 282
-        width: 61
-        height: 53
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 90f955e7c6f9ce74284f191d3550aa67
-      internalID: 7128829264401613700
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_25
-      rect:
-        serializedVersion: 2
-        x: 557
-        y: 282
-        width: 61
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c660329e26e27e84a81b77d6195066ff
-      internalID: -375282472737011187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_26
-      rect:
-        serializedVersion: 2
-        x: 621
-        y: 283
-        width: 61
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 748c1b1e9e580bf49ace878293cff577
-      internalID: 5313117516621643690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_27
-      rect:
-        serializedVersion: 2
-        x: 683
-        y: 283
-        width: 61
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 066318272e376a34fabcef324a4366e8
-      internalID: -7896262409385928566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_28
-      rect:
-        serializedVersion: 2
-        x: 745
-        y: 283
-        width: 61
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 46416665941b49d45a60527d50500af2
-      internalID: -8015353373986589915
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_29
-      rect:
-        serializedVersion: 2
-        x: 808
-        y: 283
-        width: 61
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41203516695358e4e836b97a485a67c6
-      internalID: -7598789793247360050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_30
-      rect:
-        serializedVersion: 2
-        x: 869
-        y: 283
-        width: 61
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f41e3beb4898184419cdd42cd48c2fd3
-      internalID: -1873479030569046854
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_31
-      rect:
-        serializedVersion: 2
-        x: 935
-        y: 286
-        width: 45
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 36f4fef6017f5374b8c8614e81359063
-      internalID: 1872894771047074358
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_32
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 170
-        width: 47
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a15f5de359ce4e45b44207722084331
-      internalID: 2557056347407032410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_33
+      name: WaterRipple01_33
       rect:
         serializedVersion: 2
         x: 67
-        y: 168
-        width: 44
-        height: 52
+        y: 22
+        width: 48
+        height: 2
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cde091fd6c648f478d6d3bca8bf64d8
-      internalID: 4220179167519009589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_34
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 170
-        width: 43
-        height: 67
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 53d15e05a3100bf40a844f8bd801955c
-      internalID: -8154396026018081540
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_35
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 169
-        width: 46
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27ab7afaf6f61e3418420b62793bd03b
-      internalID: 8106235540701259236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_36
-      rect:
-        serializedVersion: 2
-        x: 253
-        y: 170
-        width: 47
-        height: 91
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84853a2b29f2eae439bc8e69a58ca9b5
-      internalID: -8667856625970056771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_37
-      rect:
-        serializedVersion: 2
-        x: 316
-        y: 169
-        width: 50
-        height: 105
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7c3b81e73b9cbc044ac791a7f4c86515
-      internalID: -7132153448042905198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_38
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 167
-        width: 45
-        height: 102
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ade50d0c6b46b134799ad932eb8780a0
-      internalID: -4886304810831497734
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TallGrassChop_39
-      rect:
-        serializedVersion: 2
-        x: 442
-        y: 169
-        width: 45
-        height: 102
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3105425629f83ab40a0a8b7ef44a8117
-      internalID: -4407309183102400525
+      spriteID: 27e068462080d054cb6ff1947e667d40
+      internalID: -7688652720947871576
       vertices: []
       indices: 
       edges: []
