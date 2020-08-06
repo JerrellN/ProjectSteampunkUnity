@@ -52,6 +52,7 @@ public class PlayerControllerTemp : MonoBehaviour
         animator.SetFloat("Horizontal", movementDirection.x);
         animator.SetFloat("Vertical", movementDirection.y);
         animator.SetFloat("Speed", movementSpeed);
+        //animator.speed = movementSpeed;
     }
 }
 
