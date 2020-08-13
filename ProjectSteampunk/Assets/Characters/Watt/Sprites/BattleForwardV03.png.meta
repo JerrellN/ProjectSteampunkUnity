@@ -1,7 +1,172 @@
 fileFormatVersion: 2
 guid: 99f5945b7b8cc284783e08b65f281126
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7753934726707081135
+    second: BattleForwardV03_0
+  - first:
+      213: 3144017382232189030
+    second: BattleForwardV03_1
+  - first:
+      213: -2393788288600139760
+    second: BattleForwardV03_2
+  - first:
+      213: 3094431863932060141
+    second: BattleForwardV03_3
+  - first:
+      213: 650364229396133283
+    second: BattleForwardV03_4
+  - first:
+      213: 3055044003779396545
+    second: BattleForwardV03_5
+  - first:
+      213: -813169588344400465
+    second: BattleForwardV03_6
+  - first:
+      213: 6728835175560806378
+    second: BattleForwardV03_7
+  - first:
+      213: 6272434717697353333
+    second: BattleForwardV03_8
+  - first:
+      213: -6726704187235948146
+    second: BattleForwardV03_9
+  - first:
+      213: -6306337617829207842
+    second: BattleForwardV03_10
+  - first:
+      213: -2086312095597803617
+    second: BattleForwardV03_11
+  - first:
+      213: -2856706024135635174
+    second: BattleForwardV03_12
+  - first:
+      213: -46503148075705044
+    second: BattleForwardV03_13
+  - first:
+      213: -7283546538963104180
+    second: BattleForwardV03_14
+  - first:
+      213: 8570016535578036320
+    second: BattleForwardV03_15
+  - first:
+      213: 3335639215741309978
+    second: BattleForwardV03_16
+  - first:
+      213: 9023404972992896260
+    second: BattleForwardV03_17
+  - first:
+      213: 8777604587568044513
+    second: BattleForwardV03_18
+  - first:
+      213: 8470557671026815858
+    second: BattleForwardV03_19
+  - first:
+      213: -8055441024875089256
+    second: BattleForwardV03_20
+  - first:
+      213: -7547874481030522568
+    second: BattleForwardV03_21
+  - first:
+      213: -1757990009963398554
+    second: BattleForwardV03_22
+  - first:
+      213: 5932223478313856678
+    second: BattleForwardV03_23
+  - first:
+      213: -9060298382375389251
+    second: BattleForwardV03_24
+  - first:
+      213: 4598171039034230033
+    second: BattleForwardV03_25
+  - first:
+      213: 8586391243748888527
+    second: BattleForwardV03_26
+  - first:
+      213: -5571760183161951063
+    second: BattleForwardV03_27
+  - first:
+      213: 9133742490785059452
+    second: BattleForwardV03_28
+  - first:
+      213: -1899642749472639122
+    second: BattleForwardV03_29
+  - first:
+      213: -4759307550758143043
+    second: BattleForwardV03_30
+  - first:
+      213: -1075769615487498211
+    second: BattleForwardV03_31
+  - first:
+      213: 4090985984697159184
+    second: BattleForwardV03_32
+  - first:
+      213: 511669702207179699
+    second: BattleForwardV03_33
+  - first:
+      213: 8882163290943266017
+    second: BattleForwardV03_34
+  - first:
+      213: 1874115868175053195
+    second: BattleForwardV03_35
+  - first:
+      213: -2214952146931675530
+    second: BattleForwardV03_36
+  - first:
+      213: 2092015650499476509
+    second: BattleForwardV03_37
+  - first:
+      213: -6163641016190800478
+    second: BattleForwardV03_38
+  - first:
+      213: 1684420586546310343
+    second: BattleForwardV03_39
+  - first:
+      213: -1006473908152946868
+    second: BattleForwardV03_40
+  - first:
+      213: -3512994329728901548
+    second: BattleForwardV03_41
+  - first:
+      213: 6417296122672659196
+    second: BattleForwardV03_42
+  - first:
+      213: -2712629352081583739
+    second: BattleForwardV03_43
+  - first:
+      213: -5215223987624031655
+    second: BattleForwardV03_44
+  - first:
+      213: -858965856356412773
+    second: BattleForwardV03_45
+  - first:
+      213: 5843420257482036101
+    second: BattleForwardV03_46
+  - first:
+      213: 1798143458481820630
+    second: BattleForwardV03_47
+  - first:
+      213: -8941260328339520685
+    second: BattleForwardV03_48
+  - first:
+      213: -2231403271272242068
+    second: BattleForwardV03_49
+  - first:
+      213: -8370291408546050536
+    second: BattleForwardV03_50
+  - first:
+      213: 7345081695200604302
+    second: BattleForwardV03_51
+  - first:
+      213: -4673160500444096031
+    second: BattleForwardV03_52
+  - first:
+      213: 6661856101731661506
+    second: BattleForwardV03_53
+  - first:
+      213: 3554956799446548927
+    second: BattleForwardV03_54
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +205,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +235,1236 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: BattleForwardV03_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 883
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5466e3ba2cfcb049bb31ffb418a2395
+      internalID: 7753934726707081135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 883
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14210a4ecd1d6694fb4faf6389550fcc
+      internalID: 3144017382232189030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 883
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e21eb8730055645a3be39baf2b3b7f
+      internalID: -2393788288600139760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 883
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694761481aad47044b0458974042facc
+      internalID: 3094431863932060141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_4
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 883
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e982e0e62df3446bcffb61a1092eea
+      internalID: 650364229396133283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_5
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 883
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fe47607ac5f3642aa041e29f03a386
+      internalID: 3055044003779396545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_6
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 883
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff5be15c2ee45d4594f67da79ef9f16
+      internalID: -813169588344400465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_7
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 882
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33e328ddf94f5f459628f2c2c24c4f5
+      internalID: 6728835175560806378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_8
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 887
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2256c528ee0412e45a60bdcb45a3a53e
+      internalID: 6272434717697353333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_9
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 882
+        width: 37
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bf72783bb036a478d7998f8d4f3dd0
+      internalID: -6726704187235948146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_10
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 878
+        width: 34
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32b009ad82e90f42ab62c55fc1fe604
+      internalID: -6306337617829207842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_11
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 877
+        width: 35
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8470c0e52af5ed749a64da0d979b773f
+      internalID: -2086312095597803617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 707
+        width: 34
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd62eeeee9fedf44b697ead90ba34a1
+      internalID: -2856706024135635174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 707
+        width: 32
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e3d9ea0dfac7b45a703304fb46162c
+      internalID: -46503148075705044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 709
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df86897187512f341b55cd1e1c127206
+      internalID: -7283546538963104180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_15
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 709
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a0b0885a19ba24aaaa186a8dd688ca
+      internalID: 8570016535578036320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_16
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 716
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ede28b7559c2348bebae01c2528dd5
+      internalID: 3335639215741309978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_17
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 713
+        width: 49
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e931be6ce68fc9b4fa0744aa8c364046
+      internalID: 9023404972992896260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_18
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 706
+        width: 59
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f387376a3dc6a0b4484253d420caf0d3
+      internalID: 8777604587568044513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_19
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 707
+        width: 55
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e45e3f101ef09a46833368874a31c18
+      internalID: 8470557671026815858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_20
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 710
+        width: 41
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c603bb3b7ac2cd74fa8baf02c6d5f38b
+      internalID: -8055441024875089256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_21
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 712
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561438deb3c77f7459cab7186b015075
+      internalID: -7547874481030522568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_22
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 723
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cefda77e5fbc6645847d2964c39ffc6
+      internalID: -1757990009963398554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_23
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 689
+        width: 46
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500f1921535716a4ab219f61aece854f
+      internalID: 5932223478313856678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_24
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 684
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddf63eacb28ead499719eff4623872d
+      internalID: -9060298382375389251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_25
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 704
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f096712d4b3f4449674c5015372e01
+      internalID: 4598171039034230033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 520
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab90e86cd59e86b438c2d42e80a9f7c3
+      internalID: 8586391243748888527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 536
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9323acbe24abb5644bbe7eb7b6a57193
+      internalID: -5571760183161951063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 544
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0abf7b5c7aece489cba07c81717b2b
+      internalID: 9133742490785059452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_29
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 543
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05da3936aafac5247a71d03fb8132254
+      internalID: -1899642749472639122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_30
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 527
+        width: 67
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdcae9a1962f9b4c92a170f5c6f137f
+      internalID: -4759307550758143043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_31
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 528
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4878a981cb28aed4e8a4da7ea4768c04
+      internalID: -1075769615487498211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_32
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 530
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9e9b7a62626704bb98adca784581f2
+      internalID: 4090985984697159184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_33
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 554
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe5a6ac81dadcc419a03b3da6d9726c
+      internalID: 511669702207179699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_34
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 532
+        width: 46
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db9ccfbc6cf92f4ea28b9705f9ff3d1
+      internalID: 8882163290943266017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_35
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 576
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4022a9979a7ab847af297987a5e35b5
+      internalID: 1874115868175053195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_36
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 564
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cea06003ab80f49a0946446c5b9625
+      internalID: -2214952146931675530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_37
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 534
+        width: 39
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103337a956b538541af276087716921e
+      internalID: 2092015650499476509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_38
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 538
+        width: 35
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b791db274bb09840864124fa17c7f7e
+      internalID: -6163641016190800478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_39
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 541
+        width: 50
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfeefa44de20294896a459ddb856d58
+      internalID: 1684420586546310343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_40
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 542
+        width: 45
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a51ba5a4158a424aaaa2c748590fab1
+      internalID: -1006473908152946868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_41
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 570
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7c6ef8151bfd14495e00fe9e4cc23b
+      internalID: -3512994329728901548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_42
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 562
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f4a145778606e40b740002e2c7ee33
+      internalID: 6417296122672659196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_43
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 553
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4765fcf2b0718624b9c2bfdd818b8826
+      internalID: -2712629352081583739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_44
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 367
+        width: 47
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffb475e5864c7b4b8976a48681a7628
+      internalID: -5215223987624031655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 361
+        width: 38
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9414a772256f3d942ba33c356eef89b2
+      internalID: -858965856356412773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_46
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 374
+        width: 39
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed735082b7f06544964d73d07d1fd18
+      internalID: 5843420257482036101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_47
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 373
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d40c8fafd05b1a41b8ed9dc0bab8ec6
+      internalID: 1798143458481820630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_48
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 373
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a997626a9a92604594cfcf2881a630f
+      internalID: -8941260328339520685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_49
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 372
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72ef64a1f71ee34fb670f40099d6662
+      internalID: -2231403271272242068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_50
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 372
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7051e29bbf6e9464eafbeef565da31f1
+      internalID: -8370291408546050536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_51
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 372
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b661081502e5a7a458aef9509a9b7944
+      internalID: 7345081695200604302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_52
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 372
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77848001583118e4ca71adfef01af713
+      internalID: -4673160500444096031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_53
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 372
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ea1077f1b848840b598f2d4171e39a
+      internalID: 6661856101731661506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleForwardV03_54
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 372
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca66a63d58c4464a90d0ff235b73a7e
+      internalID: 3554956799446548927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

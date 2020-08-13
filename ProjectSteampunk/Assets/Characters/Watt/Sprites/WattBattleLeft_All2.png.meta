@@ -1,0 +1,1747 @@
+fileFormatVersion: 2
+guid: 7234fb24bc9c5424794b8336079c5e83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4619973441732797438
+    second: WattBattleLeft_All2_0
+  - first:
+      213: -288316000874765365
+    second: WattBattleLeft_All2_1
+  - first:
+      213: 596687735459291105
+    second: WattBattleLeft_All2_2
+  - first:
+      213: 2911874633125805329
+    second: WattBattleLeft_All2_3
+  - first:
+      213: 3317020663934476239
+    second: WattBattleLeft_All2_4
+  - first:
+      213: 2772983773718180860
+    second: WattBattleLeft_All2_5
+  - first:
+      213: -6577416329212091542
+    second: WattBattleLeft_All2_6
+  - first:
+      213: 5603368526099254386
+    second: WattBattleLeft_All2_7
+  - first:
+      213: 8646242367173220988
+    second: WattBattleLeft_All2_8
+  - first:
+      213: -3355515571561619785
+    second: WattBattleLeft_All2_9
+  - first:
+      213: 5494391952383019267
+    second: WattBattleLeft_All2_10
+  - first:
+      213: 3545661665350012678
+    second: WattBattleLeft_All2_11
+  - first:
+      213: -450594775955286511
+    second: WattBattleLeft_All2_12
+  - first:
+      213: 3976048434851351686
+    second: WattBattleLeft_All2_13
+  - first:
+      213: -1603648403476424910
+    second: WattBattleLeft_All2_14
+  - first:
+      213: -494876733176806321
+    second: WattBattleLeft_All2_15
+  - first:
+      213: 6053509616908858176
+    second: WattBattleLeft_All2_16
+  - first:
+      213: 6449464767656760245
+    second: WattBattleLeft_All2_17
+  - first:
+      213: -4062546583337013880
+    second: WattBattleLeft_All2_18
+  - first:
+      213: 8107673797106051782
+    second: WattBattleLeft_All2_19
+  - first:
+      213: 6347316208945545604
+    second: WattBattleLeft_All2_20
+  - first:
+      213: 8048520182820513901
+    second: WattBattleLeft_All2_21
+  - first:
+      213: -1295769726982784116
+    second: WattBattleLeft_All2_22
+  - first:
+      213: -5164958149196115171
+    second: WattBattleLeft_All2_23
+  - first:
+      213: -1393112542847290639
+    second: WattBattleLeft_All2_24
+  - first:
+      213: -7556113485178632564
+    second: WattBattleLeft_All2_25
+  - first:
+      213: -6057620206030256409
+    second: WattBattleLeft_All2_26
+  - first:
+      213: 2463856449792935749
+    second: WattBattleLeft_All2_27
+  - first:
+      213: 788370581212166217
+    second: WattBattleLeft_All2_28
+  - first:
+      213: 2515649772009166835
+    second: WattBattleLeft_All2_29
+  - first:
+      213: 6631049116075117372
+    second: WattBattleLeft_All2_30
+  - first:
+      213: -2624931865293111627
+    second: WattBattleLeft_All2_31
+  - first:
+      213: -2596147566844109200
+    second: WattBattleLeft_All2_32
+  - first:
+      213: -8744853922716754975
+    second: WattBattleLeft_All2_33
+  - first:
+      213: -8315820823828029349
+    second: WattBattleLeft_All2_34
+  - first:
+      213: 993835681257268579
+    second: WattBattleLeft_All2_35
+  - first:
+      213: 8254255708248074854
+    second: WattBattleLeft_All2_36
+  - first:
+      213: 7915966569031098253
+    second: WattBattleLeft_All2_37
+  - first:
+      213: -1413171833132606524
+    second: WattBattleLeft_All2_38
+  - first:
+      213: -5268291127938306901
+    second: WattBattleLeft_All2_39
+  - first:
+      213: 1038258314638710563
+    second: WattBattleLeft_All2_40
+  - first:
+      213: 6229647801955878591
+    second: WattBattleLeft_All2_41
+  - first:
+      213: 4713939429913794623
+    second: WattBattleLeft_All2_42
+  - first:
+      213: -5600729774277672999
+    second: WattBattleLeft_All2_43
+  - first:
+      213: 4467872843145596311
+    second: WattBattleLeft_All2_44
+  - first:
+      213: 3106630946532693807
+    second: WattBattleLeft_All2_45
+  - first:
+      213: -5268526854217598976
+    second: WattBattleLeft_All2_46
+  - first:
+      213: 3829813131049469418
+    second: WattBattleLeft_All2_47
+  - first:
+      213: 926879734124490348
+    second: WattBattleLeft_All2_48
+  - first:
+      213: 8828891280390005030
+    second: WattBattleLeft_All2_49
+  - first:
+      213: 6260156349195700905
+    second: WattBattleLeft_All2_50
+  - first:
+      213: -9066209249951937127
+    second: WattBattleLeft_All2_51
+  - first:
+      213: 609212696520670736
+    second: WattBattleLeft_All2_52
+  - first:
+      213: -5341890263621678304
+    second: WattBattleLeft_All2_53
+  - first:
+      213: -1566402298948703505
+    second: WattBattleLeft_All2_54
+  - first:
+      213: 6748400637198493835
+    second: WattBattleLeft_All2_55
+  - first:
+      213: 5276441104218233108
+    second: WattBattleLeft_All2_56
+  - first:
+      213: 3275753415189470810
+    second: WattBattleLeft_All2_57
+  - first:
+      213: 8978668513886554793
+    second: WattBattleLeft_All2_58
+  - first:
+      213: -4221615507975558414
+    second: WattBattleLeft_All2_59
+  - first:
+      213: 3494942119971793133
+    second: WattBattleLeft_All2_60
+  - first:
+      213: 8671218357207819925
+    second: WattBattleLeft_All2_61
+  - first:
+      213: -573111971381190698
+    second: WattBattleLeft_All2_62
+  - first:
+      213: -1672955894254659562
+    second: WattBattleLeft_All2_63
+  - first:
+      213: 870638138295120499
+    second: WattBattleLeft_All2_64
+  - first:
+      213: 9000528381732274755
+    second: WattBattleLeft_All2_65
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1928
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14002ed63d25614595a456a521e6234
+      internalID: 4619973441732797438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1928
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4424a1f65c95c4db21677866092a29
+      internalID: -288316000874765365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1928
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959f1223f53a079468bf022cbab69b9c
+      internalID: 596687735459291105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_3
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1928
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a477e5a7b8dac46478801363504d2a63
+      internalID: 2911874633125805329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_4
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1928
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b9d6688be74494291011fee3e0ddaf
+      internalID: 3317020663934476239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_5
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1928
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436c70cc53ac90f4bb57c751ccfb45e2
+      internalID: 2772983773718180860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_6
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1928
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb7091a387d54446858754bd07c15de
+      internalID: -6577416329212091542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_7
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1928
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2210d1e93c66704e9c701ef0a2a1539
+      internalID: 5603368526099254386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_8
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1927
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1488d37c33eb1c64da0d25a95909e06a
+      internalID: 8646242367173220988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_9
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1927
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c26e5dc33a36f43b284bc6522aa1e8
+      internalID: -3355515571561619785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1739
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020eee9ab4913e246bf1898a4b97b268
+      internalID: 5494391952383019267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1739
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86faf68aa74cde1469d0ccd9ebcae5d9
+      internalID: 3545661665350012678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1739
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9768ce725e3f64f92717db77150d66
+      internalID: -450594775955286511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1739
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc50cfc1d0860a744a7870d94567f7bc
+      internalID: 3976048434851351686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_14
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1738
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db697cbbe43556438001e51791a0e78
+      internalID: -1603648403476424910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_15
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1738
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cb1718a5abea5439445f259cec9cd6
+      internalID: -494876733176806321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_16
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1738
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bafaa9d92d06ff4fb92e756b02b394a
+      internalID: 6053509616908858176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_17
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1738
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e52d12afc87a524e8ffd660583715e4
+      internalID: 6449464767656760245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_18
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1738
+        width: 41
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992b3007f4544e04b8c23855a9f8ca03
+      internalID: -4062546583337013880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_19
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1738
+        width: 41
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb8d4dc9ebb0cf41ba7f0fd3e47059d
+      internalID: 8107673797106051782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1545
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f830b3acca44bd48ad89b5e8e093d36
+      internalID: 6347316208945545604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1545
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df0840a0cd8f2e4a97cc1c0c492d870
+      internalID: 8048520182820513901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1544
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbd9b589dca8de4d9a38b8475ad217c
+      internalID: -1295769726982784116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_23
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1544
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c7045ff6a0c794493aa5227aed1477
+      internalID: -5164958149196115171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_24
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1544
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e86c38a35ed15443b179dfed631d89c
+      internalID: -1393112542847290639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_25
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1544
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89f5b6957d0f504d856de27a8038e90
+      internalID: -7556113485178632564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_26
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1544
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd5e79e36fdcaf459eaff544277e793
+      internalID: -6057620206030256409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_27
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1544
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e68e439767c09544ae2c951fd702879
+      internalID: 2463856449792935749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_28
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1515
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bdcc88658a9fa4f8f5f58a788deb67
+      internalID: 788370581212166217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_29
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1515
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a081ff1aca809d4a895936cff3b8ba9
+      internalID: 2515649772009166835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1355
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c0a63d0613e59448dbce74790494c5
+      internalID: 6631049116075117372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_31
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1355
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76f20d9bb67d1d4c949d8ab3e5a580a
+      internalID: -2624931865293111627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_32
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1361
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b162ada9f46e8647b6b58af06866fca
+      internalID: -2596147566844109200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_33
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1361
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980d1084d6eb9f5489bf901576cb996c
+      internalID: -8744853922716754975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_34
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1353
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f8bc8b3c895fd4d99e82724f1d1e12
+      internalID: -8315820823828029349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_35
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1353
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7265c226679bb043ab1fc8b7cf27592
+      internalID: 993835681257268579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_36
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1346
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00f2da97b073d44aa5892ce9f648fe9
+      internalID: 8254255708248074854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_37
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1346
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a692ab0d2a0264ebf957c79e91bf14
+      internalID: 7915966569031098253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_38
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1362
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bc6fd1cb465bd43b4512e1ceea59ac
+      internalID: -1413171833132606524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_39
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1362
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fae60c4710c90439981ca97de80d63
+      internalID: -5268291127938306901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1174
+        width: 30
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa5904b21c92d6499da53747b80c8d1
+      internalID: 1038258314638710563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_41
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1174
+        width: 30
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a5e48a7dd65744389632ab2f77ee71
+      internalID: 6229647801955878591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_42
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1175
+        width: 31
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15fd8a506fd44c4b964e8b22c70a76d
+      internalID: 4713939429913794623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1175
+        width: 31
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e73ad6d0de7fa4b8c920db573d35d2
+      internalID: -5600729774277672999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_44
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1174
+        width: 30
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f830fa62423f3941a0c20c92a2fce86
+      internalID: 4467872843145596311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_45
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1174
+        width: 30
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daec293c38fdfc54f8bd0e948e8dac55
+      internalID: 3106630946532693807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_46
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1175
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a748cda7e50934f805f0ad6c618616
+      internalID: -5268526854217598976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_47
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1175
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72404b41d68d56488607a4bcd1c6393
+      internalID: 3829813131049469418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_48
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1176
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b031078f46d111449867000614c9702e
+      internalID: 926879734124490348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_49
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1176
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4a59b36fa1bee4a882c20e453ce5f2
+      internalID: 8828891280390005030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_50
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 989
+        width: 19
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011277f1c411f334fb2d14fbee48d8ce
+      internalID: 6260156349195700905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 989
+        width: 19
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b2c0f87a6783e4c8d2f0ad2a118db7
+      internalID: -9066209249951937127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_52
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 989
+        width: 19
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1884fe89b006294bb83df451bcfbd62
+      internalID: 609212696520670736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_53
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 989
+        width: 19
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06301178efb7324f86e3e7310b73044
+      internalID: -5341890263621678304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_54
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 988
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99d205d77d1aa44eb209975991629ff
+      internalID: -1566402298948703505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_55
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 988
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb22c625a8f2b45b046acfc461c71a
+      internalID: 6748400637198493835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_56
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 987
+        width: 21
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a1ef36f1d77cb47a0eeb30ed71eff6
+      internalID: 5276441104218233108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_57
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 987
+        width: 21
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc67522a33ea1cb47b250982af0037c6
+      internalID: 3275753415189470810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_58
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 987
+        width: 22
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2197a37440ca44eaefac784af109eb
+      internalID: 8978668513886554793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_59
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 987
+        width: 22
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9181405d9a9dd564d8e64c0c15ccf79c
+      internalID: -4221615507975558414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_60
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 799
+        width: 22
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a985b2ee181e1934892f85fce3e1cae2
+      internalID: 3494942119971793133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_61
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 799
+        width: 22
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f836caac80efbce4e9c8c53f85f691b0
+      internalID: 8671218357207819925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_62
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 799
+        width: 20
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db89c844dc858ca4f90e3eaa09d5b9cf
+      internalID: -573111971381190698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_63
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 799
+        width: 21
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fb77f0dfa108c4fa9f107cdc6e732a
+      internalID: -1672955894254659562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_64
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 799
+        width: 20
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8cd614f6c51374291b07534fc51192
+      internalID: 870638138295120499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattBattleLeft_All2_65
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 799
+        width: 20
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348eb71327a5da34da926d1aca6ef840
+      internalID: 9000528381732274755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
