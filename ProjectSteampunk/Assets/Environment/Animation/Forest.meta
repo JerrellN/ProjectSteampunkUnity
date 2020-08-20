@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: cbe076983fc4bae43819f917812267ad
+=======
+guid: 4261a77f233a63e469bd74ef7cfbb763
+>>>>>>> Tilemapping-practice
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
