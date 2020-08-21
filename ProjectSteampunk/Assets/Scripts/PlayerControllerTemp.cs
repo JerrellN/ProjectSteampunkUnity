@@ -20,6 +20,7 @@ public class PlayerControllerTemp : MonoBehaviour
     public float aimingBasePenalty = .5f;
     public float attackTimer = 0.0f;
     public float attackingTime = 1.0f;
+    public int hitNo = 0;
 
     [Space]
     [Header("References")]
@@ -51,7 +52,7 @@ public class PlayerControllerTemp : MonoBehaviour
         Move();
         Animate();
         Aim();
-        Shoot();
+        Attack();
     }
 
     void ProcessInput()
@@ -91,13 +92,40 @@ public class PlayerControllerTemp : MonoBehaviour
 
         if (isAttacking)
         {
-            animator.SetBool("isAttacking", true);
+            StartCoroutine(Combo());
+            if (hitNo == 1)
+            {
+                animator.SetBool("IsAttacking", true);
+                animator.SetInteger("attackNo", 1);
+            }
+            else if (hitNo == 2)
+            {
+                animator.SetBool("IsAttacking", true);
+                animator.SetInteger("attackNo", 2);
+            }
+            else if (hitNo > 2)
+            {
+                hitNo = 0;
+                animator.SetBool("IsAttacking", true);
+                animator.SetInteger("attackNo", 1);
+            }
         }
         else
         {
             animator.SetBool("IsAttacking", false);
+            animator.SetBool("IsAttacking", false);
         }
     }
+
+    public IEnumerator Combo()
+    {
+        hitNo += 1;
+
+        yield return new WaitForSeconds(0.5f);
+
+        hitNo = 0;
+    }
+
 
     void Aim()
     {
@@ -108,14 +136,14 @@ public class PlayerControllerTemp : MonoBehaviour
         }
     }
 
-    void Shoot()
+    void Attack()
     {
-        Vector2 shootDirection = crossHair.transform.localPosition;
-        shootDirection.Normalize();
+        Vector2 attackDirection = crossHair.transform.localPosition;
+        attackDirection.Normalize();
 
         if (endOfAiming)
         {
-            GameObject arrow = Instantiate(attackPrefab, transform.position, Quaternion.identity);
+            GameObject attack = Instantiate(attackPrefab, transform.position, Quaternion.identity);
         }
     }
 }
