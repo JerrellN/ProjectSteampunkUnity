@@ -17,9 +17,11 @@ public class PlayerControllerTemp : MonoBehaviour
     public float crossHair_Distance = 1.0f;
     public bool endOfAiming;
     public bool isAttacking;
-    public float aimingBasePenalty = .5f;
+    public bool attack;
+    public float AttackPenalty = 0f;
     public float attackTimer = 0.0f;
     public float attackingTime = 1.0f;
+    public int hitNo = 0;
 
     [Space]
     [Header("References")]
@@ -29,7 +31,6 @@ public class PlayerControllerTemp : MonoBehaviour
 
     [Space]
     [Header("Prefabs")]
-    public GameObject attackPrefab;
 
 
     [Space]
@@ -51,22 +52,34 @@ public class PlayerControllerTemp : MonoBehaviour
         Move();
         Animate();
         Aim();
-        Shoot();
+        Attack();
+        if (this.animator.GetCurrentAnimatorStateInfo(0).IsName("FirstSwing"))
+        {
+            isAttacking = true;
+        }
+        else
+        {
+            isAttacking = false;
+        }
     }
 
     void ProcessInput()
     {
-        movementDirection = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-        movementSpeed = Mathf.Clamp(movementDirection.magnitude, 0.0f, 1.0f);
-        movementDirection.Normalize();
+        
 
         endOfAiming = Input.GetButton("Fire1");
-        isAttacking = Input.GetButton("Fire1");
+        attack = Input.GetButton("Fire1");
 
         if (isAttacking)
         {
-            movementSpeed *= aimingBasePenalty;
+            movementSpeed *= AttackPenalty;
             attackTimer = attackingTime;
+        }
+        else
+        {
+            movementSpeed = Mathf.Clamp(movementDirection.magnitude, 0.0f, 1.0f);
+            movementDirection = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
+            movementDirection.Normalize();
         }
         if (attackTimer > 0.0f)
         {
@@ -89,15 +102,42 @@ public class PlayerControllerTemp : MonoBehaviour
         }
         animator.SetFloat("Speed", movementSpeed);
 
-        if (isAttacking)
+        if (attack)
         {
-            animator.SetBool("isAttacking", true);
+            StartCoroutine(Combo());
+            if (hitNo == 1)
+            {
+                animator.SetBool("IsAttacking", true);
+                animator.SetInteger("attackNo", 1);
+            }
+            else if (hitNo == 2)
+            {
+                animator.SetBool("IsAttacking", true);
+                animator.SetInteger("attackNo", 2);
+            }
+            else if (hitNo > 2)
+            {
+                hitNo = 0;
+                animator.SetBool("IsAttacking", true);
+                animator.SetInteger("attackNo", 1);
+            }
         }
         else
         {
             animator.SetBool("IsAttacking", false);
+            animator.SetBool("IsAttacking", false);
         }
     }
+
+    public IEnumerator Combo()
+    {
+        hitNo += 1;
+
+        yield return new WaitForSeconds(0.5f);
+
+        hitNo = 0;
+    }
+
 
     void Aim()
     {
@@ -108,15 +148,10 @@ public class PlayerControllerTemp : MonoBehaviour
         }
     }
 
-    void Shoot()
+    void Attack()
     {
-        Vector2 shootDirection = crossHair.transform.localPosition;
-        shootDirection.Normalize();
-
-        if (endOfAiming)
-        {
-            GameObject arrow = Instantiate(attackPrefab, transform.position, Quaternion.identity);
-        }
+        Vector2 attackDirection = crossHair.transform.localPosition;
+        attackDirection.Normalize();
     }
 }
 
