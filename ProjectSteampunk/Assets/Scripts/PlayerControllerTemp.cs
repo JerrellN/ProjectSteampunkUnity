@@ -17,7 +17,8 @@ public class PlayerControllerTemp : MonoBehaviour
     public float crossHair_Distance = 1.0f;
     public bool endOfAiming;
     public bool isAttacking;
-    public float aimingBasePenalty = .5f;
+    public bool attack;
+    public float AttackPenalty = 0f;
     public float attackTimer = 0.0f;
     public float attackingTime = 1.0f;
     public int hitNo = 0;
@@ -30,7 +31,6 @@ public class PlayerControllerTemp : MonoBehaviour
 
     [Space]
     [Header("Prefabs")]
-    public GameObject attackPrefab;
 
 
     [Space]
@@ -53,21 +53,33 @@ public class PlayerControllerTemp : MonoBehaviour
         Animate();
         Aim();
         Attack();
+        if (this.animator.GetCurrentAnimatorStateInfo(0).IsName("FirstSwing"))
+        {
+            isAttacking = true;
+        }
+        else
+        {
+            isAttacking = false;
+        }
     }
 
     void ProcessInput()
     {
-        movementDirection = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-        movementSpeed = Mathf.Clamp(movementDirection.magnitude, 0.0f, 1.0f);
-        movementDirection.Normalize();
+        
 
         endOfAiming = Input.GetButton("Fire1");
-        isAttacking = Input.GetButton("Fire1");
+        attack = Input.GetButton("Fire1");
 
         if (isAttacking)
         {
-            movementSpeed *= aimingBasePenalty;
+            movementSpeed *= AttackPenalty;
             attackTimer = attackingTime;
+        }
+        else
+        {
+            movementSpeed = Mathf.Clamp(movementDirection.magnitude, 0.0f, 1.0f);
+            movementDirection = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
+            movementDirection.Normalize();
         }
         if (attackTimer > 0.0f)
         {
@@ -90,7 +102,7 @@ public class PlayerControllerTemp : MonoBehaviour
         }
         animator.SetFloat("Speed", movementSpeed);
 
-        if (isAttacking)
+        if (attack)
         {
             StartCoroutine(Combo());
             if (hitNo == 1)
@@ -140,11 +152,6 @@ public class PlayerControllerTemp : MonoBehaviour
     {
         Vector2 attackDirection = crossHair.transform.localPosition;
         attackDirection.Normalize();
-
-        if (endOfAiming)
-        {
-            GameObject attack = Instantiate(attackPrefab, transform.position, Quaternion.identity);
-        }
     }
 }
 
