@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:ProjectSteampunk/Assets/Characters/Watt/Animations/Dodging.meta
 guid: a5fe9144a2acc82479f88afadc489d41
-=======
-guid: 5d80728de24705d4cb436381ecf597e7
->>>>>>> walk-with-diagonal-and-attack:ProjectSteampunk/Assets/Characters/Watt/Animations/Attacking/Away/sequence.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
