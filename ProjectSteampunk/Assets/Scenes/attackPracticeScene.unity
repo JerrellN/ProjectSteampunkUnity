@@ -130,6 +130,7 @@ GameObject:
   m_Component:
   - component: {fileID: 17454390}
   - component: {fileID: 17454391}
+  - component: {fileID: 17454392}
   m_Layer: 0
   m_Name: botrightFirstHitBox
   m_TagString: damageBox
@@ -186,6 +187,27 @@ PolygonCollider2D:
       - {x: 0.6068976, y: -0.47455677}
       - {x: 0.38404354, y: -0.2336789}
       - {x: 0.024123736, y: 0.29946113}
+--- !u!50 &17454392
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 17454389}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &291702239
 GameObject:
   m_ObjectHideFlags: 0
@@ -374,6 +396,7 @@ GameObject:
   m_Component:
   - component: {fileID: 333984944}
   - component: {fileID: 333984945}
+  - component: {fileID: 333984946}
   m_Layer: 0
   m_Name: leftFirstHitBox
   m_TagString: damageBox
@@ -405,7 +428,7 @@ PolygonCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -428,6 +451,27 @@ PolygonCollider2D:
       - {x: 0.45854425, y: -0.21708058}
       - {x: 0.13772568, y: -0.09083711}
       - {x: 0.17542188, y: 0.17495684}
+--- !u!50 &333984946
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 333984943}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &387253969
 GameObject:
   m_ObjectHideFlags: 0
@@ -438,6 +482,7 @@ GameObject:
   m_Component:
   - component: {fileID: 387253970}
   - component: {fileID: 387253971}
+  - component: {fileID: 387253972}
   m_Layer: 0
   m_Name: awayFirstHitBox
   m_TagString: damageBox
@@ -497,6 +542,27 @@ PolygonCollider2D:
       - {x: 0.43117115, y: -0.24787852}
       - {x: 0.57501376, y: -0.25722688}
       - {x: 0.70168084, y: 0.021276176}
+--- !u!50 &387253972
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 387253969}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -659,6 +725,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8400812844042676121, guid: e41050faafcc05548992edfee79bfb3f,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8400812844042676121, guid: e41050faafcc05548992edfee79bfb3f,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -0.051802874
+      objectReference: {fileID: 0}
+    - target: {fileID: 8400812844042676121, guid: e41050faafcc05548992edfee79bfb3f,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1.2713943
+      objectReference: {fileID: 0}
+    - target: {fileID: 3549015844909609974, guid: e41050faafcc05548992edfee79bfb3f,
+        type: 3}
+      propertyPath: m_GravityScale
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3549015844909609974, guid: e41050faafcc05548992edfee79bfb3f,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237396755406572228, guid: e41050faafcc05548992edfee79bfb3f,
+        type: 3}
+      propertyPath: regrowTime
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e41050faafcc05548992edfee79bfb3f, type: 3}
 --- !u!1 &984816609
@@ -671,6 +767,7 @@ GameObject:
   m_Component:
   - component: {fileID: 984816610}
   - component: {fileID: 984816611}
+  - component: {fileID: 984816612}
   m_Layer: 0
   m_Name: topLeftFirstHitbox
   m_TagString: damageBox
@@ -727,6 +824,27 @@ PolygonCollider2D:
       - {x: -0.19775891, y: -0.082242705}
       - {x: 0.45089564, y: 0.24047165}
       - {x: 0.7502847, y: 0.59192276}
+--- !u!50 &984816612
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 984816609}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1003812800
 GameObject:
   m_ObjectHideFlags: 0
@@ -737,6 +855,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1003812801}
   - component: {fileID: 1003812802}
+  - component: {fileID: 1003812803}
   m_Layer: 0
   m_Name: fowardFirstHitBox
   m_TagString: damageBox
@@ -792,6 +911,27 @@ PolygonCollider2D:
       - {x: 0.1369845, y: -0.3686742}
       - {x: 0.56575334, y: -0.22517326}
       - {x: 0.6866745, y: 0.452224}
+--- !u!50 &1003812803
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1003812800}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1118539080
 GameObject:
   m_ObjectHideFlags: 0
@@ -802,6 +942,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1118539081}
   - component: {fileID: 1118539082}
+  - component: {fileID: 1118539083}
   m_Layer: 0
   m_Name: botleftFirstHitBox
   m_TagString: damageBox
@@ -860,6 +1001,27 @@ PolygonCollider2D:
       - {x: 0.2531436, y: -0.61789685}
       - {x: 0.38710913, y: -0.46500063}
       - {x: 0.44458795, y: -0.22611937}
+--- !u!50 &1118539083
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1118539080}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1207067108
 GameObject:
   m_ObjectHideFlags: 0
@@ -983,6 +1145,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1565930468}
   - component: {fileID: 1565930469}
+  - component: {fileID: 1565930470}
   m_Layer: 0
   m_Name: rightFirstHitBox
   m_TagString: damageBox
@@ -1039,6 +1202,27 @@ PolygonCollider2D:
       - {x: 0.1112432, y: 0.23473778}
       - {x: 0.061119772, y: -0.23447308}
       - {x: 0.40524003, y: -0.17934513}
+--- !u!50 &1565930470
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1565930467}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1848976994
 GameObject:
   m_ObjectHideFlags: 0
@@ -1080,6 +1264,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2055193911}
   - component: {fileID: 2055193912}
+  - component: {fileID: 2055193913}
   m_Layer: 0
   m_Name: toprightFirstHitbox
   m_TagString: damageBox
@@ -1134,3 +1319,24 @@ PolygonCollider2D:
       - {x: -0.22465691, y: -0.14965244}
       - {x: 0.0048687593, y: -0.11142837}
       - {x: 0.3585839, y: -0.0827793}
+--- !u!50 &2055193913
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2055193910}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
