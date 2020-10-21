@@ -14,17 +14,30 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 3}
+<<<<<<< HEAD
   - {fileID: 14}
+=======
+  - {fileID: 13}
+>>>>>>> origin/Tilemapping-practice
   m_Position:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1366
     height: 635
   m_MinSize: {x: 679, y: 322}
   m_MaxSize: {x: 12004, y: 8022}
   vertical: 0
   controlID: 47187
+=======
+    width: 1522
+    height: 717
+  m_MinSize: {x: 683, y: 472}
+  m_MaxSize: {x: 14004, y: 14022}
+  vertical: 0
+  controlID: 68
+>>>>>>> origin/Tilemapping-practice
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -46,10 +59,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 290
     y: 20
     width: 612
     height: 257
+=======
+    x: 305
+    y: 20
+    width: 918
+    height: 420
+>>>>>>> origin/Tilemapping-practice
   m_ViewDataDictionary: {fileID: 0}
   m_VSyncEnabled: 0
   m_MaximizeOnPlay: 1
@@ -62,10 +82,17 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -306
     m_HBaseRangeMax: 306
     m_VBaseRangeMin: -120
     m_VBaseRangeMax: 120
+=======
+    m_HBaseRangeMin: -459
+    m_HBaseRangeMax: 459
+    m_VBaseRangeMin: -201.5
+    m_VBaseRangeMax: 201.5
+>>>>>>> origin/Tilemapping-practice
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -83,28 +110,49 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
+<<<<<<< HEAD
       width: 612
       height: 240
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 306, y: 120}
+=======
+      width: 918
+      height: 403
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 459, y: 201.5}
+>>>>>>> origin/Tilemapping-practice
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -306
       y: -120
       width: 612
       height: 240
+=======
+      x: -459
+      y: -201.5
+      width: 918
+      height: 403
+>>>>>>> origin/Tilemapping-practice
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 612, y: 257}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
+=======
+  m_LastWindowPixelSize: {x: 1147.5, y: 525}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 00000000000000000000
+>>>>>>> origin/Tilemapping-practice
   m_XRRenderMode: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -125,12 +173,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 904
     height: 635
   m_MinSize: {x: 404, y: 322}
   m_MaxSize: {x: 8004, y: 8022}
   vertical: 1
   controlID: 47188
+=======
+    width: 1214
+    height: 717
+  m_MinSize: {x: 404, y: 472}
+  m_MaxSize: {x: 10000, y: 14022}
+  vertical: 1
+  controlID: 69
+>>>>>>> origin/Tilemapping-practice
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,12 +207,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 904
     height: 279
   m_MinSize: {x: 404, y: 222}
   m_MaxSize: {x: 8004, y: 4022}
   vertical: 0
   controlID: 47189
+=======
+    width: 1214
+    height: 434
+  m_MinSize: {x: 404, y: 222}
+  m_MaxSize: {x: 8004, y: 4022}
+  vertical: 0
+  controlID: 42
+>>>>>>> origin/Tilemapping-practice
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -173,8 +239,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 288
     height: 279
+=======
+    width: 300
+    height: 434
+>>>>>>> origin/Tilemapping-practice
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 6}
@@ -203,17 +274,28 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: -1366
     y: 73
     width: 288
     height: 260
+=======
+    x: 7.2000003
+    y: 80.8
+    width: 300
+    height: 415
+>>>>>>> origin/Tilemapping-practice
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: eae3feffdee9feff58fbffff3e2d0000502d00005a2d0000642d0000
+=======
+      m_ExpandedIDs: 9ef5ffff
+>>>>>>> origin/Tilemapping-practice
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -236,7 +318,11 @@ MonoBehaviour:
     m_LockTracker:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
+<<<<<<< HEAD
   m_WindowGUID: 0dfee44745353cb41b708459cd725cea
+=======
+  m_WindowGUID: 45ce2acf5bb86334c91f5023fae47632
+>>>>>>> origin/Tilemapping-practice
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -252,10 +338,17 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 288
     y: 0
     width: 616
     height: 279
+=======
+    x: 300
+    y: 0
+    width: 914
+    height: 434
+>>>>>>> origin/Tilemapping-practice
   m_MinSize: {x: 204, y: 222}
   m_MaxSize: {x: 4004, y: 4022}
   m_ActualView: {fileID: 2}
@@ -286,6 +379,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: -1078
     y: 73
     width: 614
@@ -293,6 +387,15 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: cf0f75fede9832948906d70a27bee1b3
+=======
+    x: 307.2
+    y: 80.8
+    width: 912
+    height: 415
+  m_ViewDataDictionary: {fileID: 0}
+  m_ShowContextualTools: 0
+  m_WindowGUID: eca114a42c708fb4b804f48620e9f458
+>>>>>>> origin/Tilemapping-practice
   m_Gizmos: 1
   m_SceneIsLit: 1
   m_SceneLighting: 1
@@ -301,9 +404,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 2.413136, y: -0.31345364, z: -0.03667878}
     speed: 2
     m_Value: {x: 2.413136, y: -0.31345364, z: -0.03667878}
+=======
+    m_Target: {x: -3.5654068, y: -0.2507061, z: -18.384764}
+    speed: 2
+    m_Value: {x: -3.5654068, y: -0.2507061, z: -18.384764}
+>>>>>>> origin/Tilemapping-practice
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -336,9 +445,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 2.9604638
     speed: 2
     m_Value: 2.9604638
+=======
+    m_Target: 11.716791
+    speed: 2
+    m_Value: 11.716791
+>>>>>>> origin/Tilemapping-practice
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -372,6 +487,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
   m_EditorHideFlags: 0
   m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -381,10 +497,22 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Animator
     m_Image: {fileID: 663490763026382308, guid: 0000000000000000d000000000000000,
+=======
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 400, y: 100}
+  m_MaxSize: {x: 2048, y: 2048}
+  m_TitleContent:
+    m_Text: Asset Store
+    m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
+>>>>>>> origin/Tilemapping-practice
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: -1078
     y: 73
     width: 614
@@ -479,6 +607,13 @@ MonoBehaviour:
   m_CurrentEditor: 1
   m_LayerEditor:
     m_SelectedLayerIndex: 0
+=======
+    x: 468
+    y: 181
+    width: 973
+    height: 501
+  m_ViewDataDictionary: {fileID: 0}
+>>>>>>> origin/Tilemapping-practice
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -495,6 +630,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 279
     width: 904
     height: 356
@@ -507,6 +643,19 @@ MonoBehaviour:
   - {fileID: 13}
   m_Selected: 1
   m_LastSelected: 2
+=======
+    y: 434
+    width: 1214
+    height: 283
+  m_MinSize: {x: 232, y: 272}
+  m_MaxSize: {x: 10002, y: 10022}
+  m_ActualView: {fileID: 11}
+  m_Panes:
+  - {fileID: 11}
+  - {fileID: 12}
+  m_Selected: 0
+  m_LastSelected: 0
+>>>>>>> origin/Tilemapping-practice
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -528,10 +677,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: -1366
     y: 352
     width: 904
     height: 337
+=======
+    x: 7.2000003
+    y: 514.4
+    width: 1214
+    height: 264
+>>>>>>> origin/Tilemapping-practice
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -546,6 +702,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -560,6 +717,22 @@ MonoBehaviour:
     m_SelectedIDs: a8320000
     m_LastClickedID: 12968
     m_ExpandedIDs: 000000001e320000203200002432000026320000283200002a3200002c3200002e32000030320000323200003432000036320000383200003a32000046320000943200006c4800006e4800007048000000ca9a3b
+=======
+    - Assets/Materials
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Materials
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\Mirag\Documents\GitHub\ProjectSteampunkUnity\ProjectSteampunk
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 282}
+    m_SelectedIDs: ac350000
+    m_LastClickedID: 13740
+    m_ExpandedIDs: 00000000323500003435000036350000383500003a3500003c3500003e35000040350000423500004435000046350000483500004a3500004c3500004e35000000ca9a3b
+>>>>>>> origin/Tilemapping-practice
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -575,7 +748,11 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
+<<<<<<< HEAD
       m_ClientGUIView: {fileID: 10}
+=======
+      m_ClientGUIView: {fileID: 0}
+>>>>>>> origin/Tilemapping-practice
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -587,7 +764,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000001e320000203200002432000026320000283200002a3200002c3200002e32000030320000323200003432000036320000383200003a320000463200006c4800006e4800007048000000ca9a3b
+=======
+    m_ExpandedIDs: 00000000323500003435000036350000383500003a3500003c3500003e35000040350000423500004435000046350000483500004a3500004c3500004e350000
+>>>>>>> origin/Tilemapping-practice
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -612,10 +793,17 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
+<<<<<<< HEAD
     m_SelectedInstanceIDs: a69afeff
     m_LastClickedInstanceID: -91482
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000283000002a300000303000003a2d0000d2310000d6310000da310000de3100009a2e0000502f000072310000fa310000582f00005a300000b831000018360000323600002e360000e23600006e360000663c0000
+=======
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c6230000f834000074340000
+>>>>>>> origin/Tilemapping-practice
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -642,7 +830,11 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
+<<<<<<< HEAD
   m_DirectoriesAreaWidth: 169
+=======
+  m_DirectoriesAreaWidth: 170
+>>>>>>> origin/Tilemapping-practice
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -664,10 +856,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: -1366
     y: 352
     width: 904
     height: 337
+=======
+    x: 8
+    y: 718
+    width: 1366
+    height: 308
+>>>>>>> origin/Tilemapping-practice
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &13
 MonoBehaviour:
@@ -677,6 +876,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
   m_EditorHideFlags: 0
   m_Script: {fileID: 12071, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -706,6 +906,8 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+=======
+>>>>>>> origin/Tilemapping-practice
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -713,6 +915,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 904
     y: 0
     width: 462
@@ -726,6 +929,21 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &15
+=======
+    x: 1214
+    y: 0
+    width: 308
+    height: 717
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 14}
+  m_Panes:
+  - {fileID: 14}
+  - {fileID: 15}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &14
+>>>>>>> origin/Tilemapping-practice
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -746,10 +964,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: -462
     y: 73
     width: 460
     height: 616
+=======
+    x: 1221.6
+    y: 80.8
+    width: 306
+    height: 698
+>>>>>>> origin/Tilemapping-practice
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
@@ -761,7 +986,11 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
+<<<<<<< HEAD
 --- !u!114 &16
+=======
+--- !u!114 &15
+>>>>>>> origin/Tilemapping-practice
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -781,14 +1010,25 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 846
     y: 71.66667
     width: 432
     height: 570
+=======
+    x: 1224.8
+    y: 73.6
+    width: 309
+    height: 712
+>>>>>>> origin/Tilemapping-practice
   m_ViewDataDictionary: {fileID: 0}
   m_PreviewResizer:
     m_CachedPref: 50
     m_ControlHash: 1964396721
     m_PrefName: Preview_TilemapBrushInspector
+<<<<<<< HEAD
   m_Palette: {fileID: 7900846692221498236, guid: a71d61c6109045745aa51f3d7493b40c,
+=======
+  m_Palette: {fileID: 559552958914368451, guid: a14fa22ae8323074ea9766f9438aa7c9,
+>>>>>>> origin/Tilemapping-practice
     type: 3}
