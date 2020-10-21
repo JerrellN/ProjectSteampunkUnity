@@ -91,7 +91,6 @@ public class PlayerControllerTemp : MonoBehaviour
 
         if (isAttacking)
         {
-            Debug.Log("Should be attacking");
             animator.SetBool("isAttacking", true);
         }
         else

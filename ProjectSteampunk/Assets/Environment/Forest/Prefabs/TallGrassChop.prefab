@@ -95,7 +95,7 @@ Animator:
   m_GameObject: {fileID: 7327396701702143801}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 61cebc0afc6b06b4695edb3e6739a778, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -119,8 +119,6 @@ MonoBehaviour:
   animator: {fileID: 7327396701702143800}
   theCollider: {fileID: 8400812844042676121}
   grassRb: {fileID: 3549015844909609974}
-  regrowTime: 5
-  timeElapsed: 0
 --- !u!61 &8400812844042676121
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -167,4 +165,4 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 7
+  m_Constraints: 0
