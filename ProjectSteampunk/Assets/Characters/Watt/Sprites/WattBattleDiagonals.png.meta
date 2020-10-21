@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 3c0b67e0041ae884188d0da6aafd844b
+=======
+guid: 64a5c390ee955c541a6b01bc707ee4e5
+>>>>>>> Tilemapping-practice
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
