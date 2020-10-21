@@ -1,4 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 406cbaac2c96ad5498095865778e01f5
+TextureImporter:
+  internalIDToNameTable: []
+=======
 guid: d15c72ec966d02f428b44f448304dd0a
 TextureImporter:
   internalIDToNameTable:
@@ -302,6 +307,7 @@ TextureImporter:
   - first:
       213: 1396930807532590574
     second: tileset_ground_99
+>>>>>>> Tilemapping-practice
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -340,12 +346,21 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
+<<<<<<< HEAD
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+=======
   spriteMode: 2
   spriteExtrude: 0
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 64
+>>>>>>> Tilemapping-practice
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -363,6 +378,9 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
+<<<<<<< HEAD
+    textureCompression: 1
+=======
     textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
@@ -448,6 +466,7 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
+>>>>>>> Tilemapping-practice
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -456,6 +475,9 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
+<<<<<<< HEAD
+    sprites: []
+=======
     sprites:
     - serializedVersion: 2
       name: tileset_ground_0
@@ -2368,6 +2390,7 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+>>>>>>> Tilemapping-practice
     outline: []
     physicsShape: []
     bones: []

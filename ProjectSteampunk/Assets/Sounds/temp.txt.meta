@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 599cc1a13cc161e469204f96921c21de
+=======
 guid: d07242500b24cb041bfc752d0eaff509
+>>>>>>> Tilemapping-practice
 TextScriptImporter:
   externalObjects: {}
   userData: 

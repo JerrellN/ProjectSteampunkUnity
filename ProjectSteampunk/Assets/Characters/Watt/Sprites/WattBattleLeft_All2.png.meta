@@ -200,387 +200,6 @@ TextureImporter:
   - first:
       213: 9000528381732274755
     second: WattBattleLeft_All2_65
-  - first:
-      213: -205732774334852536
-    second: WattBattleLeft_All2_66
-  - first:
-      213: -8566406912315227671
-    second: WattBattleLeft_All2_68
-  - first:
-      213: 8299355948472884162
-    second: WattBattleLeft_All2_69
-  - first:
-      213: 6279085217408495240
-    second: WattBattleLeft_All2_72
-  - first:
-      213: 1565259619856288468
-    second: WattBattleLeft_All2_73
-  - first:
-      213: 1067172529132626499
-    second: WattBattleLeft_All2_74
-  - first:
-      213: 8206576860302668036
-    second: WattBattleLeft_All2_76
-  - first:
-      213: 7654910845754797348
-    second: WattBattleLeft_All2_77
-  - first:
-      213: -8311253708074126326
-    second: WattBattleLeft_All2_78
-  - first:
-      213: 7650889163900251545
-    second: WattBattleLeft_All2_79
-  - first:
-      213: -7304928558536077166
-    second: WattBattleLeft_All2_80
-  - first:
-      213: -7516418733631045188
-    second: WattBattleLeft_All2_82
-  - first:
-      213: -5145665949530503974
-    second: WattBattleLeft_All2_83
-  - first:
-      213: 7903634166424922648
-    second: WattBattleLeft_All2_85
-  - first:
-      213: -1430159999325974042
-    second: WattBattleLeft_All2_86
-  - first:
-      213: 5767204785888014412
-    second: WattBattleLeft_All2_88
-  - first:
-      213: -9083904885682537040
-    second: WattBattleLeft_All2_89
-  - first:
-      213: 7125074067980258343
-    second: WattBattleLeft_All2_90
-  - first:
-      213: -4511261379860208144
-    second: WattBattleLeft_All2_91
-  - first:
-      213: 6066752148737619103
-    second: WattBattleLeft_All2_92
-  - first:
-      213: 8275098794724596223
-    second: WattBattleLeft_All2_93
-  - first:
-      213: 1170729077604577823
-    second: WattBattleLeft_All2_94
-  - first:
-      213: 5773258810807540199
-    second: WattBattleLeft_All2_95
-  - first:
-      213: 2096820189167180300
-    second: WattBattleLeft_All2_96
-  - first:
-      213: 5913764918527861858
-    second: WattBattleLeft_All2_97
-  - first:
-      213: 5111602511164895614
-    second: WattBattleLeft_All2_98
-  - first:
-      213: -7146624014170177713
-    second: WattBattleLeft_All2_99
-  - first:
-      213: -4680710816175491700
-    second: WattBattleLeft_All2_110
-  - first:
-      213: 7617696144649650477
-    second: WattBattleLeft_All2_112
-  - first:
-      213: -724685440015903734
-    second: WattBattleLeft_All2_113
-  - first:
-      213: -2968196570209787966
-    second: WattBattleLeft_All2_114
-  - first:
-      213: -1712388163314427914
-    second: WattBattleLeft_All2_115
-  - first:
-      213: -315546548899604709
-    second: WattBattleLeft_All2_116
-  - first:
-      213: -469045860113338437
-    second: WattBattleLeft_All2_67
-  - first:
-      213: -6936095723279301043
-    second: WattBattleLeft_All2_70
-  - first:
-      213: 6721746575885713021
-    second: WattBattleLeft_All2_71
-  - first:
-      213: -3635638245726128746
-    second: WattBattleLeft_All2_75
-  - first:
-      213: -5054113107862959720
-    second: WattBattleLeft_All2_81
-  - first:
-      213: 7673675817212534137
-    second: WattBattleLeft_All2_84
-  - first:
-      213: -3263700764744431597
-    second: WattBattleLeft_All2_87
-  - first:
-      213: 6396089759009378488
-    second: WattBattleLeft_All2_100
-  - first:
-      213: -8209369609008632067
-    second: WattBattleLeft_All2_101
-  - first:
-      213: -3768509488507437767
-    second: WattBattleLeft_All2_102
-  - first:
-      213: 6312432749102653210
-    second: WattBattleLeft_All2_103
-  - first:
-      213: -1893043231159947227
-    second: WattBattleLeft_All2_104
-  - first:
-      213: 8643109494357802655
-    second: WattBattleLeft_All2_105
-  - first:
-      213: -2732617765267407978
-    second: WattBattleLeft_All2_106
-  - first:
-      213: 3249091756988303378
-    second: WattBattleLeft_All2_107
-  - first:
-      213: -4490044449169490769
-    second: WattBattleLeft_All2_108
-  - first:
-      213: -2341941897314986470
-    second: WattBattleLeft_All2_109
-  - first:
-      213: -8365407259209936774
-    second: WattBattleLeft_All2_111
-  - first:
-      213: 4172992132665776967
-    second: WattBattleLeft_All2_117
-  - first:
-      213: -6861595133126015260
-    second: WattBattleLeft_All2_118
-  - first:
-      213: -8273943477956054252
-    second: WattBattleLeft_All2_119
-  - first:
-      213: -7005982015903595407
-    second: WattBattleLeft_All2_120
-  - first:
-      213: 116877202839663209
-    second: WattBattleLeft_All2_121
-  - first:
-      213: 2459341938678458122
-    second: WattBattleLeft_All2_122
-  - first:
-      213: -6070589031473473607
-    second: WattBattleLeft_All2_123
-  - first:
-      213: 3569762097858313266
-    second: WattBattleLeft_All2_124
-  - first:
-      213: -2472099598864496512
-    second: WattBattleLeft_All2_125
-  - first:
-      213: 2863472948121797420
-    second: WattBattleLeft_All2_126
-  - first:
-      213: 8783481136738107355
-    second: WattBattleLeft_All2_127
-  - first:
-      213: 3016563385104550221
-    second: WattBattleLeft_All2_128
-  - first:
-      213: 6587986620196472394
-    second: WattBattleLeft_All2_129
-  - first:
-      213: 7857084154933981945
-    second: WattBattleLeft_All2_130
-  - first:
-      213: -8445910062215798777
-    second: WattBattleLeft_All2_131
-  - first:
-      213: -8157218644144201287
-    second: WattBattleLeft_All2_132
-  - first:
-      213: -7952656441926684145
-    second: WattBattleLeft_All2_133
-  - first:
-      213: -3585663484979702862
-    second: WattBattleLeft_All2_134
-  - first:
-      213: 3663429002361564816
-    second: WattBattleLeft_All2_135
-  - first:
-      213: 1884474536236795782
-    second: WattBattleLeft_All2_136
-  - first:
-      213: -6297276949243083385
-    second: WattBattleLeft_All2_137
-  - first:
-      213: 4420453486909840098
-    second: WattBattleLeft_All2_138
-  - first:
-      213: -700658925352997311
-    second: WattBattleLeft_All2_139
-  - first:
-      213: 1603710434803953406
-    second: WattBattleLeft_All2_140
-  - first:
-      213: -8098575985280914013
-    second: WattBattleLeft_All2_141
-  - first:
-      213: 8420146532182212377
-    second: WattBattleLeft_All2_142
-  - first:
-      213: -5478500778274947172
-    second: WattBattleLeft_All2_143
-  - first:
-      213: -5759602699344152883
-    second: WattBattleLeft_All2_144
-  - first:
-      213: -3288664263789432098
-    second: WattBattleLeft_All2_145
-  - first:
-      213: 3176788533283450917
-    second: WattBattleLeft_All2_146
-  - first:
-      213: -3898586506245108278
-    second: WattBattleLeft_All2_147
-  - first:
-      213: 7786339795963097321
-    second: WattBattleLeft_All2_148
-  - first:
-      213: 8406632886316551443
-    second: WattBattleLeft_All2_149
-  - first:
-      213: -9223170929771432384
-    second: WattBattleLeft_All2_150
-  - first:
-      213: 3864055916935238870
-    second: WattBattleLeft_All2_151
-  - first:
-      213: 1852566698205224648
-    second: WattBattleLeft_All2_152
-  - first:
-      213: 870377858297603716
-    second: WattBattleLeft_All2_153
-  - first:
-      213: 2495538738709747292
-    second: WattBattleLeft_All2_154
-  - first:
-      213: 4854508246301097600
-    second: WattBattleLeft_All2_155
-  - first:
-      213: -5170302184091793997
-    second: WattBattleLeft_All2_156
-  - first:
-      213: 6994509265137540131
-    second: WattBattleLeft_All2_157
-  - first:
-      213: 3182228794940251636
-    second: WattBattleLeft_All2_158
-  - first:
-      213: -9159631330241555474
-    second: WattBattleLeft_All2_159
-  - first:
-      213: -4458599743237934122
-    second: WattBattleLeft_All2_160
-  - first:
-      213: -6476653507564712477
-    second: WattBattleLeft_All2_161
-  - first:
-      213: 3452232577190136562
-    second: WattBattleLeft_All2_162
-  - first:
-      213: 7261320520966185121
-    second: WattBattleLeft_All2_163
-  - first:
-      213: -384551197053974779
-    second: WattBattleLeft_All2_164
-  - first:
-      213: 1530572788543363274
-    second: WattBattleLeft_All2_165
-  - first:
-      213: 2311987331754970534
-    second: WattBattleLeft_All2_166
-  - first:
-      213: -363426467757187839
-    second: WattBattleLeft_All2_167
-  - first:
-      213: 4025003144120636805
-    second: WattBattleLeft_All2_168
-  - first:
-      213: -6951573752709937394
-    second: WattBattleLeft_All2_169
-  - first:
-      213: 1135004434264215836
-    second: WattBattleLeft_All2_170
-  - first:
-      213: -7562810926176285086
-    second: WattBattleLeft_All2_171
-  - first:
-      213: 6125319438216994455
-    second: WattBattleLeft_All2_172
-  - first:
-      213: -486982154941046212
-    second: WattBattleLeft_All2_173
-  - first:
-      213: -1123173316298316747
-    second: WattBattleLeft_All2_174
-  - first:
-      213: 8288371398632386084
-    second: WattBattleLeft_All2_175
-  - first:
-      213: -5170006338490046231
-    second: WattBattleLeft_All2_176
-  - first:
-      213: -7774938468893637506
-    second: WattBattleLeft_All2_177
-  - first:
-      213: -8489873399614174005
-    second: WattBattleLeft_All2_178
-  - first:
-      213: 6081155177265496294
-    second: WattBattleLeft_All2_179
-  - first:
-      213: -4100031719918019938
-    second: WattBattleLeft_All2_180
-  - first:
-      213: 2945811236263941217
-    second: WattBattleLeft_All2_181
-  - first:
-      213: 7268774546603438339
-    second: WattBattleLeft_All2_182
-  - first:
-      213: 7415104205497407513
-    second: WattBattleLeft_All2_183
-  - first:
-      213: -5472486926015636214
-    second: WattBattleLeft_All2_184
-  - first:
-      213: 6249390373757060415
-    second: WattBattleLeft_All2_185
-  - first:
-      213: -2462478109166512936
-    second: WattBattleLeft_All2_186
-  - first:
-      213: 2719621339912913812
-    second: WattBattleLeft_All2_187
-  - first:
-      213: 1920595922897440083
-    second: WattBattleLeft_All2_188
-  - first:
-      213: -8796306961519417925
-    second: WattBattleLeft_All2_189
-  - first:
-      213: 3624996090183117933
-    second: WattBattleLeft_All2_190
-  - first:
-      213: 7884673006903046557
-    second: WattBattleLeft_All2_191
-  - first:
-      213: -1446393364099572118
-    second: WattBattleLeft_All2_192
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -728,10 +347,10 @@ TextureImporter:
       name: WattBattleLeft_All2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1856
-        width: 192
-        height: 192
+        x: 77
+        y: 1928
+        width: 63
+        height: 99
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -739,7 +358,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7993cc697d89f74096a3004d9ab29a2
+      spriteID: a14002ed63d25614595a456a521e6234
       internalID: 4619973441732797438
       vertices: []
       indices: 
@@ -749,10 +368,10 @@ TextureImporter:
       name: WattBattleLeft_All2_1
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1856
-        width: 192
-        height: 192
+        x: 268
+        y: 1928
+        width: 63
+        height: 99
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -760,7 +379,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94aa4291199e69f418f508715c479f3b
+      spriteID: 8c4424a1f65c95c4db21677866092a29
       internalID: -288316000874765365
       vertices: []
       indices: 
@@ -770,10 +389,10 @@ TextureImporter:
       name: WattBattleLeft_All2_2
       rect:
         serializedVersion: 2
-        x: 384
-        y: 1856
-        width: 192
-        height: 192
+        x: 451
+        y: 1928
+        width: 60
+        height: 111
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -781,7 +400,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71e2f14815aa3814b9409198183d0df0
+      spriteID: 959f1223f53a079468bf022cbab69b9c
       internalID: 596687735459291105
       vertices: []
       indices: 
@@ -791,10 +410,10 @@ TextureImporter:
       name: WattBattleLeft_All2_3
       rect:
         serializedVersion: 2
-        x: 576
-        y: 1856
-        width: 192
-        height: 192
+        x: 642
+        y: 1928
+        width: 60
+        height: 111
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -802,7 +421,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e3136e4475432c4391dd4edb4e372c6
+      spriteID: a477e5a7b8dac46478801363504d2a63
       internalID: 2911874633125805329
       vertices: []
       indices: 
@@ -812,10 +431,10 @@ TextureImporter:
       name: WattBattleLeft_All2_4
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1856
-        width: 192
-        height: 192
+        x: 829
+        y: 1928
+        width: 38
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -823,7 +442,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e268a0c240fa9854ab390f03cef07cda
+      spriteID: 15b9d6688be74494291011fee3e0ddaf
       internalID: 3317020663934476239
       vertices: []
       indices: 
@@ -833,10 +452,10 @@ TextureImporter:
       name: WattBattleLeft_All2_5
       rect:
         serializedVersion: 2
-        x: 960
-        y: 1856
-        width: 192
-        height: 192
+        x: 1019
+        y: 1928
+        width: 39
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -844,7 +463,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f88804532f0f1e24ab5c401e657f2f8a
+      spriteID: 436c70cc53ac90f4bb57c751ccfb45e2
       internalID: 2772983773718180860
       vertices: []
       indices: 
@@ -854,10 +473,10 @@ TextureImporter:
       name: WattBattleLeft_All2_6
       rect:
         serializedVersion: 2
-        x: 1152
-        y: 1856
-        width: 192
-        height: 192
+        x: 1205
+        y: 1928
+        width: 42
+        height: 106
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -865,7 +484,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b9a86a2115fc2846a525c947bec8222
+      spriteID: cdb7091a387d54446858754bd07c15de
       internalID: -6577416329212091542
       vertices: []
       indices: 
@@ -875,10 +494,10 @@ TextureImporter:
       name: WattBattleLeft_All2_7
       rect:
         serializedVersion: 2
-        x: 1344
-        y: 1856
-        width: 192
-        height: 192
+        x: 1396
+        y: 1928
+        width: 42
+        height: 106
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -886,7 +505,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0273118dc041c847898c08aabde5c61
+      spriteID: a2210d1e93c66704e9c701ef0a2a1539
       internalID: 5603368526099254386
       vertices: []
       indices: 
@@ -896,10 +515,10 @@ TextureImporter:
       name: WattBattleLeft_All2_8
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1856
-        width: 192
-        height: 192
+        x: 1562
+        y: 1927
+        width: 66
+        height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -907,7 +526,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c231535c10209314296b7a3242df02ed
+      spriteID: 1488d37c33eb1c64da0d25a95909e06a
       internalID: 8646242367173220988
       vertices: []
       indices: 
@@ -917,10 +536,10 @@ TextureImporter:
       name: WattBattleLeft_All2_9
       rect:
         serializedVersion: 2
-        x: 1728
-        y: 1856
-        width: 192
-        height: 192
+        x: 1753
+        y: 1927
+        width: 66
+        height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -928,7 +547,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b79aa92564ecbf4897ca5273d01f7eb
+      spriteID: 64c26e5dc33a36f43b284bc6522aa1e8
       internalID: -3355515571561619785
       vertices: []
       indices: 
@@ -938,10 +557,10 @@ TextureImporter:
       name: WattBattleLeft_All2_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1664
-        width: 192
-        height: 192
+        x: 37
+        y: 1739
+        width: 63
+        height: 83
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -949,7 +568,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f19ef07f6c0d174ba85cfe6349fb320
+      spriteID: 020eee9ab4913e246bf1898a4b97b268
       internalID: 5494391952383019267
       vertices: []
       indices: 
@@ -959,10 +578,10 @@ TextureImporter:
       name: WattBattleLeft_All2_11
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1664
-        width: 192
-        height: 192
+        x: 228
+        y: 1739
+        width: 63
+        height: 83
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -970,7 +589,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad53e7a27efe0224a8f31ced1c6cc288
+      spriteID: 86faf68aa74cde1469d0ccd9ebcae5d9
       internalID: 3545661665350012678
       vertices: []
       indices: 
@@ -980,10 +599,10 @@ TextureImporter:
       name: WattBattleLeft_All2_12
       rect:
         serializedVersion: 2
-        x: 384
-        y: 1664
-        width: 192
-        height: 192
+        x: 421
+        y: 1739
+        width: 61
+        height: 78
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -991,7 +610,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e628e5e21e7a16d4c9edf405e9fd42ac
+      spriteID: 3e9768ce725e3f64f92717db77150d66
       internalID: -450594775955286511
       vertices: []
       indices: 
@@ -1001,10 +620,10 @@ TextureImporter:
       name: WattBattleLeft_All2_13
       rect:
         serializedVersion: 2
-        x: 576
-        y: 1664
-        width: 192
-        height: 192
+        x: 612
+        y: 1739
+        width: 61
+        height: 78
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1012,7 +631,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 216c64988ccee7348bd379c92e7ef9bf
+      spriteID: dc50cfc1d0860a744a7870d94567f7bc
       internalID: 3976048434851351686
       vertices: []
       indices: 
@@ -1022,10 +641,10 @@ TextureImporter:
       name: WattBattleLeft_All2_14
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1664
-        width: 192
-        height: 192
+        x: 803
+        y: 1738
+        width: 64
+        height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1033,7 +652,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b66a208649769541a82d514972dfabb
+      spriteID: 3db697cbbe43556438001e51791a0e78
       internalID: -1603648403476424910
       vertices: []
       indices: 
@@ -1043,10 +662,10 @@ TextureImporter:
       name: WattBattleLeft_All2_15
       rect:
         serializedVersion: 2
-        x: 960
-        y: 1664
-        width: 192
-        height: 192
+        x: 994
+        y: 1738
+        width: 64
+        height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1054,7 +673,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2860e94e1992dfb429b0a115e4f26ce4
+      spriteID: 35cb1718a5abea5439445f259cec9cd6
       internalID: -494876733176806321
       vertices: []
       indices: 
@@ -1064,10 +683,10 @@ TextureImporter:
       name: WattBattleLeft_All2_16
       rect:
         serializedVersion: 2
-        x: 1152
-        y: 1664
-        width: 192
-        height: 192
+        x: 1184
+        y: 1738
+        width: 65
+        height: 69
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1075,7 +694,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0b810a6f8536324eac181bc54fc6127
+      spriteID: 8bafaa9d92d06ff4fb92e756b02b394a
       internalID: 6053509616908858176
       vertices: []
       indices: 
@@ -1085,10 +704,10 @@ TextureImporter:
       name: WattBattleLeft_All2_17
       rect:
         serializedVersion: 2
-        x: 1344
-        y: 1664
-        width: 192
-        height: 192
+        x: 1375
+        y: 1738
+        width: 65
+        height: 69
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1096,7 +715,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e37f52a479033844cbc7140aacf335b7
+      spriteID: 2e52d12afc87a524e8ffd660583715e4
       internalID: 6449464767656760245
       vertices: []
       indices: 
@@ -1106,10 +725,10 @@ TextureImporter:
       name: WattBattleLeft_All2_18
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1664
-        width: 192
-        height: 192
+        x: 1605
+        y: 1738
+        width: 41
+        height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1117,7 +736,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 835c691ded0eca04093e3d842d443648
+      spriteID: 992b3007f4544e04b8c23855a9f8ca03
       internalID: -4062546583337013880
       vertices: []
       indices: 
@@ -1127,10 +746,10 @@ TextureImporter:
       name: WattBattleLeft_All2_19
       rect:
         serializedVersion: 2
-        x: 1728
-        y: 1664
-        width: 192
-        height: 192
+        x: 1796
+        y: 1738
+        width: 41
+        height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1138,7 +757,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5382a53555f7ce458e51accbd6cd34c
+      spriteID: 0eb8d4dc9ebb0cf41ba7f0fd3e47059d
       internalID: 8107673797106051782
       vertices: []
       indices: 
@@ -1148,10 +767,10 @@ TextureImporter:
       name: WattBattleLeft_All2_20
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1472
-        width: 192
-        height: 192
+        x: 75
+        y: 1545
+        width: 57
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1159,7 +778,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c19e04f3858125b4390d8c5fe82efd08
+      spriteID: 7f830b3acca44bd48ad89b5e8e093d36
       internalID: 6347316208945545604
       vertices: []
       indices: 
@@ -1169,10 +788,10 @@ TextureImporter:
       name: WattBattleLeft_All2_21
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1472
-        width: 192
-        height: 192
+        x: 266
+        y: 1545
+        width: 57
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1180,7 +799,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf4e9173ad9ab4f48b31b34fee1fa245
+      spriteID: 3df0840a0cd8f2e4a97cc1c0c492d870
       internalID: 8048520182820513901
       vertices: []
       indices: 
@@ -1190,10 +809,10 @@ TextureImporter:
       name: WattBattleLeft_All2_22
       rect:
         serializedVersion: 2
-        x: 384
-        y: 1472
-        width: 192
-        height: 192
+        x: 436
+        y: 1544
+        width: 55
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1201,7 +820,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc413cc086c009d49bcfb952f483abe4
+      spriteID: 6cbd9b589dca8de4d9a38b8475ad217c
       internalID: -1295769726982784116
       vertices: []
       indices: 
@@ -1211,10 +830,10 @@ TextureImporter:
       name: WattBattleLeft_All2_23
       rect:
         serializedVersion: 2
-        x: 576
-        y: 1472
-        width: 192
-        height: 192
+        x: 627
+        y: 1544
+        width: 55
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1222,7 +841,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ecbd3aa94fbb80429893f54a305fbf3
+      spriteID: 37c7045ff6a0c794493aa5227aed1477
       internalID: -5164958149196115171
       vertices: []
       indices: 
@@ -1232,10 +851,10 @@ TextureImporter:
       name: WattBattleLeft_All2_24
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1472
-        width: 192
-        height: 192
+        x: 790
+        y: 1544
+        width: 75
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1243,7 +862,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3a92039d63df4146b4884a9b3e17b71
+      spriteID: 1e86c38a35ed15443b179dfed631d89c
       internalID: -1393112542847290639
       vertices: []
       indices: 
@@ -1253,10 +872,10 @@ TextureImporter:
       name: WattBattleLeft_All2_25
       rect:
         serializedVersion: 2
-        x: 960
-        y: 1472
-        width: 192
-        height: 192
+        x: 981
+        y: 1544
+        width: 75
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1264,7 +883,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5069715067f530f41ad2c7b79dda25dc
+      spriteID: e89f5b6957d0f504d856de27a8038e90
       internalID: -7556113485178632564
       vertices: []
       indices: 
@@ -1274,10 +893,10 @@ TextureImporter:
       name: WattBattleLeft_All2_26
       rect:
         serializedVersion: 2
-        x: 1152
-        y: 1472
-        width: 192
-        height: 192
+        x: 1155
+        y: 1544
+        width: 92
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1285,7 +904,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb022a0db77d37e4a863652040613ce4
+      spriteID: 1bd5e79e36fdcaf459eaff544277e793
       internalID: -6057620206030256409
       vertices: []
       indices: 
@@ -1295,10 +914,10 @@ TextureImporter:
       name: WattBattleLeft_All2_27
       rect:
         serializedVersion: 2
-        x: 1344
-        y: 1472
-        width: 192
-        height: 192
+        x: 1346
+        y: 1544
+        width: 92
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1306,7 +925,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66ace8ce13823484eb654462250096a1
+      spriteID: 0e68e439767c09544ae2c951fd702879
       internalID: 2463856449792935749
       vertices: []
       indices: 
@@ -1316,10 +935,10 @@ TextureImporter:
       name: WattBattleLeft_All2_28
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1472
-        width: 192
-        height: 192
+        x: 1580
+        y: 1515
+        width: 49
+        height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1327,7 +946,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 126f187692c39b344a8e5e7ca8548586
+      spriteID: 55bdcc88658a9fa4f8f5f58a788deb67
       internalID: 788370581212166217
       vertices: []
       indices: 
@@ -1337,10 +956,10 @@ TextureImporter:
       name: WattBattleLeft_All2_29
       rect:
         serializedVersion: 2
-        x: 1728
-        y: 1472
-        width: 192
-        height: 192
+        x: 1771
+        y: 1515
+        width: 49
+        height: 89
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1348,7 +967,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dba22d30f601f714e8e871b262abd812
+      spriteID: 4a081ff1aca809d4a895936cff3b8ba9
       internalID: 2515649772009166835
       vertices: []
       indices: 
@@ -1358,10 +977,10 @@ TextureImporter:
       name: WattBattleLeft_All2_30
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1280
-        width: 192
-        height: 192
+        x: 67
+        y: 1355
+        width: 78
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1369,7 +988,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d6d0f172dd48fe408106e9c6e52d679
+      spriteID: 06c0a63d0613e59448dbce74790494c5
       internalID: 6631049116075117372
       vertices: []
       indices: 
@@ -1379,10 +998,10 @@ TextureImporter:
       name: WattBattleLeft_All2_31
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1280
-        width: 192
-        height: 192
+        x: 258
+        y: 1355
+        width: 77
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1390,7 +1009,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1ee78ef40292c248bbe3cbbb393a67b
+      spriteID: f76f20d9bb67d1d4c949d8ab3e5a580a
       internalID: -2624931865293111627
       vertices: []
       indices: 
@@ -1400,10 +1019,10 @@ TextureImporter:
       name: WattBattleLeft_All2_32
       rect:
         serializedVersion: 2
-        x: 384
-        y: 1280
-        width: 192
-        height: 192
+        x: 444
+        y: 1361
+        width: 57
+        height: 55
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1411,7 +1030,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02d87d028c9daf34fa8a8ac604fe02e8
+      spriteID: 6b162ada9f46e8647b6b58af06866fca
       internalID: -2596147566844109200
       vertices: []
       indices: 
@@ -1421,10 +1040,10 @@ TextureImporter:
       name: WattBattleLeft_All2_33
       rect:
         serializedVersion: 2
-        x: 576
-        y: 1280
-        width: 192
-        height: 192
+        x: 635
+        y: 1361
+        width: 57
+        height: 55
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1432,7 +1051,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70da03cafb0333e4e9f383a57d84c105
+      spriteID: 980d1084d6eb9f5489bf901576cb996c
       internalID: -8744853922716754975
       vertices: []
       indices: 
@@ -1442,10 +1061,10 @@ TextureImporter:
       name: WattBattleLeft_All2_34
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1280
-        width: 192
-        height: 192
+        x: 815
+        y: 1353
+        width: 63
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1453,7 +1072,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e78d02bf9d59e143b2847bf8b9c3ba2
+      spriteID: 42f8bc8b3c895fd4d99e82724f1d1e12
       internalID: -8315820823828029349
       vertices: []
       indices: 
@@ -1463,10 +1082,10 @@ TextureImporter:
       name: WattBattleLeft_All2_35
       rect:
         serializedVersion: 2
-        x: 960
-        y: 1280
-        width: 192
-        height: 192
+        x: 1007
+        y: 1353
+        width: 62
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1474,7 +1093,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb55aca3e6583d240865268120b8041e
+      spriteID: e7265c226679bb043ab1fc8b7cf27592
       internalID: 993835681257268579
       vertices: []
       indices: 
@@ -1484,10 +1103,10 @@ TextureImporter:
       name: WattBattleLeft_All2_36
       rect:
         serializedVersion: 2
-        x: 1152
-        y: 1280
-        width: 192
-        height: 192
+        x: 1193
+        y: 1346
+        width: 49
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1495,7 +1114,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 294ab9d4e60d90245a845a87d9c87578
+      spriteID: c00f2da97b073d44aa5892ce9f648fe9
       internalID: 8254255708248074854
       vertices: []
       indices: 
@@ -1505,10 +1124,10 @@ TextureImporter:
       name: WattBattleLeft_All2_37
       rect:
         serializedVersion: 2
-        x: 1344
-        y: 1280
-        width: 192
-        height: 192
+        x: 1384
+        y: 1346
+        width: 49
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1516,7 +1135,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40f597f363f74704faf239afab3481c8
+      spriteID: f5a692ab0d2a0264ebf957c79e91bf14
       internalID: 7915966569031098253
       vertices: []
       indices: 
@@ -1526,10 +1145,10 @@ TextureImporter:
       name: WattBattleLeft_All2_38
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1280
-        width: 192
-        height: 192
+        x: 1538
+        y: 1362
+        width: 84
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1537,7 +1156,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43a5727492819cf498e43f507af34d85
+      spriteID: b9bc6fd1cb465bd43b4512e1ceea59ac
       internalID: -1413171833132606524
       vertices: []
       indices: 
@@ -1547,10 +1166,10 @@ TextureImporter:
       name: WattBattleLeft_All2_39
       rect:
         serializedVersion: 2
-        x: 1728
-        y: 1280
-        width: 192
-        height: 192
+        x: 1729
+        y: 1362
+        width: 84
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1558,7 +1177,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2b31b38f492076499dba9d0c5142a7f
+      spriteID: b4fae60c4710c90439981ca97de80d63
       internalID: -5268291127938306901
       vertices: []
       indices: 
@@ -1568,10 +1187,10 @@ TextureImporter:
       name: WattBattleLeft_All2_40
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1088
-        width: 192
-        height: 192
+        x: 66
+        y: 1174
+        width: 30
+        height: 98
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1579,7 +1198,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f04ef3b5a80e9343a1fc0647f150ad0
+      spriteID: cfa5904b21c92d6499da53747b80c8d1
       internalID: 1038258314638710563
       vertices: []
       indices: 
@@ -1589,10 +1208,10 @@ TextureImporter:
       name: WattBattleLeft_All2_41
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1088
-        width: 192
-        height: 192
+        x: 257
+        y: 1174
+        width: 30
+        height: 98
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1600,7 +1219,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a9978a58efc83b40b8d47b17946b1cc
+      spriteID: 86a5e48a7dd65744389632ab2f77ee71
       internalID: 6229647801955878591
       vertices: []
       indices: 
@@ -1610,10 +1229,10 @@ TextureImporter:
       name: WattBattleLeft_All2_42
       rect:
         serializedVersion: 2
-        x: 384
-        y: 1088
-        width: 192
-        height: 192
+        x: 449
+        y: 1175
+        width: 31
+        height: 101
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1621,7 +1240,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 296268b28aa594b4c81a5a06a74e3045
+      spriteID: a15fd8a506fd44c4b964e8b22c70a76d
       internalID: 4713939429913794623
       vertices: []
       indices: 
@@ -1631,10 +1250,10 @@ TextureImporter:
       name: WattBattleLeft_All2_43
       rect:
         serializedVersion: 2
-        x: 576
-        y: 1088
-        width: 192
-        height: 192
+        x: 640
+        y: 1175
+        width: 31
+        height: 101
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1642,7 +1261,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c1d61e35e930814e86b011760562358
+      spriteID: 84e73ad6d0de7fa4b8c920db573d35d2
       internalID: -5600729774277672999
       vertices: []
       indices: 
@@ -1652,10 +1271,10 @@ TextureImporter:
       name: WattBattleLeft_All2_44
       rect:
         serializedVersion: 2
-        x: 768
-        y: 1088
-        width: 192
-        height: 192
+        x: 838
+        y: 1174
+        width: 30
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1663,7 +1282,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d03f7f2dbd6b1649b5f68425af25552
+      spriteID: 0f830fa62423f3941a0c20c92a2fce86
       internalID: 4467872843145596311
       vertices: []
       indices: 
@@ -1673,10 +1292,10 @@ TextureImporter:
       name: WattBattleLeft_All2_45
       rect:
         serializedVersion: 2
-        x: 960
-        y: 1088
-        width: 192
-        height: 192
+        x: 1029
+        y: 1174
+        width: 30
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1684,7 +1303,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09ab4e00d66fcde41925a2228ed8b662
+      spriteID: daec293c38fdfc54f8bd0e948e8dac55
       internalID: 3106630946532693807
       vertices: []
       indices: 
@@ -1694,10 +1313,10 @@ TextureImporter:
       name: WattBattleLeft_All2_46
       rect:
         serializedVersion: 2
-        x: 1152
-        y: 1088
-        width: 192
-        height: 192
+        x: 1196
+        y: 1175
+        width: 54
+        height: 85
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1705,7 +1324,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64e91ef53eda4d643b03317625eaa231
+      spriteID: d3a748cda7e50934f805f0ad6c618616
       internalID: -5268526854217598976
       vertices: []
       indices: 
@@ -1715,10 +1334,10 @@ TextureImporter:
       name: WattBattleLeft_All2_47
       rect:
         serializedVersion: 2
-        x: 1344
-        y: 1088
-        width: 192
-        height: 192
+        x: 1387
+        y: 1175
+        width: 54
+        height: 85
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1726,7 +1345,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66eb2fb0d3a5c474aa455e02a23c4dc9
+      spriteID: a72404b41d68d56488607a4bcd1c6393
       internalID: 3829813131049469418
       vertices: []
       indices: 
@@ -1736,10 +1355,10 @@ TextureImporter:
       name: WattBattleLeft_All2_48
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1088
-        width: 192
-        height: 192
+        x: 1569
+        y: 1176
+        width: 64
+        height: 69
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1747,7 +1366,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa4f2a3fe990fbb41a26e19b6b56e1cd
+      spriteID: b031078f46d111449867000614c9702e
       internalID: 926879734124490348
       vertices: []
       indices: 
@@ -1757,10 +1376,10 @@ TextureImporter:
       name: WattBattleLeft_All2_49
       rect:
         serializedVersion: 2
-        x: 1728
-        y: 1088
-        width: 192
-        height: 192
+        x: 1760
+        y: 1176
+        width: 64
+        height: 69
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1768,7 +1387,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61c5cf19aa86e864e832220c49c5fc62
+      spriteID: 6c4a59b36fa1bee4a882c20e453ce5f2
       internalID: 8828891280390005030
       vertices: []
       indices: 
@@ -1778,10 +1397,10 @@ TextureImporter:
       name: WattBattleLeft_All2_50
       rect:
         serializedVersion: 2
-        x: 0
-        y: 896
-        width: 192
-        height: 192
+        x: 89
+        y: 989
+        width: 19
+        height: 69
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1789,7 +1408,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ec26131e1dd2a34c9df3ad53a2281f9
+      spriteID: 011277f1c411f334fb2d14fbee48d8ce
       internalID: 6260156349195700905
       vertices: []
       indices: 
@@ -1799,10 +1418,10 @@ TextureImporter:
       name: WattBattleLeft_All2_51
       rect:
         serializedVersion: 2
-        x: 192
-        y: 896
-        width: 192
-        height: 192
+        x: 280
+        y: 989
+        width: 19
+        height: 69
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1810,7 +1429,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e9e601c176304d419ce4c0f3e414336
+      spriteID: f6b2c0f87a6783e4c8d2f0ad2a118db7
       internalID: -9066209249951937127
       vertices: []
       indices: 
@@ -1820,10 +1439,10 @@ TextureImporter:
       name: WattBattleLeft_All2_52
       rect:
         serializedVersion: 2
-        x: 384
-        y: 896
-        width: 192
-        height: 192
+        x: 472
+        y: 989
+        width: 19
+        height: 74
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1831,7 +1450,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5d4e7c713a21c84a813ff743d1ccd05
+      spriteID: b1884fe89b006294bb83df451bcfbd62
       internalID: 609212696520670736
       vertices: []
       indices: 
@@ -1841,10 +1460,10 @@ TextureImporter:
       name: WattBattleLeft_All2_53
       rect:
         serializedVersion: 2
-        x: 576
-        y: 896
-        width: 192
-        height: 192
+        x: 663
+        y: 989
+        width: 19
+        height: 74
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1852,7 +1471,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cea1f3de549051e45b88f047e6edb57f
+      spriteID: f06301178efb7324f86e3e7310b73044
       internalID: -5341890263621678304
       vertices: []
       indices: 
@@ -1862,10 +1481,10 @@ TextureImporter:
       name: WattBattleLeft_All2_54
       rect:
         serializedVersion: 2
-        x: 768
-        y: 896
-        width: 192
-        height: 192
+        x: 853
+        y: 988
+        width: 21
+        height: 73
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1873,7 +1492,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58288bf74dd28254abd3722a9d7f5830
+      spriteID: c99d205d77d1aa44eb209975991629ff
       internalID: -1566402298948703505
       vertices: []
       indices: 
@@ -1883,10 +1502,10 @@ TextureImporter:
       name: WattBattleLeft_All2_55
       rect:
         serializedVersion: 2
-        x: 960
-        y: 896
-        width: 192
-        height: 192
+        x: 1044
+        y: 988
+        width: 21
+        height: 73
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1894,7 +1513,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6c96ba94ee6ffe409a82483fcd685a6
+      spriteID: 24cb22c625a8f2b45b046acfc461c71a
       internalID: 6748400637198493835
       vertices: []
       indices: 
@@ -1904,10 +1523,10 @@ TextureImporter:
       name: WattBattleLeft_All2_56
       rect:
         serializedVersion: 2
-        x: 1152
-        y: 896
-        width: 192
-        height: 192
+        x: 1236
+        y: 987
+        width: 21
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1915,7 +1534,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca5cb84e6693abe4a83121850178002f
+      spriteID: b7a1ef36f1d77cb47a0eeb30ed71eff6
       internalID: 5276441104218233108
       vertices: []
       indices: 
@@ -1925,10 +1544,10 @@ TextureImporter:
       name: WattBattleLeft_All2_57
       rect:
         serializedVersion: 2
-        x: 1344
-        y: 896
-        width: 192
-        height: 192
+        x: 1427
+        y: 987
+        width: 21
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1936,7 +1555,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22237aaa98b918a4d89949ad3f51ebd6
+      spriteID: dc67522a33ea1cb47b250982af0037c6
       internalID: 3275753415189470810
       vertices: []
       indices: 
@@ -1946,10 +1565,10 @@ TextureImporter:
       name: WattBattleLeft_All2_58
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 896
-        width: 192
-        height: 192
+        x: 1617
+        y: 987
+        width: 22
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1957,7 +1576,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f29cd13d48a5f342879d3bab50a1f81
+      spriteID: 8d2197a37440ca44eaefac784af109eb
       internalID: 8978668513886554793
       vertices: []
       indices: 
@@ -1967,10 +1586,10 @@ TextureImporter:
       name: WattBattleLeft_All2_59
       rect:
         serializedVersion: 2
-        x: 1728
-        y: 896
-        width: 192
-        height: 192
+        x: 1808
+        y: 987
+        width: 22
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1978,7 +1597,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e0f6b7240a428747815774ec117b1df
+      spriteID: 9181405d9a9dd564d8e64c0c15ccf79c
       internalID: -4221615507975558414
       vertices: []
       indices: 
@@ -1988,10 +1607,10 @@ TextureImporter:
       name: WattBattleLeft_All2_60
       rect:
         serializedVersion: 2
-        x: 0
-        y: 704
-        width: 192
-        height: 192
+        x: 89
+        y: 799
+        width: 22
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1999,7 +1618,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56bfa57245e29624e949ae0b28d056bb
+      spriteID: a985b2ee181e1934892f85fce3e1cae2
       internalID: 3494942119971793133
       vertices: []
       indices: 
@@ -2009,10 +1628,10 @@ TextureImporter:
       name: WattBattleLeft_All2_61
       rect:
         serializedVersion: 2
-        x: 192
-        y: 704
-        width: 192
-        height: 192
+        x: 280
+        y: 799
+        width: 22
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2020,7 +1639,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76b61870e43f0794bbf08712e767aa74
+      spriteID: f836caac80efbce4e9c8c53f85f691b0
       internalID: 8671218357207819925
       vertices: []
       indices: 
@@ -2030,10 +1649,10 @@ TextureImporter:
       name: WattBattleLeft_All2_62
       rect:
         serializedVersion: 2
-        x: 384
-        y: 704
-        width: 192
-        height: 192
+        x: 473
+        y: 799
+        width: 20
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2041,7 +1660,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9641afe9eadd79c4284a9ccd674315a5
+      spriteID: db89c844dc858ca4f90e3eaa09d5b9cf
       internalID: -573111971381190698
       vertices: []
       indices: 
@@ -2051,10 +1670,10 @@ TextureImporter:
       name: WattBattleLeft_All2_63
       rect:
         serializedVersion: 2
-        x: 576
-        y: 704
-        width: 192
-        height: 192
+        x: 663
+        y: 799
+        width: 21
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2062,7 +1681,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6cbd39418140cb44ad546c256092fa7
+      spriteID: e3fb77f0dfa108c4fa9f107cdc6e732a
       internalID: -1672955894254659562
       vertices: []
       indices: 
@@ -2072,10 +1691,10 @@ TextureImporter:
       name: WattBattleLeft_All2_64
       rect:
         serializedVersion: 2
-        x: 768
-        y: 704
-        width: 192
-        height: 192
+        x: 855
+        y: 799
+        width: 20
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2083,7 +1702,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0443d3d223eef534ab92b037aa423b70
+      spriteID: 8e8cd614f6c51374291b07534fc51192
       internalID: 870638138295120499
       vertices: []
       indices: 
@@ -2093,10 +1712,10 @@ TextureImporter:
       name: WattBattleLeft_All2_65
       rect:
         serializedVersion: 2
-        x: 960
-        y: 704
-        width: 192
-        height: 192
+        x: 1046
+        y: 799
+        width: 20
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2104,7 +1723,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d4908d4ce3d7044cb1eece04f46eccf
+      spriteID: 348eb71327a5da34da926d1aca6ef840
       internalID: 9000528381732274755
       vertices: []
       indices: 
