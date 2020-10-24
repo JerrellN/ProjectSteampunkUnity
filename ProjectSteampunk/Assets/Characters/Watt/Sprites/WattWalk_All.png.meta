@@ -1,0 +1,3619 @@
+fileFormatVersion: 2
+guid: 5a2b49d502c2fa34eb8c32337017f7ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5528091614201644141
+    second: WattWalk_All_0
+  - first:
+      213: -6962353383537550858
+    second: WattWalk_All_1
+  - first:
+      213: -1905182904909395315
+    second: WattWalk_All_2
+  - first:
+      213: -5527070940665630624
+    second: WattWalk_All_3
+  - first:
+      213: 7781043708569576577
+    second: WattWalk_All_4
+  - first:
+      213: 4234879019060209280
+    second: WattWalk_All_5
+  - first:
+      213: -2461643638990084889
+    second: WattWalk_All_6
+  - first:
+      213: 2546811101700020557
+    second: WattWalk_All_7
+  - first:
+      213: -2117197022191645084
+    second: WattWalk_All_8
+  - first:
+      213: -3965729288299784489
+    second: WattWalk_All_9
+  - first:
+      213: -1371531873601555295
+    second: WattWalk_All_10
+  - first:
+      213: 5284705670564131374
+    second: WattWalk_All_11
+  - first:
+      213: 4476592200232459178
+    second: WattWalk_All_12
+  - first:
+      213: -1671986589400564949
+    second: WattWalk_All_13
+  - first:
+      213: 1997687991162555110
+    second: WattWalk_All_14
+  - first:
+      213: -917053066064582051
+    second: WattWalk_All_15
+  - first:
+      213: 8218335429710544485
+    second: WattWalk_All_16
+  - first:
+      213: 244647098140610345
+    second: WattWalk_All_17
+  - first:
+      213: 3463269437386365225
+    second: WattWalk_All_18
+  - first:
+      213: 2308789205273719247
+    second: WattWalk_All_19
+  - first:
+      213: 6311435565808583217
+    second: WattWalk_All_20
+  - first:
+      213: -5155988621114569057
+    second: WattWalk_All_21
+  - first:
+      213: -992360675885227032
+    second: WattWalk_All_22
+  - first:
+      213: 8999741530754483474
+    second: WattWalk_All_23
+  - first:
+      213: 7842336780490094161
+    second: WattWalk_All_24
+  - first:
+      213: 3483432529565327725
+    second: WattWalk_All_25
+  - first:
+      213: -1446821792056108781
+    second: WattWalk_All_26
+  - first:
+      213: 5789861837613209171
+    second: WattWalk_All_27
+  - first:
+      213: 4397873079385521149
+    second: WattWalk_All_28
+  - first:
+      213: -3354745584798935723
+    second: WattWalk_All_29
+  - first:
+      213: -8605892041632543572
+    second: WattWalk_All_30
+  - first:
+      213: -5459109768205990984
+    second: WattWalk_All_31
+  - first:
+      213: 2231652777010784256
+    second: WattWalk_All_32
+  - first:
+      213: 1375426287120957043
+    second: WattWalk_All_33
+  - first:
+      213: 3923023078768753498
+    second: WattWalk_All_34
+  - first:
+      213: -2255802007314849241
+    second: WattWalk_All_35
+  - first:
+      213: 5168100217653734724
+    second: WattWalk_All_36
+  - first:
+      213: 2448649783550165665
+    second: WattWalk_All_37
+  - first:
+      213: 1411686566674710159
+    second: WattWalk_All_38
+  - first:
+      213: -3166381956568634204
+    second: WattWalk_All_39
+  - first:
+      213: 4668298833298866109
+    second: WattWalk_All_40
+  - first:
+      213: -3931018811761621524
+    second: WattWalk_All_41
+  - first:
+      213: 6354543172891537721
+    second: WattWalk_All_42
+  - first:
+      213: 2865310515638335137
+    second: WattWalk_All_43
+  - first:
+      213: 7682280069235755243
+    second: WattWalk_All_44
+  - first:
+      213: 950007997757588598
+    second: WattWalk_All_45
+  - first:
+      213: -7735841545250370238
+    second: WattWalk_All_46
+  - first:
+      213: 6046916247109646450
+    second: WattWalk_All_47
+  - first:
+      213: 743195660851599773
+    second: WattWalk_All_48
+  - first:
+      213: -4947504164220934603
+    second: WattWalk_All_49
+  - first:
+      213: 8658225750527754906
+    second: WattWalk_All_50
+  - first:
+      213: -409479219790762540
+    second: WattWalk_All_51
+  - first:
+      213: -7928662843003131753
+    second: WattWalk_All_52
+  - first:
+      213: -1448881344945531244
+    second: WattWalk_All_53
+  - first:
+      213: -5637550808346520576
+    second: WattWalk_All_54
+  - first:
+      213: 2314173888349495619
+    second: WattWalk_All_55
+  - first:
+      213: -7130560502572791858
+    second: WattWalk_All_56
+  - first:
+      213: 8641972440952060390
+    second: WattWalk_All_57
+  - first:
+      213: -7660278379844191691
+    second: WattWalk_All_58
+  - first:
+      213: -7099379792956938545
+    second: WattWalk_All_59
+  - first:
+      213: -8381389167544553710
+    second: WattWalk_All_60
+  - first:
+      213: 5835998887771511672
+    second: WattWalk_All_61
+  - first:
+      213: -6137556857813747507
+    second: WattWalk_All_62
+  - first:
+      213: 7722423215161719278
+    second: WattWalk_All_63
+  - first:
+      213: 9204291834576127216
+    second: WattWalk_All_64
+  - first:
+      213: 8055502198734314924
+    second: WattWalk_All_65
+  - first:
+      213: -6097089849507052094
+    second: WattWalk_All_66
+  - first:
+      213: 9197231139046164695
+    second: WattWalk_All_67
+  - first:
+      213: 1537092899488886593
+    second: WattWalk_All_68
+  - first:
+      213: 3123612219168452881
+    second: WattWalk_All_69
+  - first:
+      213: 5758893592820435873
+    second: WattWalk_All_70
+  - first:
+      213: -7071413378436019816
+    second: WattWalk_All_71
+  - first:
+      213: 91251713190441435
+    second: WattWalk_All_72
+  - first:
+      213: -7054893689223757680
+    second: WattWalk_All_73
+  - first:
+      213: 7162014702177452112
+    second: WattWalk_All_74
+  - first:
+      213: -5342197342305105815
+    second: WattWalk_All_75
+  - first:
+      213: 372199750858657053
+    second: WattWalk_All_76
+  - first:
+      213: -945865622108182897
+    second: WattWalk_All_77
+  - first:
+      213: 1889744876926020225
+    second: WattWalk_All_78
+  - first:
+      213: -4009487144126312183
+    second: WattWalk_All_79
+  - first:
+      213: -7351207658667901198
+    second: WattWalk_All_80
+  - first:
+      213: -2100377119386359734
+    second: WattWalk_All_81
+  - first:
+      213: -3402592688526586122
+    second: WattWalk_All_82
+  - first:
+      213: 5056807917547708764
+    second: WattWalk_All_83
+  - first:
+      213: 8857861470470777607
+    second: WattWalk_All_84
+  - first:
+      213: -1261326767787108666
+    second: WattWalk_All_85
+  - first:
+      213: -8534153637471618155
+    second: WattWalk_All_86
+  - first:
+      213: -8618606269707162342
+    second: WattWalk_All_87
+  - first:
+      213: -9212998748140301344
+    second: WattWalk_All_88
+  - first:
+      213: -8527001972536671173
+    second: WattWalk_All_89
+  - first:
+      213: 7888524992506436369
+    second: WattWalk_All_90
+  - first:
+      213: -1148204069449826939
+    second: WattWalk_All_91
+  - first:
+      213: -5445575417953442177
+    second: WattWalk_All_92
+  - first:
+      213: 1322318118868405072
+    second: WattWalk_All_93
+  - first:
+      213: 7446323363984887900
+    second: WattWalk_All_94
+  - first:
+      213: 2955199677735202479
+    second: WattWalk_All_95
+  - first:
+      213: -8519925098408922097
+    second: WattWalk_All_96
+  - first:
+      213: -2707361930960945243
+    second: WattWalk_All_97
+  - first:
+      213: -1615373131796021468
+    second: WattWalk_All_98
+  - first:
+      213: -3338233726064773616
+    second: WattWalk_All_99
+  - first:
+      213: -894917733227783865
+    second: WattWalk_All_100
+  - first:
+      213: -7268099270489933714
+    second: WattWalk_All_101
+  - first:
+      213: 5670830325330037671
+    second: WattWalk_All_102
+  - first:
+      213: -6298643749552957973
+    second: WattWalk_All_103
+  - first:
+      213: -7164172625128414646
+    second: WattWalk_All_104
+  - first:
+      213: 2038332532041743428
+    second: WattWalk_All_105
+  - first:
+      213: -7072320589365673128
+    second: WattWalk_All_106
+  - first:
+      213: -2683139261220255166
+    second: WattWalk_All_107
+  - first:
+      213: 3698422641166361509
+    second: WattWalk_All_108
+  - first:
+      213: 2972667505584769467
+    second: WattWalk_All_109
+  - first:
+      213: 8226800428707061063
+    second: WattWalk_All_110
+  - first:
+      213: 5699298482084219182
+    second: WattWalk_All_111
+  - first:
+      213: 4814504351924092247
+    second: WattWalk_All_112
+  - first:
+      213: -8417385181535380346
+    second: WattWalk_All_113
+  - first:
+      213: -4737154372060806226
+    second: WattWalk_All_114
+  - first:
+      213: 5591417974351890034
+    second: WattWalk_All_115
+  - first:
+      213: 5180091079865071784
+    second: WattWalk_All_116
+  - first:
+      213: -661936530811593426
+    second: WattWalk_All_117
+  - first:
+      213: 6529447086293031282
+    second: WattWalk_All_118
+  - first:
+      213: 3301690504155622588
+    second: WattWalk_All_119
+  - first:
+      213: 4960873511567119035
+    second: WattWalk_All_120
+  - first:
+      213: -7260891774306256536
+    second: WattWalk_All_121
+  - first:
+      213: 617054883320478326
+    second: WattWalk_All_122
+  - first:
+      213: -1779685388406161178
+    second: WattWalk_All_123
+  - first:
+      213: 7634027635624111612
+    second: WattWalk_All_124
+  - first:
+      213: -5210884148312757605
+    second: WattWalk_All_125
+  - first:
+      213: -2638705124344840287
+    second: WattWalk_All_126
+  - first:
+      213: -5050835108485223728
+    second: WattWalk_All_127
+  - first:
+      213: -4057464420245087385
+    second: WattWalk_All_128
+  - first:
+      213: 6670401423561184959
+    second: WattWalk_All_129
+  - first:
+      213: 6301026898394076649
+    second: WattWalk_All_130
+  - first:
+      213: -3038334247936540169
+    second: WattWalk_All_131
+  - first:
+      213: -1033110329220181291
+    second: WattWalk_All_132
+  - first:
+      213: -5654203688044588805
+    second: WattWalk_All_133
+  - first:
+      213: -4452567500569659019
+    second: WattWalk_All_134
+  - first:
+      213: 6194582446384122017
+    second: WattWalk_All_135
+  - first:
+      213: -4614803075534084729
+    second: WattWalk_All_136
+  - first:
+      213: 4691103811678211433
+    second: WattWalk_All_137
+  - first:
+      213: 7448576100502520556
+    second: WattWalk_All_138
+  - first:
+      213: -8288251056964257007
+    second: WattWalk_All_139
+  - first:
+      213: -3881396480850170760
+    second: WattWalk_All_140
+  - first:
+      213: 7139693685612619827
+    second: WattWalk_All_141
+  - first:
+      213: -3414552308475540676
+    second: WattWalk_All_142
+  - first:
+      213: 2944132946476914154
+    second: WattWalk_All_143
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WattWalk_All_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1978
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71928d6e4693ef14ab7cbf9c4ce6e110
+      internalID: -5528091614201644141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1978
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499e0270a9e01124fbb645cf5ece0202
+      internalID: -6962353383537550858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1975
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc75b77aacccdd48b696e7b6fada845
+      internalID: -1905182904909395315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_3
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1975
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542f9339c26e7e04f9d7af0eaf640f1f
+      internalID: -5527070940665630624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_4
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1972
+        width: 31
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afded56bbc570b4ebbdb621c378f085
+      internalID: 7781043708569576577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_5
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1972
+        width: 31
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090b7c7601af21441baf5d43d07f62e5
+      internalID: 4234879019060209280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_6
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1971
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac32dcd7b19d7d24eb0f2ae962b5bdcd
+      internalID: -2461643638990084889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_7
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1971
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c508c055094f20b4cb48cb068fba84ac
+      internalID: 2546811101700020557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_8
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1977
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca491395b51f0004eb655b614c35c151
+      internalID: -2117197022191645084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_9
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1977
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6465f841f3f9b2042940e088fa92354e
+      internalID: -3965729288299784489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_10
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1975
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96be958f81d71944eadbdc8c57759a79
+      internalID: -1371531873601555295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1838
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bfd54ce8d6df344b2c019b54ee2d23
+      internalID: 5284705670564131374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1836
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3aa7d6b495633479daaf4822e5cb0c
+      internalID: 4476592200232459178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_13
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1836
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5bb9567cff8e844b9ad85a51de4bac
+      internalID: -1671986589400564949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1835
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d05cdecb2818e24d8bb6a1104870a7c
+      internalID: 1997687991162555110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_15
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1835
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5752e06a46e5c4aae2180529144298
+      internalID: -917053066064582051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_16
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1840
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02add79ce0115de4e8e02bd66c96f4b0
+      internalID: 8218335429710544485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_17
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1840
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c40aee5288abdd4e9f9638ad74a7e95
+      internalID: 244647098140610345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_18
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1840
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae35fbd1d160d78488411ea862014528
+      internalID: 3463269437386365225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_19
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1840
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b00269bf149214aa123df58944348d
+      internalID: 2308789205273719247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_20
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1834
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930170c51f2a30e4caa7e19911616cda
+      internalID: 6311435565808583217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_21
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1834
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a78edf64cb89d42862c20210accaf1
+      internalID: -5155988621114569057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1694
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9884be8994b70846b04759c068f63f1
+      internalID: -992360675885227032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1694
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968e98b8228041c4f980d2eacc55d00c
+      internalID: 8999741530754483474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1694
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6b8fa6bfaeab34783f3f468f1e3beb
+      internalID: 7842336780490094161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_25
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1694
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ec6cff63151524ea1487dde5501194
+      internalID: 3483432529565327725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_26
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1699
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01a1ee2e1950d744af6a25909b05d51
+      internalID: -1446821792056108781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_27
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1699
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61906b19d3ab2a34a84658bc373a3a66
+      internalID: 5789861837613209171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_28
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1702
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9262910ff060b124795f0476c188383e
+      internalID: 4397873079385521149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_29
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1702
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eb1e265986cef43b9a1f5d8e9d26af
+      internalID: -3354745584798935723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_30
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1698
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516a008e13448c24b9431ab51ca51db9
+      internalID: -8605892041632543572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_31
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1698
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20a79287a33e564e8ede77ceb3bb95f
+      internalID: -5459109768205990984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_32
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1697
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4319ae9d6d8914fb3ea1d31d575e55
+      internalID: 2231652777010784256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_33
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1559
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06469e26be0dc344da45a6905f8b6426
+      internalID: 1375426287120957043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1565
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62d0b781004fac49bf4d5b5874ca44a
+      internalID: 3923023078768753498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_35
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1565
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f86fb6524d9214dbc3f8ff4a13ec4b
+      internalID: -2255802007314849241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_36
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1564
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730b014e0a4918f4dbe3d24d8dd50b61
+      internalID: 5168100217653734724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_37
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1564
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbeb67b17daba347979671310137d68
+      internalID: 2448649783550165665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_38
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1565
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8566070e61d2748b1316508c6bdaf5
+      internalID: 1411686566674710159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_39
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1565
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de458e239781fcf4197e659373470e17
+      internalID: -3166381956568634204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_40
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1563
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa44496a5c79524e9d5db2fb16a928c
+      internalID: 4668298833298866109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_41
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1563
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9f8671f9cd66545a0ee1647d4e56ab
+      internalID: -3931018811761621524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_42
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1563
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a4f68c2f5f69a449b72c366e5b54ad
+      internalID: 6354543172891537721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_43
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1563
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9cf7cf3a552ea49991a9c0a933ca72
+      internalID: 2865310515638335137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_44
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1430
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c548871bab2e19843930a54f23e09390
+      internalID: 7682280069235755243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1430
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a095b8c6201224bbb54fc46cc4be53
+      internalID: 950007997757588598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_46
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1424
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dece896445acb44090db4bb79b8b199
+      internalID: -7735841545250370238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_47
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1424
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ecc0672102e5342b46301427f080a2
+      internalID: 6046916247109646450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_48
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1423
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f72895dd76957146907b2f6a4f4ecab
+      internalID: 743195660851599773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_49
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1423
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34509cd5ae0c82748b06992b2dbf5df1
+      internalID: -4947504164220934603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_50
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1422
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eb0bee3a3b0494399007416595c046
+      internalID: 8658225750527754906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_51
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1422
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3772356b08492804fbcc302d6d1efe3b
+      internalID: -409479219790762540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_52
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1426
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8e6bc522a3c37428c939a4d9007cb2
+      internalID: -7928662843003131753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_53
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1426
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e526ab9fe1fd3b40afcd664899f6a48
+      internalID: -1448881344945531244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_54
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1428
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a057e1af0a0b054cbf1457c39f969d5
+      internalID: -5637550808346520576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_55
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1291
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0f826d355ff3d4688305df46d56606
+      internalID: 2314173888349495619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_56
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1291
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a837dc98b95aa44a91cf71d2d98d5a1
+      internalID: -7130560502572791858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1291
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d436621bfdb6af84e968006034650d94
+      internalID: 8641972440952060390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_58
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1289
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3509a8b0e197f47b84b2021b9b72d8
+      internalID: -7660278379844191691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_59
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1289
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ee50cb0855910408978d6d8bb62cb8
+      internalID: -7099379792956938545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_60
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1288
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b698b2dc67852fb40a1e398af8d75e6f
+      internalID: -8381389167544553710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_61
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1288
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fdf2766bdd10447a38d224b189dc11
+      internalID: 5835998887771511672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_62
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1290
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03836b03bd3219d41a8d319343695712
+      internalID: -6137556857813747507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_63
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1290
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b715e424e2c67b4f94127b80a4de319
+      internalID: 7722423215161719278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_64
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1287
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0861e76de22e40f4a9eb4b4e1904eb29
+      internalID: 9204291834576127216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_65
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1287
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02380a2cf0e4d9e46954afdf5e774706
+      internalID: 8055502198734314924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_66
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1148
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea04d6b1f5997e4382329a9173d76c2
+      internalID: -6097089849507052094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_67
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1148
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad33133d62e651641b95642fe43701b8
+      internalID: 9197231139046164695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_68
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1147
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c928ad456189746b44e9c71a7be201
+      internalID: 1537092899488886593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_69
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1147
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2f29d198c418943afefc28d2b78418
+      internalID: 3123612219168452881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_70
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1154
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d79517dc423ff42b7d653245a7b002
+      internalID: 5758893592820435873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_71
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1154
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f81ef0c3b5e244593effd4cfe34194
+      internalID: -7071413378436019816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_72
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1155
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96066c62044ab214fabb3a3a88a320af
+      internalID: 91251713190441435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_73
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1155
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a5163be77adde4788d2e29f807c662
+      internalID: -7054893689223757680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_74
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1152
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438618539b86f324d81a55381fc4e4b5
+      internalID: 7162014702177452112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_75
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1152
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cac5a7801a023e418c6166db5a46ffd
+      internalID: -5342197342305105815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_76
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1150
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6090357757447e24ab807b7d1ac48e0d
+      internalID: 372199750858657053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_77
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1013
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275c3fbd8c93e1742a3dde6fadbd3cfb
+      internalID: -945865622108182897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_78
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1011
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab0296d6aa209f4bba32a3584306fe5
+      internalID: 1889744876926020225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_79
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1011
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a159d0078f633bc46afb0bf3228a04f7
+      internalID: -4009487144126312183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_80
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1016
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1b765c6c16b224a8e79e852f8f9b45
+      internalID: -7351207658667901198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_81
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1016
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead739288e5f9b54e93dbf9cd4fdf7ae
+      internalID: -2100377119386359734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_82
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1017
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f895079e91d4342887444e91643dc3
+      internalID: -3402592688526586122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_83
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1017
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321328f2fe4110e4ca0b35195e27becf
+      internalID: 5056807917547708764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_84
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1016
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f502354a8190f3242af1b44a16d8cd8e
+      internalID: 8857861470470777607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_85
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1016
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6279cdbba3f28c24badd874338e72f7a
+      internalID: -1261326767787108666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_86
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1015
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17e7e237e2fefd42b73a0e2e9d73e7a
+      internalID: -8534153637471618155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_87
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1015
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f044533de2133c141b360c3e32aa13b9
+      internalID: -8618606269707162342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_88
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 881
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a62c65afc58fa24295fa2c22c52cbd7
+      internalID: -9212998748140301344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_89
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 881
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55006724d852c9a46b9197c702560047
+      internalID: -8527001972536671173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_90
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 879
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd36fe389bd3ac439c8220d1dd87c5e
+      internalID: 7888524992506436369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_91
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 879
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf38b04e8a90c74d8d0209c2a5ccc0e
+      internalID: -1148204069449826939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_92
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 875
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310c1c47ed47bda468dd0b5fce091c32
+      internalID: -5445575417953442177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_93
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 875
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676c5fe1d3e7b5f4da164790ebfac7b4
+      internalID: 1322318118868405072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_94
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 872
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d1ef26054698b41a836e0db1f69c84
+      internalID: 7446323363984887900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_95
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 872
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf06530ea9cb5ad4f96d43e97ba3fead
+      internalID: 2955199677735202479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_96
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 872
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705d49cc0155b354994bb843621a11fa
+      internalID: -8519925098408922097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_97
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 872
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e27c5c47a89584b9d2a2aed374e19a
+      internalID: -2707361930960945243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_98
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 878
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467f1212891fa0f49939b213b152b669
+      internalID: -1615373131796021468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_99
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 741
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dbffb5d93537243aff24707f4b4c30
+      internalID: -3338233726064773616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_100
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 739
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b282862459239b49b59d0aee4855856
+      internalID: -894917733227783865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_101
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 739
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e33e9947d67ffb4d82043748de4e5ba
+      internalID: -7268099270489933714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_102
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 736
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c759d6158c7d65444af718c58c1e2086
+      internalID: 5670830325330037671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_103
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 736
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11ecddf2a0fdd140b41d9d819b652ef
+      internalID: -6298643749552957973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_104
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 735
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa2274da5bca944e854419f5858327e
+      internalID: -7164172625128414646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_105
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 735
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c37b816c106b4b4dad426f0764f5cf4
+      internalID: 2038332532041743428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_106
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 742
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c8a9139cce9674590cf5b68353583b
+      internalID: -7072320589365673128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_107
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 742
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d96c2c0444df54197fe757be568c5d
+      internalID: -2683139261220255166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_108
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 743
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f863eaca63d1c2a4d94db904d489afdd
+      internalID: 3698422641166361509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_109
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 743
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5f97674f15b964b962ce050a85c2bc
+      internalID: 2972667505584769467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_110
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 604
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61acb55cdd94ab648a633dedad99f6f7
+      internalID: 8226800428707061063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_111
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 604
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b03a0778130c46abc36949d0680cb
+      internalID: 5699298482084219182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_112
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 605
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46561b595ec55d4448610380d4b9f5ab
+      internalID: 4814504351924092247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_113
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 605
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611e34f920f1fed4ab03c7dcf820fce5
+      internalID: -8417385181535380346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_114
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 604
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976eb3b7e6e3355498d8bd0698296462
+      internalID: -4737154372060806226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_115
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 604
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13193e92725b4774daa0eff50bcddb9c
+      internalID: 5591417974351890034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_116
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 605
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232322abcd78c844d80de96dd1e1941b
+      internalID: 5180091079865071784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_117
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 605
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30b0b86619cc854ba00a0dface0af53
+      internalID: -661936530811593426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_118
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 606
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d0be548ad3ea44caf26268dfed3979
+      internalID: 6529447086293031282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_119
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 606
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc9e611113d7014db7e9702eb5bf51d
+      internalID: 3301690504155622588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_120
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 607
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa7f270c6cdb5b4cb437791947589e0
+      internalID: 4960873511567119035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 470
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1de77be38005f4e821f12ee434e46b
+      internalID: -7260891774306256536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_122
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 471
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee0ea047c5d1354b984b02e10a2516e
+      internalID: 617054883320478326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_123
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 471
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bda5d4c185d37418a75f4f106d0d4e
+      internalID: -1779685388406161178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_124
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 470
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8add15d3ebac5974b901b647488a156a
+      internalID: 7634027635624111612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_125
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 470
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdae31ca9aec7841b2b39d069ae70dc
+      internalID: -5210884148312757605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_126
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 470
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e0eb59ecb3f204982a18028a720f31
+      internalID: -2638705124344840287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_127
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 470
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e762452c455c247a117671cf825f7a
+      internalID: -5050835108485223728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_128
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 470
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cece02f10f1f0894ba696fa9b6fda264
+      internalID: -4057464420245087385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_129
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 470
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd80479e496ee124c834d291681a3278
+      internalID: 6670401423561184959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_130
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 470
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1c0b483da5f1d45afbe24dcde4c415
+      internalID: 6301026898394076649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_131
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 470
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a8f5e42f27111418266a32c15f888b
+      internalID: -3038334247936540169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_132
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 333
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae430590ebfb644681145dd745ce101
+      internalID: -1033110329220181291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_133
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 333
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75d648b3c226354fbbbc9ff86e0c636
+      internalID: -5654203688044588805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_134
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 332
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7102fbfee1ef64991ee6a5e093129e
+      internalID: -4452567500569659019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_135
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 332
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68ecd48685a51a4182b3ebd3085c776
+      internalID: 6194582446384122017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_136
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 333
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82d749cc4c449b41a653b743cfd91f1
+      internalID: -4614803075534084729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_137
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 333
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42386350572b7ef41ae15066c82e5345
+      internalID: 4691103811678211433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_138
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 333
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fcc5a07ad3dd246842f9d70c0f6992
+      internalID: 7448576100502520556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_139
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 333
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6dcd863e64f384493a3339d49ac57c
+      internalID: -8288251056964257007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_140
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 333
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c159f110d084dd843820e721ea76b1be
+      internalID: -3881396480850170760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_141
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 332
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c8f2edf9a242a4eb7a2232193822c5
+      internalID: 7139693685612619827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_142
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 332
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e88a2bffb4a72342a279d1620b17cc6
+      internalID: -3414552308475540676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalk_All_143
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 195
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf791130670f3084a878a9060f263ff3
+      internalID: 2944132946476914154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

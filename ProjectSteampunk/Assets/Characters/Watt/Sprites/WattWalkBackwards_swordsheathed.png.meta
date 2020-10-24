@@ -1,0 +1,3199 @@
+fileFormatVersion: 2
+guid: 2530e5922b227234480d7d5e0ae21ecb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6631692007413904940
+    second: WattWalkBackwards_swordsheathed_0_Forward
+  - first:
+      213: 69477146574387546
+    second: WattWalkBackwards_swordsheathed_1
+  - first:
+      213: -8683668654374573576
+    second: WattWalkBackwards_swordsheathed_2
+  - first:
+      213: -1354572397900874352
+    second: WattWalkBackwards_swordsheathed_3
+  - first:
+      213: 1504147372241867315
+    second: WattWalkBackwards_swordsheathed_4
+  - first:
+      213: 5794541292913961340
+    second: WattWalkBackwards_swordsheathed_5
+  - first:
+      213: -1298432855584107587
+    second: WattWalkBackwards_swordsheathed_6
+  - first:
+      213: 7249561296041084477
+    second: WattWalkBackwards_swordsheathed_7
+  - first:
+      213: 4651422833054474765
+    second: WattWalkBackwards_swordsheathed_8
+  - first:
+      213: 5111225039333909783
+    second: WattWalkBackwards_swordsheathed_9
+  - first:
+      213: -2814485147851776971
+    second: WattWalkBackwards_swordsheathed_10
+  - first:
+      213: -172123405229023290
+    second: WattWalkBackwards_swordsheathed_11
+  - first:
+      213: -1606715356621834859
+    second: WattWalkBackwards_swordsheathed_12
+  - first:
+      213: 8490062074863991559
+    second: WattWalkBackwards_swordsheathed_13
+  - first:
+      213: -2765274672575326213
+    second: WattWalkBackwards_swordsheathed_14_DiagBR
+  - first:
+      213: -7268370857701990320
+    second: WattWalkBackwards_swordsheathed_15
+  - first:
+      213: -4210669083124243249
+    second: WattWalkBackwards_swordsheathed_16
+  - first:
+      213: 1119927483278193278
+    second: WattWalkBackwards_swordsheathed_17
+  - first:
+      213: 2605946992588065270
+    second: WattWalkBackwards_swordsheathed_18
+  - first:
+      213: 1902849561596274355
+    second: WattWalkBackwards_swordsheathed_19
+  - first:
+      213: -1141869198175237744
+    second: WattWalkBackwards_swordsheathed_20
+  - first:
+      213: -7802024635676348385
+    second: WattWalkBackwards_swordsheathed_21
+  - first:
+      213: 5234723707464374851
+    second: WattWalkBackwards_swordsheathed_22
+  - first:
+      213: -537635663149937914
+    second: WattWalkBackwards_swordsheathed_23
+  - first:
+      213: 8075593124817667923
+    second: WattWalkBackwards_swordsheathed_24
+  - first:
+      213: 8997512715949597054
+    second: WattWalkBackwards_swordsheathed_25
+  - first:
+      213: 575352899686816899
+    second: WattWalkBackwards_swordsheathed_26
+  - first:
+      213: 4251757368753879973
+    second: WattWalkBackwards_swordsheathed_27
+  - first:
+      213: 6624133103634367782
+    second: WattWalkBackwards_swordsheathed_28
+  - first:
+      213: -938031972738552758
+    second: WattWalkBackwards_swordsheathed_29
+  - first:
+      213: 4988643968139502782
+    second: WattWalkBackwards_swordsheathed_30_Right
+  - first:
+      213: -4321231719822683758
+    second: WattWalkBackwards_swordsheathed_31
+  - first:
+      213: -8247906046484072159
+    second: WattWalkBackwards_swordsheathed_32
+  - first:
+      213: -8545077423712668809
+    second: WattWalkBackwards_swordsheathed_33
+  - first:
+      213: -5339319996527985245
+    second: WattWalkBackwards_swordsheathed_34
+  - first:
+      213: 5939013986449443038
+    second: WattWalkBackwards_swordsheathed_35
+  - first:
+      213: 8917229064737027156
+    second: WattWalkBackwards_swordsheathed_36
+  - first:
+      213: 889923159245225415
+    second: WattWalkBackwards_swordsheathed_37
+  - first:
+      213: -5310656539407047460
+    second: WattWalkBackwards_swordsheathed_38
+  - first:
+      213: 8284159905086587653
+    second: WattWalkBackwards_swordsheathed_39
+  - first:
+      213: 4631465858973149336
+    second: WattWalkBackwards_swordsheathed_40
+  - first:
+      213: -7235573226623368096
+    second: WattWalkBackwards_swordsheathed_41
+  - first:
+      213: 4073916897484894287
+    second: WattWalkBackwards_swordsheathed_42
+  - first:
+      213: -4803163051264839933
+    second: WattWalkBackwards_swordsheathed_43
+  - first:
+      213: -5234668416370188149
+    second: WattWalkBackwards_swordsheathed_44
+  - first:
+      213: 5690749375080005102
+    second: WattWalkBackwards_swordsheathed_45
+  - first:
+      213: -5501162793600951472
+    second: WattWalkBackwards_swordsheathed_46_DiagTR
+  - first:
+      213: 5165362483488680319
+    second: WattWalkBackwards_swordsheathed_47
+  - first:
+      213: 6266850502140874431
+    second: WattWalkBackwards_swordsheathed_48
+  - first:
+      213: 581343516237643028
+    second: WattWalkBackwards_swordsheathed_49
+  - first:
+      213: -6341713279047160111
+    second: WattWalkBackwards_swordsheathed_50
+  - first:
+      213: -4575256377552409588
+    second: WattWalkBackwards_swordsheathed_51
+  - first:
+      213: 6382810037038050789
+    second: WattWalkBackwards_swordsheathed_52
+  - first:
+      213: -8266889387302142524
+    second: WattWalkBackwards_swordsheathed_53
+  - first:
+      213: 9056753771781328753
+    second: WattWalkBackwards_swordsheathed_54
+  - first:
+      213: -724016695811116746
+    second: WattWalkBackwards_swordsheathed_55
+  - first:
+      213: 927939236380593112
+    second: WattWalkBackwards_swordsheathed_56
+  - first:
+      213: -9010283238948683640
+    second: WattWalkBackwards_swordsheathed_57
+  - first:
+      213: 3635738854764738199
+    second: WattWalkBackwards_swordsheathed_58
+  - first:
+      213: -524515016492732448
+    second: WattWalkBackwards_swordsheathed_59
+  - first:
+      213: -5924890032108624919
+    second: WattWalkBackwards_swordsheathed_60_Away
+  - first:
+      213: -1944136183691513708
+    second: WattWalkBackwards_swordsheathed_61
+  - first:
+      213: -2132971227858251127
+    second: WattWalkBackwards_swordsheathed_62
+  - first:
+      213: 1385680845666488863
+    second: WattWalkBackwards_swordsheathed_63
+  - first:
+      213: 8885780546637264889
+    second: WattWalkBackwards_swordsheathed_64
+  - first:
+      213: 1340241433096520253
+    second: WattWalkBackwards_swordsheathed_65
+  - first:
+      213: 2797621239532643669
+    second: WattWalkBackwards_swordsheathed_66
+  - first:
+      213: -1286322817023131950
+    second: WattWalkBackwards_swordsheathed_67
+  - first:
+      213: 900037951605751975
+    second: WattWalkBackwards_swordsheathed_68
+  - first:
+      213: -4648893392775403058
+    second: WattWalkBackwards_swordsheathed_69
+  - first:
+      213: 4472052576963120928
+    second: WattWalkBackwards_swordsheathed_70
+  - first:
+      213: 1273304237017303622
+    second: WattWalkBackwards_swordsheathed_71
+  - first:
+      213: -6657163416364298165
+    second: WattWalkBackwards_swordsheathed_72
+  - first:
+      213: 7278491571577633497
+    second: WattWalkBackwards_swordsheathed_73
+  - first:
+      213: 8111559709703477956
+    second: WattWalkBackwards_swordsheathed_74
+  - first:
+      213: 792648650300592530
+    second: WattWalkBackwards_swordsheathed_75
+  - first:
+      213: -184174062079854660
+    second: WattWalkBackwards_swordsheathed_76_DiagTL
+  - first:
+      213: -8801591033045980137
+    second: WattWalkBackwards_swordsheathed_77
+  - first:
+      213: -8959764690719575694
+    second: WattWalkBackwards_swordsheathed_78
+  - first:
+      213: -8741226188080185401
+    second: WattWalkBackwards_swordsheathed_79
+  - first:
+      213: -569293039185339579
+    second: WattWalkBackwards_swordsheathed_80
+  - first:
+      213: 5400491067704252719
+    second: WattWalkBackwards_swordsheathed_81
+  - first:
+      213: 7878937169154940595
+    second: WattWalkBackwards_swordsheathed_82
+  - first:
+      213: -539561208457384864
+    second: WattWalkBackwards_swordsheathed_83
+  - first:
+      213: -3683851468331401804
+    second: WattWalkBackwards_swordsheathed_84
+  - first:
+      213: -6895062895282391889
+    second: WattWalkBackwards_swordsheathed_85
+  - first:
+      213: -8599749390412992935
+    second: WattWalkBackwards_swordsheathed_86
+  - first:
+      213: -464153741399689756
+    second: WattWalkBackwards_swordsheathed_87
+  - first:
+      213: -8186376955525823734
+    second: WattWalkBackwards_swordsheathed_88
+  - first:
+      213: 195771030139267135
+    second: WattWalkBackwards_swordsheathed_89
+  - first:
+      213: -2711690738720116564
+    second: WattWalkBackwards_swordsheathed_90
+  - first:
+      213: -6632650498691691486
+    second: WattWalkBackwards_swordsheathed_91
+  - first:
+      213: 5416283057109931038
+    second: WattWalkBackwards_swordsheathed_92
+  - first:
+      213: 894493886457260264
+    second: WattWalkBackwards_swordsheathed_93
+  - first:
+      213: 1221530549996528990
+    second: WattWalkBackwards_swordsheathed_94_Left
+  - first:
+      213: 5418794323393927046
+    second: WattWalkBackwards_swordsheathed_95
+  - first:
+      213: 7694876720540329926
+    second: WattWalkBackwards_swordsheathed_96
+  - first:
+      213: -6341928507600875291
+    second: WattWalkBackwards_swordsheathed_97
+  - first:
+      213: -1930107687172387407
+    second: WattWalkBackwards_swordsheathed_98
+  - first:
+      213: 8900276720536933151
+    second: WattWalkBackwards_swordsheathed_99
+  - first:
+      213: -5456346125088628708
+    second: WattWalkBackwards_swordsheathed_100
+  - first:
+      213: -5579517767184487124
+    second: WattWalkBackwards_swordsheathed_101
+  - first:
+      213: 775415032468949076
+    second: WattWalkBackwards_swordsheathed_102
+  - first:
+      213: -6958716132214660572
+    second: WattWalkBackwards_swordsheathed_103
+  - first:
+      213: 6060886122191333951
+    second: WattWalkBackwards_swordsheathed_104
+  - first:
+      213: -5433270775534941519
+    second: WattWalkBackwards_swordsheathed_105
+  - first:
+      213: -9116114829097924640
+    second: WattWalkBackwards_swordsheathed_106
+  - first:
+      213: -1157933021789423669
+    second: WattWalkBackwards_swordsheathed_107
+  - first:
+      213: -8956470151033830457
+    second: WattWalkBackwards_swordsheathed_108
+  - first:
+      213: 3095225807127272374
+    second: WattWalkBackwards_swordsheathed_109
+  - first:
+      213: 7502426909952417155
+    second: WattWalkBackwards_swordsheathed_110_DiagBL
+  - first:
+      213: -3391770565436246456
+    second: WattWalkBackwards_swordsheathed_111
+  - first:
+      213: 1753024864939052888
+    second: WattWalkBackwards_swordsheathed_112
+  - first:
+      213: -7921369064139623093
+    second: WattWalkBackwards_swordsheathed_113
+  - first:
+      213: -4934344189512116432
+    second: WattWalkBackwards_swordsheathed_114
+  - first:
+      213: 5357775386162802811
+    second: WattWalkBackwards_swordsheathed_115
+  - first:
+      213: -7927581675562573922
+    second: WattWalkBackwards_swordsheathed_116
+  - first:
+      213: 56367332640998209
+    second: WattWalkBackwards_swordsheathed_117
+  - first:
+      213: 8448735557236451153
+    second: WattWalkBackwards_swordsheathed_118
+  - first:
+      213: 8583422100332735259
+    second: WattWalkBackwards_swordsheathed_119
+  - first:
+      213: -7905850963717719855
+    second: WattWalkBackwards_swordsheathed_120
+  - first:
+      213: 6587105726206471419
+    second: WattWalkBackwards_swordsheathed_121
+  - first:
+      213: -4016625419818840673
+    second: WattWalkBackwards_swordsheathed_122
+  - first:
+      213: 6415688854281329166
+    second: WattWalkBackwards_swordsheathed_123
+  - first:
+      213: -8126283086270495771
+    second: WattWalkBackwards_swordsheathed_124
+  - first:
+      213: -5635663743885570813
+    second: WattWalkBackwards_swordsheathed_125
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_0_Forward
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1973
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a4d8cde32bd3342a9f90743ebf7986
+      internalID: -6631692007413904940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1973
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af28bfd6ebc13b4d97be83e1f1b390f
+      internalID: 69477146574387546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1970
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c6ecd63efaa9741bab6ef85c5d939a
+      internalID: -8683668654374573576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1970
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4eae2b7f979b245a53dc358d4a4c86
+      internalID: -1354572397900874352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_4
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1971
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d599729b005e59243a5b1996e0537407
+      internalID: 1504147372241867315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_5
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1971
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613cdb581553ebd47b1a67b1db60999e
+      internalID: 5794541292913961340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_6
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1973
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256c5d4928b44aa45848bf8b0b030c74
+      internalID: -1298432855584107587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_7
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1973
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b085b40d118a8d949b0d72baee4b0a24
+      internalID: 7249561296041084477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_8
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1971
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a1ce84e3f84ec4b81af8bb3f10c6f2
+      internalID: 4651422833054474765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_9
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1971
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cdd38d16ff54d47980853887239cc1
+      internalID: 5111225039333909783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1825
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454b37b0693dac14d8b4d16aaaeb1919
+      internalID: -2814485147851776971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1825
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561f135ccd84bba4586bedc8d5e15e5e
+      internalID: -172123405229023290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_12
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1830
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713f40466ae2aee40acc4d5ff8d468b9
+      internalID: -1606715356621834859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_13
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1830
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ca11a6757d708499df07ceb40e7e79
+      internalID: 8490062074863991559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_14_DiagBR
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1828
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fdadff2e149ba478eed9d5933aac04
+      internalID: -2765274672575326213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_15
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1828
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05124099e34c31046b99e6b27efaf6e6
+      internalID: -7268370857701990320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_16
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1826
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b40294c785de79419a7a35c30925e0d
+      internalID: -4210669083124243249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_17
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1826
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9894bf193129f0e4d8f6b1bcc7172237
+      internalID: 1119927483278193278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_18
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1828
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fccc7859613014b94368cce77f4b02
+      internalID: 2605946992588065270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_19
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1828
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225c478ad00e01a4585651e15b087ce4
+      internalID: 1902849561596274355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1685
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783908cdefe9e364681831d68fb02923
+      internalID: -1141869198175237744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1685
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50659337ebd3bd41bab2f8516520eee
+      internalID: -7802024635676348385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_22
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1688
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048ff083cec02d84a80b08d0a43428ea
+      internalID: 5234723707464374851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_23
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1688
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23d59b86700a1141be7693f6b67fd68
+      internalID: -537635663149937914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_24
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1685
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615983673a8e1364fa1c695ff6d3a1b9
+      internalID: 8075593124817667923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_25
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1685
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8584b09a0a340b8419a36bedaa789687
+      internalID: 8997512715949597054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_26
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1686
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c2a9b3ca05785498c3161169254f8f
+      internalID: 575352899686816899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_27
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1686
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8418645826a374d99d7f33db5845b4
+      internalID: 4251757368753879973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_28
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1685
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e63d8277d042fe458ef37437cae59f4
+      internalID: 6624133103634367782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_29
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1685
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c959cae184729234cbdefeff4e57c02f
+      internalID: -938031972738552758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_30_Right
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1545
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774440bf11a0e0c4083b8b5b7e78dde4
+      internalID: 4988643968139502782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1545
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c035ba22762b14eb0332ca6dcef0c1
+      internalID: -4321231719822683758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_32
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1546
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9accdd138e7ce45a055734199bf52d
+      internalID: -8247906046484072159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_33
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1546
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e533c74a7659dd4b960c72fd06f15e1
+      internalID: -8545077423712668809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_34
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1548
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a68f52081ff9914ea45049d02b8e6d5
+      internalID: -5339319996527985245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_35
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1548
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5496679364ef25c4d8e5e036ba395101
+      internalID: 5939013986449443038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_36
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1548
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c1723f474e42245886f24b8f693e8b
+      internalID: 8917229064737027156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_37
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1548
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d612ff62cfd9348b5e0e0ee88646f9
+      internalID: 889923159245225415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_38
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1545
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50882fe85d56b2849991397f902cbdad
+      internalID: -5310656539407047460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_39
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1545
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c00647148cdd04a92f535886acc9a6
+      internalID: 8284159905086587653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_40
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1400
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaa406b29b58f948a9aafa04c87113b
+      internalID: 4631465858973149336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_41
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1400
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308174c66c58874418fde2c24cf50397
+      internalID: -7235573226623368096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_42
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1401
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2d101fd894a574f8722d1466f7d2e0
+      internalID: 4073916897484894287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_43
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1401
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013caadc2dd6a7a4d827cb3c3dafcbda
+      internalID: -4803163051264839933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_44
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1402
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba7ea793a8c7024ba91df04dbe536d4
+      internalID: -5234668416370188149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_45
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1402
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fc4bb808399be42b7376ba840322a0
+      internalID: 5690749375080005102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_46_DiagTR
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1404
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9f8d446555f924d8cce256bb3ea337
+      internalID: -5501162793600951472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_47
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1404
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f0405f9feba6045890fa87ff3bd744
+      internalID: 5165362483488680319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_48
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1402
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7b156b8e4872d4b870234e6107d1f3
+      internalID: 6266850502140874431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_49
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1402
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28235bf49ee975f4f8da71f523a767e8
+      internalID: 581343516237643028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1257
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06ee48409592794f89f8fce096571e2
+      internalID: -6341713279047160111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_51
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1257
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721254dae82ccf3409729855f9cacf1d
+      internalID: -4575256377552409588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_52
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1259
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49d1634dc8bec342b09f731347b810d
+      internalID: 6382810037038050789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_53
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1259
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef0e3aa16a818e4e979bf7ac465f93a
+      internalID: -8266889387302142524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_54
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1261
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03953da40dac32542a61df43c6ebb569
+      internalID: 9056753771781328753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_55
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1261
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65c4705fb1ab01479448e9056f8e7cf
+      internalID: -724016695811116746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_56
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1255
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c34445657031944bad4d6b3321fa63
+      internalID: 927939236380593112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_57
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1255
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048f92f6840d2ec439f37d23d382994b
+      internalID: -9010283238948683640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_58
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1259
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6332a15be9a04045b47e0a82ebe7d08
+      internalID: 3635738854764738199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_59
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1259
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb8e017ab424e143883ffc091ed8c60
+      internalID: -524515016492732448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_60_Away
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1120
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8c9c555708bf347903a5022bd4a358
+      internalID: -5924890032108624919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_61
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1120
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0f5f52ec9299443b0bb2ec32212001
+      internalID: -1944136183691513708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_62
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1116
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cdf00df0f04364a9f416d6fb2289c2
+      internalID: -2132971227858251127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_63
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1116
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfe6697dbcab3549b5c1b42450a0b90
+      internalID: 1385680845666488863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_64
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1112
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19efde2cdfd0fd147b423f88822baf7e
+      internalID: 8885780546637264889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_65
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1112
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fa5b85b889bf942b65725b5861af47
+      internalID: 1340241433096520253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_66
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1113
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cbc08b5e7e52f4984564aa144c25af
+      internalID: 2797621239532643669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_67
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1113
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db6f7eac75a76a429faeba8cc2489ea
+      internalID: -1286322817023131950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_68
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1116
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cd8185348351e4581d2e4254292f73
+      internalID: 900037951605751975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_69
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1116
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9baacc3c0c1b4c4faff0b510d56f94e
+      internalID: -4648893392775403058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_70
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 976
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02d7e893f9c4a047bd38611d5bf09d8
+      internalID: 4472052576963120928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_71
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 976
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54194c3e99f39a54ab8e15dcc3ba3b3c
+      internalID: 1273304237017303622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_72
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 971
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1f09259d84b0042a5f85ba3fb1cc44
+      internalID: -6657163416364298165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_73
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 971
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e7682378b15f34699957a1b8f7db97
+      internalID: 7278491571577633497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_74
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 974
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e71acaef855e4041a3bfc8389d71f7b
+      internalID: 8111559709703477956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_75
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 974
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c1e92bd3bc9074e86fee096c89642e
+      internalID: 792648650300592530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_76_DiagTL
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 977
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27cb6b909713c34c975e088d458b7fa
+      internalID: -184174062079854660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_77
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 977
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807222df76c8c0748ab58a7ac92ecef3
+      internalID: -8801591033045980137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_78
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 976
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32be9ae3d440a4f9e9fb0a4bf5204c
+      internalID: -8959764690719575694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_79
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 976
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d9a23d31c82b4fa4e44ef82c3e101
+      internalID: -8741226188080185401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_80
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 828
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b00894c2eec1645bcd578bb6ff40e7
+      internalID: -569293039185339579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_81
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 828
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a1e87035d9ff84c9aeda140e74dd76
+      internalID: 5400491067704252719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_82
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 825
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b1cd96afdc0e4490d1ed26269b31d
+      internalID: 7878937169154940595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_83
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 825
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa41bc1c0cdf4942b5ac7fd755a2e15
+      internalID: -539561208457384864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_84
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 829
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb555e12e7290fc4ead37688f92eb478
+      internalID: -3683851468331401804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_85
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 829
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39112e21d0f3eda47a1684c7fbe494dd
+      internalID: -6895062895282391889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_86
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 832
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46027777de072b048a6f506da9d00016
+      internalID: -8599749390412992935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_87
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 832
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d860f6def7c8de498ae0d9db706b1a9
+      internalID: -464153741399689756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_88
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 831
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dcf3289303090479cb83849073c45b
+      internalID: -8186376955525823734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_89
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 831
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15b353afb0fdaa4c891a0657753b16f
+      internalID: 195771030139267135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_90
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 690
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c1bfd34a92dac4888143f97f339283
+      internalID: -2711690738720116564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_91
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 690
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c2f2677395c8a4e96bf785f4a16828
+      internalID: -6632650498691691486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_92
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 690
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c9e87e454e6b4791a7f41bdca022b
+      internalID: 5416283057109931038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_93
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 690
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abfe0a47bcc21c43b0828955bd2fd32
+      internalID: 894493886457260264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_94_Left
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 686
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1044403848daded4098c866d2095480a
+      internalID: 1221530549996528990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_95
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 686
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb6476d6696ac448adfef1b089e103b
+      internalID: 5418794323393927046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_96
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 689
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dedaf66057c4f4ea8397eff11b0b96
+      internalID: 7694876720540329926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_97
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 689
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb91926e142431b4aacf25f5af726089
+      internalID: -6341928507600875291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_98
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 686
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16de60ba537de64691a0db84b4c1dbf
+      internalID: -1930107687172387407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_99
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 686
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76328d84f7c3c5d4c82c2f3b6b733cac
+      internalID: 8900276720536933151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 543
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a5698de195ec748ab71cb75044dfba
+      internalID: -5456346125088628708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 543
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681da9c0d9161104dbf99d32970de3ba
+      internalID: -5579517767184487124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_102
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 542
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7097f47c61f53914ab796a2d9ff95a62
+      internalID: 775415032468949076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_103
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 542
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0393703df3f5c24382048b17100633c
+      internalID: -6958716132214660572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_104
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 542
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d4c3a13a18c1d408fdc2651d7b4f69
+      internalID: 6060886122191333951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_105
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 542
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c9eeaa0360d364da98d5c9a6c67c78
+      internalID: -5433270775534941519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_106
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 543
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b053fcdf491f004fbf9813448533375
+      internalID: -9116114829097924640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_107
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 543
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f736f22053af36e4dac4aa4b4e098b7f
+      internalID: -1157933021789423669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_108
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 543
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59f4e45d2b61d947a671c0efaab7404
+      internalID: -8956470151033830457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_109
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 543
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc9fec725f41f24f9145008ed9eb815
+      internalID: 3095225807127272374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_110_DiagBL
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 399
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692ba1386aabc6941a697145436b3173
+      internalID: 7502426909952417155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_111
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 399
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca73871e67c49e540abe12afa4d0078b
+      internalID: -3391770565436246456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_112
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 397
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a32258ecd960740940e3d50e8a4aff
+      internalID: 1753024864939052888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_113
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 397
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43eee6de4b33bc49ab8493538c26422
+      internalID: -7921369064139623093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_114
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 396
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591f08026b486d649a50e4887e857025
+      internalID: -4934344189512116432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_115
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 396
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad9676702863a24cae9116a945430b0
+      internalID: 5357775386162802811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_116
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 400
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9d89a51aff3fa4a9061d8e30f82c3a
+      internalID: -7927581675562573922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_117
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 400
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2677f4e63e1e94ab69591501e2f120
+      internalID: 56367332640998209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_118
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 397
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbba12fed3d7e304ea8c6970ba3d6d8e
+      internalID: 8448735557236451153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_119
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 397
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e395ba9689f88541bc92790b3cc4f55
+      internalID: 8583422100332735259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_120
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 248
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b755352e90859742ad7d78749215236
+      internalID: -7905850963717719855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_121
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 248
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe340c320b5b3e74aa420839ee95a888
+      internalID: 6587105726206471419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_122
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 247
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb8be041bf2c37439e1d02da2cd8b69
+      internalID: -4016625419818840673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_123
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 247
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045dc59b64b78464cb7187d463dfacd3
+      internalID: 6415688854281329166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_124
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 256
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a757c25c4a78a479061f517ad07730
+      internalID: -8126283086270495771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WattWalkBackwards_swordsheathed_125
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 256
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026b5996fec7dbf48acf788449c543cc
+      internalID: -5635663743885570813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
