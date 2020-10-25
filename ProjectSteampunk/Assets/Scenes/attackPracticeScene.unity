@@ -286,7 +286,7 @@ Animator:
   m_GameObject: {fileID: 291702239}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b7296582b3db46a478397c7f2f03ce55, type: 2}
+  m_Controller: {fileID: 9100000, guid: 90ce552d6798739498df37aa75253cbb, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -899,14 +899,13 @@ MonoBehaviour:
   crossHair_Distance: 1
   endOfAiming: 0
   isAttacking: 0
-  attack: 0
-  AttackPenalty: 0
+  aimingBasePenalty: 0.5
   attackTimer: 0
   attackingTime: 1
-  hitNo: 0
   rb: {fileID: 1207067111}
   animator: {fileID: 291702242}
   collider: {fileID: 1207067112}
+  attackPrefab: {fileID: 0}
   movementBaseSpeed: 5
   health: 100
   ATK: 10
