@@ -27,7 +27,7 @@ public class PlayerControllerTemp : MonoBehaviour
     [Header("References")]
     public Rigidbody2D rb;
     public Animator animator;
-    public BoxCollider2D collider;
+    public BoxCollider2D theCollider;
 
     [Space]
     [Header("Prefabs")]

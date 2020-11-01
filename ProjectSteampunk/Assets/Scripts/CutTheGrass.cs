@@ -6,6 +6,7 @@ public class CutTheGrass : MonoBehaviour
 {
     public Animator animator;
     public Collider2D theCollider;
+    public bool isIdle = true;
 
 
     // Start is called before the first frame update
@@ -20,23 +21,25 @@ public class CutTheGrass : MonoBehaviour
         
     }
 
-    private void OnCollisionEnter(Collision other)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("Is detecting Collision");
-        if(other.gameObject.CompareTag("damageBox"))
+        if (collision.gameObject.CompareTag("damageBox") && isIdle)
         {
+
             animator.SetBool("beenHit", true);
             theCollider.enabled = false;
+            isIdle = false;
             StartCoroutine(regrowing());
-            Debug.Log("Should be cutting.");
         }
     }
 
     IEnumerator regrowing()
     {
-        yield return new WaitForSeconds(10);
+        yield return new WaitForSeconds(5);
         animator.SetBool("beenHit", false);
         regrow();
+        yield return new WaitForSeconds(1);
+        animator.SetBool("timeToRegrow", false);
     }
 
     private void regrow()
@@ -49,5 +52,7 @@ public class CutTheGrass : MonoBehaviour
     private void returnToIdle()
     {
         animator.SetBool("idle", true);
+        isIdle = true;
+        
     }
 }
