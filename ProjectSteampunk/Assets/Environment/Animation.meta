@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fileFormatVersion: 2
 guid: 1b092bf34297790439422435e68021e7
 folderAsset: yes
@@ -6,3 +7,17 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+=======
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 050ce7e51eaa6c449b19aa83d87a7190
+=======
+guid: ae543046df89f2343adfdcacb8cbd231
+>>>>>>> walk-with-diagonal-and-attack
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> 88bedb55ad68bb08ba9f967d6b17fa8158ab8ebc

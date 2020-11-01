@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fileFormatVersion: 2
 guid: db3528937f88c4a448030b2ad29db3c5
 folderAsset: yes
@@ -6,3 +7,17 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+=======
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: a1c7f160991da3647a0fa5eb97b782f8
+=======
+guid: 97fd897e5a1a9534fa9a6de2728d347b
+>>>>>>> Tilemapping-practice
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> 88bedb55ad68bb08ba9f967d6b17fa8158ab8ebc
