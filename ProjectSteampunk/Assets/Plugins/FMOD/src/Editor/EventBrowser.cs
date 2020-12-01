@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using UnityEditor;
 using UnityEngine;
@@ -306,7 +307,6 @@ namespace FMODUnity
 
                 if (item.Expanded || !string.IsNullOrEmpty(searchString))
                 {
-                    item.Children.Sort((a, b) => a.Name.CompareTo(b.Name));
                     if (item.Name.ToLower().Contains(searchString.ToLower()))
                     {
                         foreach(var childFolder in item.Children)
@@ -570,9 +570,7 @@ namespace FMODUnity
             }
             EditorGUILayout.EndHorizontal();
 
-            StringBuilder builder = new StringBuilder();
-            selectedEvent.Banks.ForEach((x) => { builder.Append(Path.GetFileNameWithoutExtension(x.Path)); builder.Append(", "); });
-            EditorGUILayout.LabelField("Banks", builder.ToString(0, Math.Max(0, builder.Length - 2)), style);
+            EditorGUILayout.LabelField("Banks", string.Join(", ", selectedEvent.Banks.Select(x => x.Name).ToArray()), style);
 
             EditorGUILayout.BeginHorizontal();
             EditorGUILayout.LabelField("Panning", selectedEvent.Is3D ? "3D" : "2D", style);
@@ -848,7 +846,17 @@ namespace FMODUnity
                             }
                             item.Name = split[i];
                             level.Add(item);
-                            level.Sort((a, b) => a.EventRef != b.EventRef ? (a.EventRef != null ? 1 : -1) : a.Name.CompareTo(b.Name));
+                            level.Sort((a, b) => {
+                                    if ((a.EventRef == null) != (b.EventRef == null))
+                                    {
+                                        // Folders have EventRef == null, and go first in the list
+                                        return a.EventRef == null ? -1 : 1;
+                                    }
+                                    else
+                                    {
+                                        return EditorUtility.NaturalCompare(a.Name, b.Name);
+                                    }
+                                });
                             level = item.Children;
                         }
                         item.Exists = true;
@@ -878,7 +886,7 @@ namespace FMODUnity
                     }
                     item.Exists = true;
                 }
-                children.Sort((a, b) => a.Name.CompareTo(b.Name));
+                children.Sort((a, b) => EditorUtility.NaturalCompare(a.Name, b.Name));
 
                 removeStaleChildren(treeItems[(int)TreeType.Banks]);
             }
@@ -903,7 +911,7 @@ namespace FMODUnity
                     }
                     item.Exists = true;
                 }
-                children.Sort((a, b) => a.Name.CompareTo(b.Name));
+                children.Sort((a, b) => EditorUtility.NaturalCompare(a.Name, b.Name));
 
                 removeStaleChildren(treeItems[(int)TreeType.GlobalParameters]);
             }

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.01.00">
-	<object class="Bank" id="{0e794b78-ba54-41e1-bbf9-b627ee798779}">
+<objects serializationModel="Studio.02.00.00">
+	<object class="Bank" id="{470ca2cc-8ccb-48aa-8875-7074b4a3d588}">
 		<property name="name">
 			<value>Master</value>
 		</property>
@@ -8,7 +8,7 @@
 			<value>true</value>
 		</property>
 		<relationship name="folder">
-			<destination>{e7c2c2e7-38d8-42af-9587-423a3d8f65b7}</destination>
+			<destination>{5cf753f5-68e3-4089-a28e-009f4f9251b4}</destination>
 		</relationship>
 	</object>
 </objects>

@@ -211,7 +211,14 @@ namespace FMODUnity
 
             #if UNITY_EDITOR || DEVELOPMENT_BUILD
             result = FMOD.Debug.Initialize(fmodSettings.LoggingLevel, FMOD.DEBUG_MODE.CALLBACK, DEBUG_CALLBACK, null);
-            CheckInitResult(result, "FMOD.Debug.Initialize");
+            if(result == FMOD.RESULT.ERR_UNSUPPORTED)
+            {
+                Debug.LogWarning("[FMOD] Unable to initialize debug logging: Logging will be disabled.\nCheck the Import Settings of the FMOD libs to enable the logging library.");
+            }
+            else
+            {
+                CheckInitResult(result, "FMOD.Debug.Initialize");
+            }
             #endif
 
             FMOD.Studio.INITFLAGS studioInitFlags = FMOD.Studio.INITFLAGS.NORMAL | FMOD.Studio.INITFLAGS.DEFERRED_CALLBACKS;
@@ -735,10 +742,12 @@ retry:
                 string bankPath = RuntimeUtils.GetBankPath(bankName);
                 FMOD.RESULT loadResult;
 
-                #if !UNITY_EDITOR
-                #if UNITY_ANDROID && !UNITY_2018_OR_NEWER
-                if (!bankPath.StartsWith("file:///android_asset"))
+                #if UNITY_ANDROID && !UNITY_EDITOR 
+                if (Settings.Instance.AndroidUseOBB)
                 {
+                    #if UNITY_2018_1_OR_NEWER
+                    Instance.StartCoroutine(Instance.loadFromWeb(bankPath, bankName, loadSamples));
+                    #else
                     using (var www = new WWW(bankPath))
                     {
                         while (!www.isDone) { }
@@ -753,16 +762,16 @@ retry:
                             Instance.loadedBankRegister(loadedBank, bankPath, bankName, loadSamples, loadResult);
                         }
                     }
+                    #endif
                 }
                 else
-                #elif UNITY_ANDROID || UNITY_WEBGL
-                if (bankPath.Contains("://"))
+                #elif UNITY_WEBGL && !UNITY_EDITOR
+                if (bankPath.Contains("http://"))
                 {
                     Instance.StartCoroutine(Instance.loadFromWeb(bankPath, bankName, loadSamples));
                 }
                 else
-                #endif // UNITY_ANDROID || UNITY_WEBGL
-                #endif // !UNITY_EDITOR
+                #endif // (UNITY_ANDROID || UNITY_WEBGL) && !UNITY_EDITOR
                 {
                     LoadedBank loadedBank = new LoadedBank();
                     loadResult = Instance.studioSystem.loadBankFile(bankPath, FMOD.Studio.LOAD_BANK_FLAGS.NORMAL, out loadedBank.Bank);
@@ -1115,7 +1124,7 @@ retry:
 
         public static bool HasBankLoaded(string loadedBank)
         {
-            return (instance.loadedBanks.ContainsKey(loadedBank));
+            return (Instance.loadedBanks.ContainsKey(loadedBank));
         }
 
         private void LoadPlugins(Settings fmodSettings)

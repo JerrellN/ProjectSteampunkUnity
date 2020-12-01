@@ -324,15 +324,7 @@ namespace FMODUnity
                 bankFolder = global::System.IO.Path.Combine(bankFolder, Settings.Instance.GetBankPlatform(FMODPlatform.PlayInEditor));
             } 
             #elif UNITY_ANDROID
-            string bankFolder = null;
-            if (System.IO.Path.GetExtension(Application.dataPath) == ".apk")
-            {
-                bankFolder = "file:///android_asset";
-            }
-            else
-            {
-                bankFolder = String.Format("jar:file://{0}!/assets", Application.dataPath);
-            }
+            string bankFolder = Settings.Instance.AndroidUseOBB ? Application.streamingAssetsPath : "file:///android_asset";
             #elif UNITY_WINRT_8_1 || UNITY_WSA_10_0
             string bankFolder = "ms-appx:///Data/StreamingAssets";
             #else
@@ -376,10 +368,28 @@ namespace FMODUnity
                 string pluginFolder = Application.dataPath + fmodLibPath + "/win/X86/";
             #elif UNITY_EDITOR_OSX
                 string pluginFolder = Application.dataPath + fmodLibPath + "/mac/";
-            #elif UNITY_STANDALONE_WIN || UNITY_PS4 || UNITY_XBOXONE || UNITY_STANDALONE_OSX || UNITY_WEBGL
+            #elif UNITY_EDITOR_LINUX && UNITY_EDITOR_64
+                string pluginFolder = Application.dataPath + fmodLibPath + "/linux/x86_64/";
+            #elif UNITY_EDITOR_LINUX
+                string pluginFolder = Application.dataPath + fmodLibPath + "/linux/x86/";
+            #elif UNITY_STANDALONE_WIN
+                #if UNITY_2019_1_OR_NEWER
+                    #if UNITY_64
+                        string pluginFolder = Application.dataPath + "/Plugins/X86_64/";
+                    #else
+                        string pluginFolder = Application.dataPath + "/Plugins/X86/";
+                    #endif
+                #else
+                    string pluginFolder = Application.dataPath + "/Plugins/";
+                #endif
+            #elif UNITY_PS4 || UNITY_XBOXONE || UNITY_STANDALONE_OSX || UNITY_WEBGL
                 string pluginFolder = Application.dataPath + "/Plugins/";
             #elif UNITY_STANDALONE_LINUX
-                string pluginFolder = Application.dataPath + fmodLibPath + ((IntPtr.Size == 8) ? "/linux/x86_64/" : "/linux/x86/");
+                #if UNITY_2019_1_OR_NEWER
+                    string pluginFolder = Application.dataPath + "/Plugins/";
+                #else
+                    string pluginFolder = Application.dataPath + "/Plugins/" + ((IntPtr.Size == 8) ? "x86_64/" : "x86/");
+                #endif
             #elif UNITY_WSA || UNITY_ANDROID
                 string pluginFolder = "";
             #else
