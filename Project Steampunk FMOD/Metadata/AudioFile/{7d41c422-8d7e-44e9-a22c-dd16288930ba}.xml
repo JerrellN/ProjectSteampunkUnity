@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{7d41c422-8d7e-44e9-a22c-dd16288930ba}">
+		<property name="assetPath">
+			<value>FX/Watt/Rock Impact/Rock Wall Impact.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.04</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{31332fac-42f4-482f-be2d-395e58cc5f42}</destination>
+		</relationship>
+	</object>
+</objects>

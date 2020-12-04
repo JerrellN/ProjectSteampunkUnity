@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{c5ac4615-04d7-4ee8-bf53-c4feec33cbd9}">
+		<property name="assetPath">
+			<value>FX/Watt/Rock Wall Push_Dry.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.2373333333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{31332fac-42f4-482f-be2d-395e58cc5f42}</destination>
+		</relationship>
+	</object>
+</objects>
