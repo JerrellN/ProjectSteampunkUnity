@@ -21,7 +21,7 @@ MonoBehaviour:
   - {fileID: 257280475630901812}
   StringsBanks:
   - {fileID: 855088701726160634}
-  stringsBankWriteTime: 637424374620000000
+  stringsBankWriteTime: 637426939350000000
   cacheVersion: 4
 --- !u!114 &257280475630901812
 MonoBehaviour:
@@ -37,7 +37,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Path: ../Project Steampunk FMOD/Build/Desktop/Master.bank
   Name: Master
-  lastModified: 637424374620000000
+  lastModified: 637426939350000000
   LoadResult: 0
   FileSizes: []
   Exists: 1
@@ -55,7 +55,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Path: ../Project Steampunk FMOD/Build/Desktop/Master.strings.bank
   Name: Master.strings
-  lastModified: 637424374620000000
+  lastModified: 637426939350000000
   LoadResult: 0
   FileSizes:
   - Name: Desktop
