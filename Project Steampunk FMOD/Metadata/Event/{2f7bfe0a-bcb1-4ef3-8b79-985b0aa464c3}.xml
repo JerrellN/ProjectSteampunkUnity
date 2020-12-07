@@ -31,6 +31,9 @@
 		<relationship name="timeline">
 			<destination>{45ebb209-e6c0-4330-8078-52c0438b2ff2}</destination>
 		</relationship>
+		<relationship name="banks">
+			<destination>{470ca2cc-8ccb-48aa-8875-7074b4a3d588}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixer" id="{6d1f765f-a675-414b-9bdb-11a1fb7abbac}">
 		<relationship name="masterBus">
@@ -131,10 +134,11 @@
 	</object>
 	<object class="SingleSound" id="{d38b834d-9801-46f6-94e2-6e76946ffc53}">
 		<property name="volume">
-			<value>-3</value>
+			<value>-3.5</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{bf874731-2253-43ac-b564-d1676ccf2b37}</destination>
+			<destination>{691159e2-6418-4941-82b9-8c17d1fbbf38}</destination>
 		</relationship>
 		<relationship name="audioFile">
 			<destination>{f7dd7d99-d55d-4816-bb33-d65efdc0cd31}</destination>
@@ -142,7 +146,7 @@
 	</object>
 	<object class="SingleSound" id="{4a1e8967-e6b5-4f36-89a5-eb37c2be4dba}">
 		<property name="volume">
-			<value>-3</value>
+			<value>-1</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{1e0bbba6-32b5-40c5-b6c2-68a7d499a450}</destination>
@@ -167,12 +171,17 @@
 			<value>8</value>
 		</property>
 	</object>
+	<object class="RandomizerModulator" id="{691159e2-6418-4941-82b9-8c17d1fbbf38}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+	</object>
 	<object class="RandomizerModulator" id="{1e0bbba6-32b5-40c5-b6c2-68a7d499a450}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>volume</value>
 		</property>
 		<property name="amount">
-			<value>8.80000019</value>
+			<value>9.19999981</value>
 		</property>
 	</object>
 	<object class="ThreeEQEffect" id="{414a811b-fb33-4acb-a02b-2dbee54b7457}">

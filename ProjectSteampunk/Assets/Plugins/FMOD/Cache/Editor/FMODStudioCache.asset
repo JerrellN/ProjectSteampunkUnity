@@ -1,5 +1,51 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5710514582342934733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Objects/Grass Cut
+  m_EditorClassIdentifier: 
+  Path: event:/Objects/Grass Cut
+  guid: 335b0499ac6cd4449ddbf6e321084eda
+  Banks:
+  - {fileID: 257280475630901812}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 938
+--- !u!114 &-2614825039982217734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/Watt_Basic Attack
+  m_EditorClassIdentifier: 
+  Path: event:/Player/Watt_Basic Attack
+  guid: 0afe7b2fb1bcf34e8b79985b0aa464c3
+  Banks:
+  - {fileID: 257280475630901812}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1000
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15,13 +61,16 @@ MonoBehaviour:
   EditorBanks:
   - {fileID: 855088701726160634}
   - {fileID: 257280475630901812}
-  EditorEvents: []
+  EditorEvents:
+  - {fileID: -2614825039982217734}
+  - {fileID: -5710514582342934733}
+  - {fileID: 6995470796865683762}
   EditorParameters: []
   MasterBanks:
   - {fileID: 257280475630901812}
   StringsBanks:
   - {fileID: 855088701726160634}
-  stringsBankWriteTime: 637426939350000000
+  stringsBankWriteTime: 637429515630000000
   cacheVersion: 4
 --- !u!114 &257280475630901812
 MonoBehaviour:
@@ -37,7 +86,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Path: ../Project Steampunk FMOD/Build/Desktop/Master.bank
   Name: Master
-  lastModified: 637426939350000000
+  lastModified: 637429515630000000
   LoadResult: 0
   FileSizes: []
   Exists: 1
@@ -55,9 +104,32 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Path: ../Project Steampunk FMOD/Build/Desktop/Master.strings.bank
   Name: Master.strings
-  lastModified: 637426939350000000
+  lastModified: 637429515630000000
   LoadResult: 0
   FileSizes:
   - Name: Desktop
-    Value: 688
+    Value: 864
   Exists: 1
+--- !u!114 &6995470796865683762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/Forest/Ambience
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/Forest/Ambience
+  guid: cc599b222b1e094b9974f8e936b65e97
+  Banks:
+  - {fileID: 257280475630901812}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 331265
