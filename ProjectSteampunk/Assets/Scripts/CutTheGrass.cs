@@ -25,7 +25,7 @@ public class CutTheGrass : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("damageBox") && isIdle)
         {
-
+            Debug.Log("sword hit grass");
             animator.SetBool("beenHit", true);
             theCollider.enabled = false;
             isIdle = false;

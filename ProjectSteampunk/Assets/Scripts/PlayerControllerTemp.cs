@@ -29,7 +29,7 @@ public class PlayerControllerTemp : MonoBehaviour
 
     [Space]
     [Header("Prefabs")]
-    public GameObject attackPrefab;
+    //public GameObject attackPrefab;
 
 
     [Space]
@@ -115,7 +115,7 @@ public class PlayerControllerTemp : MonoBehaviour
 
         if (endOfAiming)
         {
-            GameObject arrow = Instantiate(attackPrefab, transform.position, Quaternion.identity);
+            //GameObject arrow = Instantiate(attackPrefab, transform.position, Quaternion.identity);
         }
     }
 }

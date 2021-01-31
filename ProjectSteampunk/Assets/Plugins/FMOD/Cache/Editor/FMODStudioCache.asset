@@ -65,12 +65,13 @@ MonoBehaviour:
   - {fileID: -2614825039982217734}
   - {fileID: -5710514582342934733}
   - {fileID: 6995470796865683762}
+  - {fileID: 5926778286527401642}
   EditorParameters: []
   MasterBanks:
   - {fileID: 257280475630901812}
   StringsBanks:
   - {fileID: 855088701726160634}
-  stringsBankWriteTime: 637429520240000000
+  stringsBankWriteTime: 637477057830000000
   cacheVersion: 4
 --- !u!114 &257280475630901812
 MonoBehaviour:
@@ -86,7 +87,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Path: ../Project Steampunk FMOD/Build/Desktop/Master.bank
   Name: Master
-  lastModified: 637429520240000000
+  lastModified: 637477057830000000
   LoadResult: 0
   FileSizes: []
   Exists: 1
@@ -104,12 +105,35 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Path: ../Project Steampunk FMOD/Build/Desktop/Master.strings.bank
   Name: Master.strings
-  lastModified: 637429520240000000
+  lastModified: 637477057830000000
   LoadResult: 0
   FileSizes:
   - Name: Desktop
-    Value: 864
+    Value: 916
   Exists: 1
+--- !u!114 &5926778286527401642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/Footsteps
+  m_EditorClassIdentifier: 
+  Path: event:/Player/Footsteps
+  guid: 51ee91b94751834ebde560546b310a45
+  Banks:
+  - {fileID: 257280475630901812}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 550
 --- !u!114 &6995470796865683762
 MonoBehaviour:
   m_ObjectHideFlags: 0

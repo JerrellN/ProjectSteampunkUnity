@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{d17a92a0-c8c9-414f-a5d5-29711f65ecbc}">
+		<property name="assetPath">
+			<value>Flutes Dry.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>38.399999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{31332fac-42f4-482f-be2d-395e58cc5f42}</destination>
+		</relationship>
+	</object>
+</objects>
