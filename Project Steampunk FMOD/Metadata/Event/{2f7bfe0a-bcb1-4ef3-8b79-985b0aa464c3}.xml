@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{2f7bfe0a-bcb1-4ef3-8b79-985b0aa464c3}">
 		<property name="name">
 			<value>Watt_Basic Attack</value>
@@ -195,18 +195,18 @@
 			<value>5500</value>
 		</property>
 		<relationship name="modulators">
-			<destination>{93713cb9-18ad-4a6b-a8f6-800ee1dbb1d3}</destination>
-			<destination>{de64ae26-0f7b-43fe-9052-5922bfb7b501}</destination>
 			<destination>{0183c27b-de97-40b8-b093-aaefd7eff3f5}</destination>
+			<destination>{de64ae26-0f7b-43fe-9052-5922bfb7b501}</destination>
+			<destination>{93713cb9-18ad-4a6b-a8f6-800ee1dbb1d3}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{0acd7769-54bd-43b1-96cd-61add4942cfb}" />
-	<object class="RandomizerModulator" id="{93713cb9-18ad-4a6b-a8f6-800ee1dbb1d3}">
+	<object class="RandomizerModulator" id="{0183c27b-de97-40b8-b093-aaefd7eff3f5}">
 		<property name="nameOfPropertyBeingModulated">
-			<value>lowGain</value>
+			<value>highGain</value>
 		</property>
 		<property name="amount">
-			<value>3.5</value>
+			<value>5.5</value>
 		</property>
 	</object>
 	<object class="RandomizerModulator" id="{de64ae26-0f7b-43fe-9052-5922bfb7b501}">
@@ -217,12 +217,12 @@
 			<value>2.5</value>
 		</property>
 	</object>
-	<object class="RandomizerModulator" id="{0183c27b-de97-40b8-b093-aaefd7eff3f5}">
+	<object class="RandomizerModulator" id="{93713cb9-18ad-4a6b-a8f6-800ee1dbb1d3}">
 		<property name="nameOfPropertyBeingModulated">
-			<value>highGain</value>
+			<value>lowGain</value>
 		</property>
 		<property name="amount">
-			<value>5.5</value>
+			<value>3.5</value>
 		</property>
 	</object>
 </objects>

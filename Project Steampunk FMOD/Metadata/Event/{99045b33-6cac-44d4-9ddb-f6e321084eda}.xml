@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{99045b33-6cac-44d4-9ddb-f6e321084eda}">
 		<property name="name">
 			<value>Grass Cut</value>
@@ -104,7 +104,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{65cfc2c4-5458-4235-8c67-59171e4dc3d9}">
 		<property name="volume">
-			<value>4</value>
+			<value>10</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>

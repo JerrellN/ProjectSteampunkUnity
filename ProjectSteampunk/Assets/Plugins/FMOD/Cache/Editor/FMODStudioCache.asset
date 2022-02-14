@@ -1,5 +1,39 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8626301619879514892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: Flutes
+  m_EditorClassIdentifier: 
+  Name: Flutes
+  Min: 0
+  Max: 2
+  Default: 0
+  Exists: 1
+--- !u!114 &-8154693717106592572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: BG Vox
+  m_EditorClassIdentifier: 
+  Name: BG Vox
+  Min: 0
+  Max: 1
+  Default: 0
+  Exists: 1
 --- !u!114 &-5710514582342934733
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23,6 +57,40 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 938
+--- !u!114 &-5691241092062438228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: Melody
+  m_EditorClassIdentifier: 
+  Name: Melody
+  Min: 0
+  Max: 2
+  Default: 1
+  Exists: 1
+--- !u!114 &-3095192877889287573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: Health
+  m_EditorClassIdentifier: 
+  Name: Health
+  Min: 0
+  Max: 100
+  Default: 100
+  Exists: 1
 --- !u!114 &-2614825039982217734
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66,12 +134,17 @@ MonoBehaviour:
   - {fileID: -5710514582342934733}
   - {fileID: 6995470796865683762}
   - {fileID: 5926778286527401642}
-  EditorParameters: []
+  EditorParameters:
+  - {fileID: -5691241092062438228}
+  - {fileID: 1521126537183976003}
+  - {fileID: -8154693717106592572}
+  - {fileID: -8626301619879514892}
+  - {fileID: -3095192877889287573}
   MasterBanks:
   - {fileID: 257280475630901812}
   StringsBanks:
   - {fileID: 855088701726160634}
-  stringsBankWriteTime: 637477057830000000
+  stringsBankWriteTime: 637800384640000000
   cacheVersion: 4
 --- !u!114 &257280475630901812
 MonoBehaviour:
@@ -87,7 +160,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Path: ../Project Steampunk FMOD/Build/Desktop/Master.bank
   Name: Master
-  lastModified: 637477057830000000
+  lastModified: 637800384640000000
   LoadResult: 0
   FileSizes: []
   Exists: 1
@@ -105,11 +178,28 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Path: ../Project Steampunk FMOD/Build/Desktop/Master.strings.bank
   Name: Master.strings
-  lastModified: 637477057830000000
+  lastModified: 637800384640000000
   LoadResult: 0
   FileSizes:
   - Name: Desktop
-    Value: 916
+    Value: 1172
+  Exists: 1
+--- !u!114 &1521126537183976003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: Strings
+  m_EditorClassIdentifier: 
+  Name: Strings
+  Min: 0
+  Max: 1
+  Default: 0
   Exists: 1
 --- !u!114 &5926778286527401642
 MonoBehaviour:
@@ -128,7 +218,7 @@ MonoBehaviour:
   Banks:
   - {fileID: 257280475630901812}
   IsStream: 0
-  Is3D: 0
+  Is3D: 1
   IsOneShot: 1
   Parameters: []
   MinDistance: 0

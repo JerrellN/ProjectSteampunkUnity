@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{7b199c15-6515-4579-b5b4-c21df886450c}">
+		<property name="name">
+			<value>BG Vox</value>
+		</property>
+		<relationship name="folder">
+			<destination>{2af12ab1-8b5e-4607-8664-f20d1ee6f696}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{221f4982-59a2-4e8b-8673-6f9fe8eee614}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{221f4982-59a2-4e8b-8673-6f9fe8eee614}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{c1699508-7cb1-48a5-a5d7-32e61dccd591}</destination>
+		</relationship>
+	</object>
+	<object class="RandomizerModulator" id="{c1699508-7cb1-48a5-a5d7-32e61dccd591}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>cursorPosition</value>
+		</property>
+		<property name="amount">
+			<value>39</value>
+		</property>
+	</object>
+</objects>
